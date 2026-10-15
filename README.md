@@ -1,5 +1,7 @@
 # Orchestralize
 
+<img src="/Users/haru/Projects/杂活/Orchestralize/assets/icon.png" style="zoom:33%;" />
+
 这是一个面向歌曲改编、配器与风格转换的 Agent Skill。入口为 [SKILL.md](SKILL.md)，技能标识为 `orchestralize`，显示名称为 **Orchestralize**。
 
 例如，你可以指定一首网上可以搜到的乐谱的音乐，直接一句话让 AI 生成一个现代交响版本 / 大合奏版本，或者生成赛博朋克的 80 年代风格版本等。

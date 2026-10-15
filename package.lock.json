@@ -17,8 +17,8 @@
         "sha256": "db98177fe7de5af44c6003d3f4779163f313eacba5f3b6b09e98cc718f7433fa"
       },
       "agents/openai.yaml": {
-        "bytes": 307,
-        "sha256": "279a3945548c4d9d859661313f15e09d7c5cf7ae3b0ba7e284c25be388bc7374"
+        "bytes": 375,
+        "sha256": "8289aebea9b5065ed5ee82fb6abf303584d5bd9d6e3fecde61f1fbfe07276d90"
       },
       "assets/demo-project.json": {
         "bytes": 20282,
@@ -295,6 +295,10 @@
       "tests/test_pipeline.py": {
         "bytes": 14405,
         "sha256": "a1e4762df9bd13cc867b3ca8b2914a9244361ec3919aa8b225340548e105f0e8"
+      },
+      "assets/icon.png": {
+        "bytes": 62933,
+        "sha256": "e579546d6e7798b7bfd75d9f2dcad5624c246a6a559ad5acf4948692d50d2c6b"
       }
     }
   }

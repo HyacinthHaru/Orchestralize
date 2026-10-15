@@ -198,5 +198,16 @@
     "Only current macOS runtime and this native sfizz build were executed; other platforms require local tests.",
     "Automated transcription, acoustic aesthetics, arbitrary-song quality and full historical case cold-start were not certified.",
     "Complex sampler keyswitch/pitch-bend and engraved score generation require project-specific/native tools as documented."
-  ]
+  ],
+  "compact_release_validation": {
+    "date": "2026-10-15",
+    "source_code_and_midi_musicxml_unchanged": true,
+    "json_values_unchanged": true,
+    "pdf_pages": 22,
+    "pdf_text_drawing_operations_exact": true,
+    "audio_decoded_seconds": 281.06666666666666,
+    "audio_stereo": true,
+    "audio_finite_no_clipping": true,
+    "scope": "Technical preservation checks; no new subjective listening certification."
+  }
 }

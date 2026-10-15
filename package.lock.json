@@ -1,28 +1,43 @@
 {
   "schema_version": 1,
   "algorithm": "sha256",
-  "exclusions": [],
+  "exclusions": [
+    ".git/*",
+    "*/__pycache__/*"
+  ],
   "roots": {
     "skill": {
+      ".DS_Store": {
+        "bytes": 16388,
+        "sha256": "8118d97e199b967a8100f76d28a6e74a24eaa5100a826b510dea7cf3926c8347"
+      },
       "README.md": {
-        "bytes": 1848,
-        "sha256": "983ab698dea64dce27b56592de7d8873e6dc26d1a056a2786b2f604c7d879a05"
+        "bytes": 3055,
+        "sha256": "b75c0faffa98f40e37249a907900bf10b1dab39a9f0dcf19d1b19abbfa491e86"
       },
       "SKILL.md": {
         "bytes": 6617,
         "sha256": "dca1819ba59ec45ddb1543d058c2fb7972c8e407c819e80c72d4c104c3806f16"
       },
       "VALIDATION.json": {
-        "bytes": 5691,
-        "sha256": "db98177fe7de5af44c6003d3f4779163f313eacba5f3b6b09e98cc718f7433fa"
+        "bytes": 6114,
+        "sha256": "da4e627f2dea0514c983eb595db0d5be850fad16c18b6921be19bd61c5b9450d"
       },
       "agents/openai.yaml": {
         "bytes": 375,
         "sha256": "8289aebea9b5065ed5ee82fb6abf303584d5bd9d6e3fecde61f1fbfe07276d90"
       },
+      "assets/.DS_Store": {
+        "bytes": 8196,
+        "sha256": "dd968e40bee6eafb56680be1f73b9300a7477e195de04de8e1d612a259c99075"
+      },
       "assets/demo-project.json": {
         "bytes": 20282,
         "sha256": "f5181515d9b7fea6b4b07a84cb8a5d84ca5b271cbdd3c025d0f341cb3b7be478"
+      },
+      "assets/icon.png": {
+        "bytes": 60697,
+        "sha256": "48654e20bc1ba7a38d5bd9262fc001de47c086b020ba870690b2948182533385"
       },
       "assets/style-profiles.json": {
         "bytes": 2579,
@@ -36,29 +51,37 @@
         "bytes": 754,
         "sha256": "b268d0470a0000ace8da480cf88e2e8c0d99d7b9fb8aa9a6147bbeab2b13bed1"
       },
+      "references/.DS_Store": {
+        "bytes": 8196,
+        "sha256": "5a3d799931974069b561320c9e68823a66eb50afd5f4202d07bc9584a3c1d99b"
+      },
       "references/arrangement.md": {
         "bytes": 2883,
         "sha256": "3225aee6555772da59abed2c73cd3d4d68b0ca3d2d331e10ecd25caee0225841"
       },
+      "references/case-study/.DS_Store": {
+        "bytes": 8196,
+        "sha256": "9008ccc2748caeae0161216611a5f63a1ab942e6cf2d2b71cc05f69ebd029330"
+      },
       "references/case-study/canonical-performance-baseline.json": {
-        "bytes": 193619,
-        "sha256": "c277873e10f4b411c41d476b022e7df2cea73e9c1bd70468b404fb87263a4818"
+        "bytes": 109704,
+        "sha256": "8e0f1668e65b1f8d8ebed387e93c8a5a53ab803a91bb9e56b4317b250291efc6"
       },
       "references/case-study/case-files.json": {
-        "bytes": 10124,
-        "sha256": "169dee0322e1d1519235bad603702ba04ab316b53dee83528694108f2f91680d"
+        "bytes": 12253,
+        "sha256": "b66f59f7a1c076154a9c1fded4af27365441968149036671b8cc93c7ec1e1ab5"
       },
       "references/case-study/grand-orchestral/MIDI_validation.json": {
-        "bytes": 178729,
-        "sha256": "ab19c3bbb48c059e3c7bf540d1ca90f58ca6533f54b91649700fb443729d7916"
+        "bytes": 115132,
+        "sha256": "9b58748246cbd3d3ef1bebb796f75dd347978887e3eae4cde6daba3d10b07e7f"
       },
       "references/case-study/grand-orchestral/Sekai_Grand_Symphonic_v11.mid": {
         "bytes": 785624,
         "sha256": "c052045f2eb20bee27e52273092a2674fbad809cdacbcd02eb7d478872e98ffb"
       },
       "references/case-study/grand-orchestral/Sekai_Grand_Symphonic_v11.mp3": {
-        "bytes": 11245617,
-        "sha256": "573f2c3408c5ed332ffacb72eb7b054027b13928cb4f6eb3441f6c98bcd3a21e"
+        "bytes": 2249240,
+        "sha256": "f962371e2085dfeb01c88afecfdd536af946f4dfbb81dcceb56760ddadd7a1a8"
       },
       "references/case-study/grand-orchestral/Sekai_Grand_Symphonic_v11.musicxml": {
         "bytes": 4774458,
@@ -69,8 +92,8 @@
         "sha256": "73580deed6fb6b3437ce626521201dd2910df155de6820fcb9077a79976b0a88"
       },
       "references/case-study/grand-orchestral/Sekai_Grand_Symphonic_v11_Score.pdf": {
-        "bytes": 22530319,
-        "sha256": "1e162024194bed8aeee83b47d78d25ba338721e8fa3e146f49361f45187ef8df"
+        "bytes": 1297932,
+        "sha256": "e6d6e51f60391665e6366009dc077d7906ecb1388d5726e7e5dd689bfc8b9266"
       },
       "references/case-study/grand-orchestral/arrangement_changes.json": {
         "bytes": 2053,
@@ -81,8 +104,8 @@
         "sha256": "8b40227b2a2df7cc5c2c70cd448bb9a7acf029bc11f20a2e66f4b6c44680dd4e"
       },
       "references/case-study/grand-orchestral/historical-project.json": {
-        "bytes": 23325591,
-        "sha256": "23882e42b34b51cdff0b3b062d498e9146ffd733ce04f0a94e53560371762c5e"
+        "bytes": 9243014,
+        "sha256": "c33cc7b81b47f17103d18471e15033400e79cbeb5840f311b0886c575d0a97a9"
       },
       "references/case-study/grand-orchestral/instrument_map.csv": {
         "bytes": 3875,
@@ -109,20 +132,20 @@
         "sha256": "fd26bcb336a671c8f6c293de5bdb1948a319a07f19aa3b7c4a758c522f196950"
       },
       "references/case-study/grand-orchestral/mix_report.json": {
-        "bytes": 188417,
-        "sha256": "0431f8f89489a7d1ae27867d1a49bb67f4b1f49d7ea3b4a46cb6213d6761de4d"
+        "bytes": 114535,
+        "sha256": "0ef8b5fede4a75fe4058b3afc51ab9da5fcb52a1d476a5b921c09d51599d31b6"
       },
       "references/case-study/grand-orchestral/render_report.json": {
-        "bytes": 147919,
-        "sha256": "cc0c4af857b2dc13dd5cb50239bd9c04fe4de821c3566267f7518a87bd1d538a"
+        "bytes": 111259,
+        "sha256": "90c3820d03c6fe764251b78368c8200f94511b202d5d0f30b1d8e5cfcad3f473"
       },
       "references/case-study/grand-orchestral/score_validation.json": {
         "bytes": 1670,
         "sha256": "3b9482daf930b4a73942dac4ef4cabe721863b1dd4ea5a726bd4dcbd3ea6298f"
       },
       "references/case-study/historical-asset-checksums.json": {
-        "bytes": 1146885,
-        "sha256": "b707d2f7276946d4303691cedbe40ff555c6ef357b73c4ef1c36aee64320e3fd"
+        "bytes": 1006065,
+        "sha256": "15d28a57f43c81168ed4c0c991e8b3cdc65568988b59c34247a42da65e1b8255"
       },
       "references/case-study/historical-runtime-observed.json": {
         "bytes": 4556,
@@ -141,20 +164,20 @@
         "sha256": "bf0d9e8bab46a105bb2f1fcf6fda12651c3eb1e0ebceabdc4993cebd03ce3e0b"
       },
       "references/case-study/retro-electronic/MIDI_validation.json": {
-        "bytes": 373910,
-        "sha256": "d26ffa2fe0e0bd719f23802b6f71de803bda73511e765cfacf25fce069752183"
+        "bytes": 174211,
+        "sha256": "2a4bef6207291474ca3add36f2ab8b2834e2ba8bb82d06d556890b31293e67b0"
       },
       "references/case-study/retro-electronic/Native_Instrument_Mapping.json": {
-        "bytes": 274060,
-        "sha256": "0545b27efc03bdfa7f3f488dcecbb14ebb3d77e1823f29f38f79e2625bc4c0d0"
+        "bytes": 132659,
+        "sha256": "7955cb46086c32de5631b0dd0627c77615f4251d1f77840fd5b84c1e1f44c60c"
       },
       "references/case-study/retro-electronic/Sekai_NeoTokyo_198X_v12.mid": {
         "bytes": 122918,
         "sha256": "2a0832f25d0178940a171af48f7ebeda905aaff3b84e647626dad803873df5e0"
       },
       "references/case-study/retro-electronic/Sekai_NeoTokyo_198X_v12.mp3": {
-        "bytes": 11245625,
-        "sha256": "d12fc37305a3f6bfb64b01522e68e8a4106cb0e095a2c1a858446a0c1bbc6b5a"
+        "bytes": 2249238,
+        "sha256": "60c41c2e9557bcbdfbc55a50fc188653fd697a555bf4cea3c1e3efa303e37a96"
       },
       "references/case-study/retro-electronic/Sekai_NeoTokyo_198X_v12.musicxml": {
         "bytes": 5387398,
@@ -165,8 +188,8 @@
         "sha256": "c1049362f6d4276c6c24386e3f28ad51e1c7c891cb4b79abb9ae97eabdfa51db"
       },
       "references/case-study/retro-electronic/Sekai_NeoTokyo_198X_v12_Score.pdf": {
-        "bytes": 28356852,
-        "sha256": "7cbbe0a18e80db97e7c6842dff48eb72303d644b174532b0c5db9001f535b3b1"
+        "bytes": 1414601,
+        "sha256": "508bb3750fb18a9eebf682cb9d35430d1324bae490f0214a30321fc4e170614f"
       },
       "references/case-study/retro-electronic/arrangement_changes.json": {
         "bytes": 629,
@@ -177,8 +200,8 @@
         "sha256": "82fef0dc1d80b63a03c82fcf3f22c699cd087ce39de4a30db14ed23e48109cb4"
       },
       "references/case-study/retro-electronic/historical-project.json": {
-        "bytes": 8668186,
-        "sha256": "2cda1e945a88a215c616b0de72bbe9ca83a06e066f0c81f3a79601bcdf6d5e4b"
+        "bytes": 3792927,
+        "sha256": "07f2960c762184cc68e5cbe2953b86d5c630af7978bd7318da0b01730d847e40"
       },
       "references/case-study/retro-electronic/instrument_map.csv": {
         "bytes": 4781,
@@ -193,8 +216,8 @@
         "sha256": "a19d58aaab15c4d0019e569d1c073d1b5286fdd37dbeee7a58a7d1ae76045ae1"
       },
       "references/case-study/retro-electronic/mix_report.json": {
-        "bytes": 407756,
-        "sha256": "4c874619db3f306aecefdb2966602263f41a5a61f8e792cb7142e0855a0c93a2"
+        "bytes": 229434,
+        "sha256": "f75dc9cdbf2e0c1d61ae4868595f78b648434cb03d00fa5efa2d54d691e51030"
       },
       "references/case-study/retro-electronic/notation_fidelity.json": {
         "bytes": 1769,
@@ -225,8 +248,8 @@
         "sha256": "4b3509dd877b4c6cf1f2b3d9535c59f42cb769bb1970fc085c0abc6f20fecf13"
       },
       "references/case-study.md": {
-        "bytes": 5914,
-        "sha256": "481a58d597ef5a8080842f8614fcb349fa4fa838a028af50a07cda2f653bc260"
+        "bytes": 6283,
+        "sha256": "fc030d9c2af51b4e61e49ce198d20d66b7250969a824cc03380f471307b2e9af"
       },
       "references/dependencies.md": {
         "bytes": 6157,
@@ -295,10 +318,6 @@
       "tests/test_pipeline.py": {
         "bytes": 14405,
         "sha256": "a1e4762df9bd13cc867b3ca8b2914a9244361ec3919aa8b225340548e105f0e8"
-      },
-      "assets/icon.png": {
-        "bytes": 62933,
-        "sha256": "e579546d6e7798b7bfd75d9f2dcad5624c246a6a559ad5acf4948692d50d2c6b"
       }
     }
   }

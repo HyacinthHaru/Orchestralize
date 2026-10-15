@@ -9,7 +9,7 @@
 | 大型交响v11 | [完整MP3](case-study/grand-orchestral/Sekai_Grand_Symphonic_v11.mp3)、[MIDI](case-study/grand-orchestral/Sekai_Grand_Symphonic_v11.mid)、[原生映射MIDI](case-study/grand-orchestral/Sekai_Grand_Symphonic_v11_Native_Mapped.mid)、[MusicXML](case-study/grand-orchestral/Sekai_Grand_Symphonic_v11.musicxml)、[PDF](case-study/grand-orchestral/Sekai_Grand_Symphonic_v11_Score.pdf) | 80个实际音乐声部，独立divisi/内声、清亮旋律支撑、按段落发展的合奏规模 |
 | 复古电子v12 | [完整MP3](case-study/retro-electronic/Sekai_NeoTokyo_198X_v12.mp3)、[MIDI](case-study/retro-electronic/Sekai_NeoTokyo_198X_v12.mid)、[原生映射MIDI](case-study/retro-electronic/Sekai_NeoTokyo_198X_v12_Native_Mapped.mid)、[MusicXML](case-study/retro-electronic/Sekai_NeoTokyo_198X_v12.musicxml)、[PDF](case-study/retro-electronic/Sekai_NeoTokyo_198X_v12_Score.pdf) | 同一底稿重配为64部：61部DSP、2吉他、1sax；21种电子预设与独立效果设计 |
 
-各目录还有历史project、instrument map、mix/render/score/MIDI/音频质量报告。音频、MIDI和曲谱保留原文件；JSON/CSV中的原电脑位置已改为历史逻辑标签。文件校验见[case-files.json](case-study/case-files.json)。原WAV只保留hash，不在包里；完整试听为原交付MP3。没有将原唱、伴奏、采样payload或历史全量分轨打包。
+各目录还有历史project、instrument map、mix/render/score/MIDI/音频质量报告。MIDI与MusicXML保留原文件；本轻量包的完整MP3试听改为从已核对无损母带单次编码的64kbps立体声版本。PDF保留矢量、页面尺寸和全部文本绘图指令，通过图形复用及小于0.01pt的坐标精简压缩；JSON仅去掉排版空白，解析后的内容不变。JSON/CSV中的原电脑位置已改为历史逻辑标签。文件校验见[case-files.json](case-study/case-files.json)。原WAV只保留hash，不在包里；完整试听为轻量MP3，不代表原交付音质。压缩前的完整文件备份保存在本任务临时目录、发布包之外。没有将原唱、伴奏、采样payload或历史全量分轨打包。
 
 ## 制作过程与关键修订
 

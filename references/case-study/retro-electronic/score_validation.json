@@ -1,0 +1,78 @@
+{
+  "parts": 64,
+  "staves": 66,
+  "measures": 115,
+  "part_measures": 7360,
+  "staff_measures": 7590,
+  "concert_pitch": true,
+  "musicxml_bar_errors": [],
+  "pitched_parts_checked": 56,
+  "pitched_parts_notation_differences": [],
+  "canonical_680_full_event_fields_equal_v11": true,
+  "canonical_carrier_counts": {
+    "01": 116,
+    "02": 294,
+    "03": 145,
+    "04": 125
+  },
+  "canonical_roles": {
+    "source_instrumental_pickup": 4,
+    "melody": 673,
+    "vocal_pickup": 2,
+    "vocal_only_first_intro2": 1
+  },
+  "canonical_musicxml_logical_note_count": 680,
+  "additional_ensemble_excluded_from_canonical": [
+    "05",
+    "06"
+  ],
+  "ensemble_shadow_logical_note_count": 680,
+  "shadow_overlay_measures": [
+    14,
+    56
+  ],
+  "shadow_overlay_notation": "Voice 1 A5 at 0 for 4 beats; voice 2 E4 at 3.5 for 0.5 beat; no source truncation.",
+  "keyboard_grand_staves": {
+    "25": {
+      "staves": 2,
+      "pitched_notes": 896
+    },
+    "26": {
+      "staves": 2,
+      "pitched_notes": 908
+    }
+  },
+  "score_only_bass_clef_overrides": [
+    "13",
+    "14",
+    "15",
+    "28",
+    "35",
+    "36",
+    "41",
+    "44",
+    "45"
+  ],
+  "slurs": 212,
+  "hairpins": 876,
+  "pdf_pages": 11,
+  "pdf_size": "A1 portrait",
+  "pdf_qa": {
+    "all_pages_rendered": true,
+    "contact_sheet": "tmp/orchestral-v12/pdf-qa/contact.png",
+    "full_resolution_pages": [
+      2,
+      3,
+      5,
+      6,
+      9,
+      10
+    ],
+    "footer_clearance_verified": true,
+    "content_uniform_scale": 0.98,
+    "staff_unit": 5.8,
+    "max_staff_svg_y": 76794.0,
+    "staff_svg_y_limit": 81950,
+    "layout_errors": []
+  }
+}

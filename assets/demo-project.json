@@ -1,0 +1,988 @@
+{
+  "schema_version": 1,
+  "title": "Original portable test study",
+  "seed": 72,
+  "sources": [],
+  "timing": {
+    "tempo_map": [
+      {
+        "beat": 0,
+        "bpm": 112
+      },
+      {
+        "beat": 8,
+        "bpm": 90
+      },
+      {
+        "beat": 14,
+        "bpm": 136
+      },
+      {
+        "beat": 19,
+        "bpm": 104
+      }
+    ],
+    "meter_map": [
+      {
+        "beat": 0,
+        "numerator": 4,
+        "denominator": 4
+      },
+      {
+        "beat": 8,
+        "numerator": 3,
+        "denominator": 4
+      },
+      {
+        "beat": 14,
+        "numerator": 5,
+        "denominator": 8
+      },
+      {
+        "beat": 19,
+        "numerator": 4,
+        "denominator": 4
+      }
+    ],
+    "end_beat": 23,
+    "offset_seconds": 0.1,
+    "tail_seconds": 1
+  },
+  "identity": {
+    "reviewed": true,
+    "review_notes": [],
+    "transpose_semitones": 0,
+    "events": [
+      {
+        "id": "s0",
+        "pitch": 60,
+        "start": 0,
+        "duration": 1,
+        "kind": "theme"
+      },
+      {
+        "id": "s1",
+        "pitch": 64,
+        "start": 1,
+        "duration": 0.5,
+        "kind": "theme"
+      },
+      {
+        "id": "s2",
+        "pitch": 67,
+        "start": 1.5,
+        "duration": 0.5,
+        "kind": "theme"
+      },
+      {
+        "id": "s3",
+        "pitch": 62,
+        "start": 2,
+        "duration": 2,
+        "kind": "theme"
+      },
+      {
+        "id": "s4",
+        "pitch": 64,
+        "start": 4,
+        "duration": 0.75,
+        "kind": "theme"
+      },
+      {
+        "id": "s5",
+        "pitch": 67,
+        "start": 4.75,
+        "duration": 0.25,
+        "kind": "theme"
+      },
+      {
+        "id": "s6",
+        "pitch": 67,
+        "start": 5,
+        "duration": 1,
+        "kind": "theme"
+      },
+      {
+        "id": "s7",
+        "pitch": 71,
+        "start": 6,
+        "duration": 0.5,
+        "kind": "theme"
+      },
+      {
+        "id": "s8",
+        "pitch": 69,
+        "start": 6.5,
+        "duration": 1.5,
+        "kind": "theme"
+      },
+      {
+        "id": "s9",
+        "pitch": 69,
+        "start": 8,
+        "duration": 1,
+        "kind": "theme"
+      },
+      {
+        "id": "s10",
+        "pitch": 72,
+        "start": 9,
+        "duration": 1,
+        "kind": "theme"
+      },
+      {
+        "id": "s11",
+        "pitch": 76,
+        "start": 10,
+        "duration": 1,
+        "kind": "theme"
+      },
+      {
+        "id": "s12",
+        "pitch": 74,
+        "start": 11,
+        "duration": 1,
+        "kind": "theme"
+      },
+      {
+        "id": "s13",
+        "pitch": 71,
+        "start": 12,
+        "duration": 2,
+        "kind": "theme"
+      },
+      {
+        "id": "s14",
+        "pitch": 65,
+        "start": 14,
+        "duration": 1.5,
+        "kind": "theme"
+      },
+      {
+        "id": "s15",
+        "pitch": 64,
+        "start": 15.5,
+        "duration": 1,
+        "kind": "theme"
+      },
+      {
+        "id": "s16",
+        "pitch": 67,
+        "start": 16.5,
+        "duration": 1,
+        "kind": "theme"
+      },
+      {
+        "id": "s17",
+        "pitch": 62,
+        "start": 17.5,
+        "duration": 1.5,
+        "kind": "theme"
+      },
+      {
+        "id": "s18",
+        "pitch": 64,
+        "start": 19,
+        "duration": 1,
+        "kind": "theme"
+      },
+      {
+        "id": "s19",
+        "pitch": 62,
+        "start": 20,
+        "duration": 1,
+        "kind": "theme"
+      },
+      {
+        "id": "s20",
+        "pitch": 60,
+        "start": 21,
+        "duration": 2,
+        "kind": "theme"
+      }
+    ],
+    "harmony": [
+      {
+        "id": "h0",
+        "start": 0,
+        "end": 4,
+        "concert_symbol": "C",
+        "source_label": "C",
+        "pcs": [
+          0,
+          4,
+          7
+        ],
+        "bass_pc": 0
+      },
+      {
+        "id": "h1",
+        "start": 4,
+        "end": 8,
+        "concert_symbol": "Am7",
+        "source_label": "Am7",
+        "pcs": [
+          9,
+          0,
+          4,
+          7
+        ],
+        "bass_pc": 9
+      },
+      {
+        "id": "h2",
+        "start": 8,
+        "end": 11,
+        "concert_symbol": "Fmaj9",
+        "source_label": "Fmaj9",
+        "pcs": [
+          5,
+          9,
+          0,
+          4,
+          7
+        ],
+        "bass_pc": 5
+      },
+      {
+        "id": "h3",
+        "start": 11,
+        "end": 14,
+        "concert_symbol": "G7/D",
+        "source_label": "G7/D",
+        "pcs": [
+          7,
+          11,
+          2,
+          5
+        ],
+        "bass_pc": 2
+      },
+      {
+        "id": "h4",
+        "start": 14,
+        "end": 16.5,
+        "concert_symbol": "Dm7",
+        "source_label": "Dm7",
+        "pcs": [
+          2,
+          5,
+          9,
+          0
+        ],
+        "bass_pc": 2
+      },
+      {
+        "id": "h5",
+        "start": 16.5,
+        "end": 19,
+        "concert_symbol": "G7",
+        "source_label": "G7",
+        "pcs": [
+          7,
+          11,
+          2,
+          5
+        ],
+        "bass_pc": 7
+      },
+      {
+        "id": "h6",
+        "start": 19,
+        "end": 23,
+        "concert_symbol": "Cmaj9",
+        "source_label": "Cmaj9",
+        "pcs": [
+          0,
+          4,
+          7,
+          11,
+          2
+        ],
+        "bass_pc": 0
+      }
+    ],
+    "form": [
+      {
+        "id": "theme",
+        "start": 0,
+        "end": 8,
+        "label": "Theme"
+      },
+      {
+        "id": "response",
+        "start": 8,
+        "end": 19,
+        "label": "Response"
+      },
+      {
+        "id": "close",
+        "start": 19,
+        "end": 23,
+        "label": "Close"
+      }
+    ]
+  },
+  "style": {
+    "name": "electronic",
+    "intent": "Test only: different electronic palettes, not acoustic sound-quality certification"
+  },
+  "parts": [
+    {
+      "id": "lead",
+      "name": "Theme",
+      "role": "melody",
+      "instrument": {
+        "backend": "dsp",
+        "patch": "fm_lead",
+        "range": [
+          24,
+          108
+        ],
+        "gm_program": 0,
+        "polyphonic": true
+      },
+      "notes": [
+        {
+          "id": "n_s0",
+          "source_id": "s0",
+          "source_primary": true,
+          "pitch": 60,
+          "start": 0,
+          "duration": 1,
+          "velocity": 83,
+          "performance": {
+            "gate_ratio": 0.93
+          }
+        },
+        {
+          "id": "n_s1",
+          "source_id": "s1",
+          "source_primary": true,
+          "pitch": 64,
+          "start": 1,
+          "duration": 0.5,
+          "velocity": 83,
+          "performance": {
+            "gate_ratio": 0.93
+          }
+        },
+        {
+          "id": "n_s2",
+          "source_id": "s2",
+          "source_primary": true,
+          "pitch": 67,
+          "start": 1.5,
+          "duration": 0.5,
+          "velocity": 83,
+          "performance": {
+            "gate_ratio": 0.93
+          }
+        },
+        {
+          "id": "n_s3",
+          "source_id": "s3",
+          "source_primary": true,
+          "pitch": 62,
+          "start": 2,
+          "duration": 2,
+          "velocity": 83,
+          "performance": {
+            "gate_ratio": 0.93
+          }
+        },
+        {
+          "id": "n_s4",
+          "source_id": "s4",
+          "source_primary": true,
+          "pitch": 64,
+          "start": 4,
+          "duration": 0.75,
+          "velocity": 83,
+          "performance": {
+            "gate_ratio": 0.93
+          }
+        },
+        {
+          "id": "n_s5",
+          "source_id": "s5",
+          "source_primary": true,
+          "pitch": 67,
+          "start": 4.75,
+          "duration": 0.25,
+          "velocity": 83,
+          "performance": {
+            "gate_ratio": 0.93
+          }
+        },
+        {
+          "id": "n_s6",
+          "source_id": "s6",
+          "source_primary": true,
+          "pitch": 67,
+          "start": 5,
+          "duration": 1,
+          "velocity": 83,
+          "performance": {
+            "gate_ratio": 0.93
+          }
+        },
+        {
+          "id": "n_s7",
+          "source_id": "s7",
+          "source_primary": true,
+          "pitch": 71,
+          "start": 6,
+          "duration": 0.5,
+          "velocity": 83,
+          "performance": {
+            "gate_ratio": 0.93
+          }
+        },
+        {
+          "id": "n_s8",
+          "source_id": "s8",
+          "source_primary": true,
+          "pitch": 69,
+          "start": 6.5,
+          "duration": 1.5,
+          "velocity": 83,
+          "performance": {
+            "gate_ratio": 0.93
+          }
+        },
+        {
+          "id": "n_s9",
+          "source_id": "s9",
+          "source_primary": true,
+          "pitch": 69,
+          "start": 8,
+          "duration": 1,
+          "velocity": 83,
+          "performance": {
+            "gate_ratio": 0.93
+          }
+        },
+        {
+          "id": "n_s10",
+          "source_id": "s10",
+          "source_primary": true,
+          "pitch": 72,
+          "start": 9,
+          "duration": 1,
+          "velocity": 83,
+          "performance": {
+            "gate_ratio": 0.93
+          }
+        },
+        {
+          "id": "n_s11",
+          "source_id": "s11",
+          "source_primary": true,
+          "pitch": 76,
+          "start": 10,
+          "duration": 1,
+          "velocity": 83,
+          "performance": {
+            "gate_ratio": 0.93
+          }
+        },
+        {
+          "id": "n_s12",
+          "source_id": "s12",
+          "source_primary": true,
+          "pitch": 74,
+          "start": 11,
+          "duration": 1,
+          "velocity": 83,
+          "performance": {
+            "gate_ratio": 0.93
+          }
+        },
+        {
+          "id": "n_s13",
+          "source_id": "s13",
+          "source_primary": true,
+          "pitch": 71,
+          "start": 12,
+          "duration": 2,
+          "velocity": 83,
+          "performance": {
+            "gate_ratio": 0.93
+          }
+        },
+        {
+          "id": "n_s14",
+          "source_id": "s14",
+          "source_primary": true,
+          "pitch": 65,
+          "start": 14,
+          "duration": 1.5,
+          "velocity": 83,
+          "performance": {
+            "gate_ratio": 0.93
+          }
+        },
+        {
+          "id": "n_s15",
+          "source_id": "s15",
+          "source_primary": true,
+          "pitch": 64,
+          "start": 15.5,
+          "duration": 1,
+          "velocity": 83,
+          "performance": {
+            "gate_ratio": 0.93
+          }
+        },
+        {
+          "id": "n_s16",
+          "source_id": "s16",
+          "source_primary": true,
+          "pitch": 67,
+          "start": 16.5,
+          "duration": 1,
+          "velocity": 83,
+          "performance": {
+            "gate_ratio": 0.93
+          }
+        },
+        {
+          "id": "n_s17",
+          "source_id": "s17",
+          "source_primary": true,
+          "pitch": 62,
+          "start": 17.5,
+          "duration": 1.5,
+          "velocity": 83,
+          "performance": {
+            "gate_ratio": 0.93
+          }
+        },
+        {
+          "id": "n_s18",
+          "source_id": "s18",
+          "source_primary": true,
+          "pitch": 64,
+          "start": 19,
+          "duration": 1,
+          "velocity": 83,
+          "performance": {
+            "gate_ratio": 0.93
+          }
+        },
+        {
+          "id": "n_s19",
+          "source_id": "s19",
+          "source_primary": true,
+          "pitch": 62,
+          "start": 20,
+          "duration": 1,
+          "velocity": 83,
+          "performance": {
+            "gate_ratio": 0.93
+          }
+        },
+        {
+          "id": "n_s20",
+          "source_id": "s20",
+          "source_primary": true,
+          "pitch": 60,
+          "start": 21,
+          "duration": 2,
+          "velocity": 83,
+          "performance": {
+            "gate_ratio": 0.93
+          }
+        }
+      ],
+      "cc": [
+        {
+          "beat": 0,
+          "number": 11,
+          "value": 90
+        },
+        {
+          "beat": 19,
+          "number": 11,
+          "value": 108
+        }
+      ],
+      "mix": {
+        "gain_db": -5,
+        "pan": -0.3,
+        "sends_db": {
+          "space": -14
+        }
+      }
+    },
+    {
+      "id": "inner0",
+      "name": "inner0",
+      "role": "harmony",
+      "instrument": {
+        "backend": "dsp",
+        "patch": "warm_pad",
+        "range": [
+          24,
+          108
+        ],
+        "gm_program": 0,
+        "polyphonic": true
+      },
+      "notes": [
+        {
+          "id": "inner0_h0",
+          "pitch": 72,
+          "start": 0,
+          "duration": 4,
+          "velocity": 65,
+          "harmony_id": "h0",
+          "constraint": "chord_tone"
+        },
+        {
+          "id": "inner0_h1",
+          "pitch": 72,
+          "start": 4,
+          "duration": 4,
+          "velocity": 65,
+          "harmony_id": "h1",
+          "constraint": "chord_tone"
+        },
+        {
+          "id": "inner0_h2",
+          "pitch": 72,
+          "start": 8,
+          "duration": 3,
+          "velocity": 65,
+          "harmony_id": "h2",
+          "constraint": "chord_tone"
+        },
+        {
+          "id": "inner0_h3",
+          "pitch": 71,
+          "start": 11,
+          "duration": 3,
+          "velocity": 65,
+          "harmony_id": "h3",
+          "constraint": "chord_tone"
+        },
+        {
+          "id": "inner0_h4",
+          "pitch": 72,
+          "start": 14,
+          "duration": 2.5,
+          "velocity": 65,
+          "harmony_id": "h4",
+          "constraint": "chord_tone"
+        },
+        {
+          "id": "inner0_h5",
+          "pitch": 71,
+          "start": 16.5,
+          "duration": 2.5,
+          "velocity": 65,
+          "harmony_id": "h5",
+          "constraint": "chord_tone"
+        },
+        {
+          "id": "inner0_h6",
+          "pitch": 72,
+          "start": 19,
+          "duration": 4,
+          "velocity": 65,
+          "harmony_id": "h6",
+          "constraint": "chord_tone"
+        }
+      ],
+      "cc": [],
+      "mix": {
+        "gain_db": -5,
+        "pan": -0.15,
+        "sends_db": {
+          "space": -14
+        }
+      }
+    },
+    {
+      "id": "inner1",
+      "name": "inner1",
+      "role": "harmony",
+      "instrument": {
+        "backend": "dsp",
+        "patch": "warm_pad",
+        "range": [
+          24,
+          108
+        ],
+        "gm_program": 0,
+        "polyphonic": true
+      },
+      "notes": [
+        {
+          "id": "inner1_h0",
+          "pitch": 64,
+          "start": 0,
+          "duration": 4,
+          "velocity": 65,
+          "harmony_id": "h0",
+          "constraint": "chord_tone"
+        },
+        {
+          "id": "inner1_h1",
+          "pitch": 64,
+          "start": 4,
+          "duration": 4,
+          "velocity": 65,
+          "harmony_id": "h1",
+          "constraint": "chord_tone"
+        },
+        {
+          "id": "inner1_h2",
+          "pitch": 64,
+          "start": 8,
+          "duration": 3,
+          "velocity": 65,
+          "harmony_id": "h2",
+          "constraint": "chord_tone"
+        },
+        {
+          "id": "inner1_h3",
+          "pitch": 65,
+          "start": 11,
+          "duration": 3,
+          "velocity": 65,
+          "harmony_id": "h3",
+          "constraint": "chord_tone"
+        },
+        {
+          "id": "inner1_h4",
+          "pitch": 65,
+          "start": 14,
+          "duration": 2.5,
+          "velocity": 65,
+          "harmony_id": "h4",
+          "constraint": "chord_tone"
+        },
+        {
+          "id": "inner1_h5",
+          "pitch": 65,
+          "start": 16.5,
+          "duration": 2.5,
+          "velocity": 65,
+          "harmony_id": "h5",
+          "constraint": "chord_tone"
+        },
+        {
+          "id": "inner1_h6",
+          "pitch": 64,
+          "start": 19,
+          "duration": 4,
+          "velocity": 65,
+          "harmony_id": "h6",
+          "constraint": "chord_tone"
+        }
+      ],
+      "cc": [],
+      "mix": {
+        "gain_db": -5,
+        "pan": 0.0,
+        "sends_db": {
+          "space": -14
+        }
+      }
+    },
+    {
+      "id": "inner2",
+      "name": "inner2",
+      "role": "harmony",
+      "instrument": {
+        "backend": "dsp",
+        "patch": "warm_pad",
+        "range": [
+          24,
+          108
+        ],
+        "gm_program": 0,
+        "polyphonic": true
+      },
+      "notes": [
+        {
+          "id": "inner2_h0",
+          "pitch": 55,
+          "start": 0,
+          "duration": 4,
+          "velocity": 65,
+          "harmony_id": "h0",
+          "constraint": "chord_tone"
+        },
+        {
+          "id": "inner2_h1",
+          "pitch": 55,
+          "start": 4,
+          "duration": 4,
+          "velocity": 65,
+          "harmony_id": "h1",
+          "constraint": "chord_tone"
+        },
+        {
+          "id": "inner2_h2",
+          "pitch": 55,
+          "start": 8,
+          "duration": 3,
+          "velocity": 65,
+          "harmony_id": "h2",
+          "constraint": "chord_tone"
+        },
+        {
+          "id": "inner2_h3",
+          "pitch": 55,
+          "start": 11,
+          "duration": 3,
+          "velocity": 65,
+          "harmony_id": "h3",
+          "constraint": "chord_tone"
+        },
+        {
+          "id": "inner2_h4",
+          "pitch": 53,
+          "start": 14,
+          "duration": 2.5,
+          "velocity": 65,
+          "harmony_id": "h4",
+          "constraint": "chord_tone"
+        },
+        {
+          "id": "inner2_h5",
+          "pitch": 55,
+          "start": 16.5,
+          "duration": 2.5,
+          "velocity": 65,
+          "harmony_id": "h5",
+          "constraint": "chord_tone"
+        },
+        {
+          "id": "inner2_h6",
+          "pitch": 55,
+          "start": 19,
+          "duration": 4,
+          "velocity": 65,
+          "harmony_id": "h6",
+          "constraint": "chord_tone"
+        }
+      ],
+      "cc": [],
+      "mix": {
+        "gain_db": -5,
+        "pan": 0.15,
+        "sends_db": {
+          "space": -14
+        }
+      }
+    },
+    {
+      "id": "bass",
+      "name": "Bass",
+      "role": "bass",
+      "instrument": {
+        "backend": "dsp",
+        "patch": "sub_bass",
+        "range": [
+          24,
+          108
+        ],
+        "gm_program": 0,
+        "polyphonic": true
+      },
+      "notes": [
+        {
+          "id": "bass_h0",
+          "pitch": 36,
+          "start": 0,
+          "duration": 4,
+          "velocity": 74,
+          "harmony_id": "h0",
+          "constraint": "bass"
+        },
+        {
+          "id": "bass_h1",
+          "pitch": 45,
+          "start": 4,
+          "duration": 4,
+          "velocity": 74,
+          "harmony_id": "h1",
+          "constraint": "bass"
+        },
+        {
+          "id": "bass_h2",
+          "pitch": 41,
+          "start": 8,
+          "duration": 3,
+          "velocity": 74,
+          "harmony_id": "h2",
+          "constraint": "bass"
+        },
+        {
+          "id": "bass_h3",
+          "pitch": 38,
+          "start": 11,
+          "duration": 3,
+          "velocity": 74,
+          "harmony_id": "h3",
+          "constraint": "bass"
+        },
+        {
+          "id": "bass_h4",
+          "pitch": 38,
+          "start": 14,
+          "duration": 2.5,
+          "velocity": 74,
+          "harmony_id": "h4",
+          "constraint": "bass"
+        },
+        {
+          "id": "bass_h5",
+          "pitch": 43,
+          "start": 16.5,
+          "duration": 2.5,
+          "velocity": 74,
+          "harmony_id": "h5",
+          "constraint": "bass"
+        },
+        {
+          "id": "bass_h6",
+          "pitch": 36,
+          "start": 19,
+          "duration": 4,
+          "velocity": 74,
+          "harmony_id": "h6",
+          "constraint": "bass"
+        }
+      ],
+      "cc": [],
+      "mix": {
+        "gain_db": -5,
+        "pan": 0.3,
+        "sends_db": {
+          "space": -14
+        }
+      }
+    }
+  ],
+  "mix": {
+    "effects": [
+      {
+        "id": "space",
+        "type": "plate",
+        "parameters": {
+          "decay_seconds": 0.45,
+          "predelay_ms": 12
+        },
+        "return_db": -4
+      }
+    ],
+    "master_gain_db": 0,
+    "true_peak_ceiling_dbfs": -1,
+    "fade_seconds": null
+  }
+}

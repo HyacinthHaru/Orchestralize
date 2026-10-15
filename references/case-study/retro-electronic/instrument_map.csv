@@ -1,0 +1,65 @@
+ID,Part,Family,Port,Channel,Engine,Patch,GM fallback,Pan
+01,FM Glass Theme,leads,1,1,Original Offline DSP,fm_lead,81,-0.035
+02,Analog Poly Theme,leads,1,2,Original Offline DSP,analog_lead,81,0.035
+03,Warm Pulse Theme,leads,1,3,Original Offline DSP,analog_lead,80,-0.025
+04,Velvet FM Theme,leads,1,4,Original Offline DSP,fm_lead,85,0.025
+05,Ensemble Theme Shadow,leads,1,5,Original Offline DSP,analog_ensemble,50,-0.12
+06,Neon Octave Tutti,leads,1,6,Original Offline DSP,fm_lead,81,0.12
+07,High Saw Strings,analog_strings,1,7,Original Offline DSP,analog_ensemble,50,-0.78
+08,Middle Saw Strings,analog_strings,1,8,Original Offline DSP,analog_ensemble,51,-0.6
+09,Lower Pulse Strings,analog_strings,1,9,Original Offline DSP,analog_ensemble,50,-0.38
+10,Right High Strings,analog_strings,1,11,Original Offline DSP,analog_ensemble,51,0.72
+11,Right Middle Strings,analog_strings,1,12,Original Offline DSP,analog_ensemble,50,0.48
+12,Viola Synth Upper,analog_strings,1,13,Original Offline DSP,analog_ensemble,51,-0.16
+13,Viola Tape Lower,analog_strings,1,14,Original Offline DSP,warm_pad,50,0.16
+14,Cello Tape Middle,analog_strings,1,15,Original Offline DSP,warm_pad,51,0.32
+15,Cello Tape Lower,analog_strings,1,16,Original Offline DSP,warm_pad,50,0.52
+16,Tenor Synth Strings,analog_strings,2,1,Original Offline DSP,analog_ensemble,51,0.05
+17,Vapor Upper Pad,pads,2,2,Original Offline DSP,warm_pad,89,-0.55
+18,Digital Inner Pad,pads,2,3,Original Offline DSP,chorus_keys,90,0.45
+19,Dusk Warm Pad,pads,2,4,Original Offline DSP,warm_pad,89,-0.28
+20,Low Tape Pad,pads,2,5,Original Offline DSP,warm_pad,89,0.28
+21,Formant Halo Pad,pads,2,6,Original Offline DSP,airy_choir,91,-0.4
+22,Velvet Middle Pad,pads,2,7,Original Offline DSP,warm_pad,89,0.4
+23,Pulse Guide Pad,pads,2,8,Original Offline DSP,chorus_keys,90,-0.16
+24,Wide Suspension Pad,pads,2,9,Original Offline DSP,warm_pad,89,0.16
+25,DX Electric Piano Chords,keys,2,11,Original Offline DSP,dx_ep,5,-0.22
+26,Chorus Poly Keys,keys,2,12,Original Offline DSP,chorus_keys,4,0.22
+27,FM Upper Counter,keys,2,13,Original Offline DSP,dx_ep,5,-0.35
+28,Digital Lower Counter,keys,2,14,Original Offline DSP,chorus_keys,4,0.35
+29,FM Bells in Theme Rests,keys,2,15,Original Offline DSP,fm_bell,11,0.12
+30,Digital Celesta Memory,keys,2,16,Original Offline DSP,fm_bell,8,-0.12
+31,PWM Brass Upper,brass,3,1,Original Offline DSP,synth_brass,62,-0.34
+32,PWM Brass Middle,brass,3,2,Original Offline DSP,synth_brass,63,-0.14
+33,Neon Brass Upper,brass,3,3,Original Offline DSP,synth_brass,62,0.14
+34,Neon Brass Middle,brass,3,4,Original Offline DSP,synth_brass,63,0.34
+35,Low Synth Brass,brass,3,5,Original Offline DSP,synth_brass,62,0.18
+36,Deep Synth Brass,brass,3,6,Original Offline DSP,synth_brass,63,0.38
+37,Mono Analog Bass,bass,3,7,Original Offline DSP,analog_bass,38,0
+38,Fundamental Bass Support,bass,3,8,Original Offline DSP,sub_bass,39,0
+39,FM Bass Pulse,bass,3,9,Original Offline DSP,glass_pluck,39,0
+40,Pulse Chord Clock,sequencers,3,11,Original Offline DSP,pulse_arp,80,-0.46
+41,Glass Chord Arpeggio,sequencers,3,12,Original Offline DSP,glass_pluck,98,0.46
+42,Saw Upper Ostinato,sequencers,3,13,Original Offline DSP,saw_arp,81,-0.28
+43,Pulse Middle Ostinato,sequencers,3,14,Original Offline DSP,pulse_arp,80,0.28
+44,Low Sync Ostinato,sequencers,3,15,Original Offline DSP,analog_bass,38,0
+45,Low Complementary Arp,sequencers,3,16,Original Offline DSP,pulse_arp,80,-0.36
+46,Middle Offbeat Arp,sequencers,4,1,Original Offline DSP,saw_arp,81,0.36
+47,High Glass Arp,sequencers,4,2,Original Offline DSP,glass_pluck,98,0.08
+48,Chorus Electric Guitar,guitars,4,3,sfizz Karoryfer,shinyguitar,26,-0.5
+49,Muted Electric Guitar,guitars,4,4,sfizz Karoryfer,shinyguitar,27,0.5
+50,Neon Alto Sax Colour,sax,4,5,sfizz Karoryfer,weresax,65,0.18
+51,Vocoder Middle Chords,vox,4,6,Original Offline DSP,airy_choir,54,-0.18
+52,Vocoder Wide Chords,vox,4,7,Original Offline DSP,airy_choir,54,0.18
+53,Analog 808 Kick,percussion,5,10,Original Offline DSP,kick_808,0,0
+54,Gated 707 Snare,percussion,6,10,Original Offline DSP,snare_707,0,0
+55,Soft 80s Clap,percussion,7,10,Original Offline DSP,clap_80s,0,-0.08
+56,Closed Digital Hat,percussion,8,10,Original Offline DSP,closed_hat,0,0.24
+57,Open Digital Hat,percussion,9,10,Original Offline DSP,open_hat,0,0.28
+58,Electronic Low Tom,percussion,10,10,Original Offline DSP,tom_80s,0,-0.2
+59,Short Electronic Rim,percussion,11,10,Original Offline DSP,clap_80s,0,-0.16
+60,Soft Noise Crash,percussion,12,10,Original Offline DSP,open_hat,0,0.12
+61,Digital Chime Glints,fx,4,8,Original Offline DSP,soft_chime,9,-0.22
+62,High Neon Chimes,fx,4,9,Original Offline DSP,soft_chime,10,0.22
+63,Glass Harmonic Sparkle,fx,4,11,Original Offline DSP,glass_pluck,98,-0.12
+64,Digital Triangle Spark,fx,4,12,Original Offline DSP,soft_chime,14,0.12

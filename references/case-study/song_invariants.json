@@ -1,0 +1,10 @@
+{
+  "concert_key": "A major",
+  "tempo_bpm": 98.977,
+  "measures": 115,
+  "beats": 453,
+  "phase_seconds": 0.02,
+  "audio_duration_seconds": 281.06666666666666,
+  "canonical_foreground_events": 680,
+  "canonical_scope": "Reviewed arrangement-performance blueprint, including instrument register choices and assigned expression. Equality to this baseline does not independently prove literal sung octave, perfect transcription, microtiming or pitch bends."
+}

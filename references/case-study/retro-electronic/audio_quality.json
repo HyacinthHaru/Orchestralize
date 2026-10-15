@@ -1,0 +1,15 @@
+{
+  "input_i": "-27.05",
+  "input_tp": "-11.91",
+  "input_lra": "3.80",
+  "input_thresh": "-37.06",
+  "output_i": "-18.97",
+  "output_tp": "-3.83",
+  "output_lra": "3.80",
+  "output_thresh": "-28.99",
+  "normalization_type": "static_gain_with_oversampled_peak_limiting",
+  "master_gain_db": 8.080000000000002,
+  "limiter_ceiling_dbfs": -1.3,
+  "estimated_peak_reduction_db": 0,
+  "master_color": "Original DSP tape saturation, 2x oversampling, fixed drive1.2dB"
+}

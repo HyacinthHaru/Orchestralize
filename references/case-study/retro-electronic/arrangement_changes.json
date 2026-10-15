@@ -1,0 +1,23 @@
+{
+  "based_on": "v11 original680canonicalsource plus inheritedharmonicmaterial",
+  "genre": "1980s vaporwave / cyberpunk electronic ensemble",
+  "canonical_full_events_unchanged": true,
+  "new_ensemble_parts": 64,
+  "original_orchestral_audio_reused": false,
+  "acoustic_orchestral_percussion_reused": false,
+  "canonical_carriers": [
+    "01",
+    "02",
+    "03",
+    "04"
+  ],
+  "canonical_event_count": 680,
+  "dsp_preset_file": "historical-workspace/tmp/orchestral-v12/synth_presets.json",
+  "native_sfz_parts": [
+    "48",
+    "49",
+    "50"
+  ],
+  "gm_fallback_only": true,
+  "output_basename": "Sekai_NeoTokyo_198X_v12"
+}

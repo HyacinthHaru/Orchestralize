@@ -1,0 +1,6638 @@
+{
+  "version": "v11",
+  "must_fix": [],
+  "primary_source": "historical-workspace/output/orchestral-v11/Sekai_Grand_Symphonic_v11.mid",
+  "cc7_formula": "round(100*10**((applied_gain_db-6)/40)), clamped1..127",
+  "mix_report_sha256": "cac567a6671bc8a666247b27c843623340cca539d59dce6176819ec07ad9de96",
+  "primary": {
+    "path": "historical-workspace/output/orchestral-v11/Sekai_Grand_Symphonic_v11.mid",
+    "tracks": 81,
+    "seconds": 278.85246,
+    "ports": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      8,
+      9,
+      10
+    ],
+    "note_on_count": 10588,
+    "shared_port_channels": {},
+    "unbalanced_notes": [],
+    "track_details": [
+      {
+        "track": 0,
+        "name": "Conductor - Grand Divisi Orchestra v11",
+        "note_on_count": 0,
+        "port": 0,
+        "channels": []
+      },
+      {
+        "track": 1,
+        "name": "Piccolo",
+        "note_on_count": 2,
+        "port": 0,
+        "channels": [
+          0
+        ]
+      },
+      {
+        "track": 2,
+        "name": "Flute I",
+        "note_on_count": 116,
+        "port": 0,
+        "channels": [
+          1
+        ]
+      },
+      {
+        "track": 3,
+        "name": "Flute II",
+        "note_on_count": 38,
+        "port": 0,
+        "channels": [
+          2
+        ]
+      },
+      {
+        "track": 4,
+        "name": "Oboe",
+        "note_on_count": 104,
+        "port": 0,
+        "channels": [
+          3
+        ]
+      },
+      {
+        "track": 5,
+        "name": "English Horn",
+        "note_on_count": 129,
+        "port": 0,
+        "channels": [
+          4
+        ]
+      },
+      {
+        "track": 6,
+        "name": "Clarinet I",
+        "note_on_count": 103,
+        "port": 0,
+        "channels": [
+          5
+        ]
+      },
+      {
+        "track": 7,
+        "name": "Clarinet II",
+        "note_on_count": 188,
+        "port": 0,
+        "channels": [
+          6
+        ]
+      },
+      {
+        "track": 8,
+        "name": "Bass Clarinet",
+        "note_on_count": 186,
+        "port": 0,
+        "channels": [
+          7
+        ]
+      },
+      {
+        "track": 9,
+        "name": "Bassoon",
+        "note_on_count": 176,
+        "port": 0,
+        "channels": [
+          8
+        ]
+      },
+      {
+        "track": 10,
+        "name": "Contrabassoon",
+        "note_on_count": 184,
+        "port": 0,
+        "channels": [
+          10
+        ]
+      },
+      {
+        "track": 11,
+        "name": "Horn I",
+        "note_on_count": 102,
+        "port": 0,
+        "channels": [
+          11
+        ]
+      },
+      {
+        "track": 12,
+        "name": "Horn II",
+        "note_on_count": 122,
+        "port": 0,
+        "channels": [
+          12
+        ]
+      },
+      {
+        "track": 13,
+        "name": "Horn III",
+        "note_on_count": 121,
+        "port": 0,
+        "channels": [
+          13
+        ]
+      },
+      {
+        "track": 14,
+        "name": "Horn IV",
+        "note_on_count": 105,
+        "port": 0,
+        "channels": [
+          14
+        ]
+      },
+      {
+        "track": 15,
+        "name": "Trumpet I",
+        "note_on_count": 53,
+        "port": 0,
+        "channels": [
+          15
+        ]
+      },
+      {
+        "track": 16,
+        "name": "Trumpet II",
+        "note_on_count": 14,
+        "port": 1,
+        "channels": [
+          0
+        ]
+      },
+      {
+        "track": 17,
+        "name": "Trumpet III",
+        "note_on_count": 14,
+        "port": 1,
+        "channels": [
+          1
+        ]
+      },
+      {
+        "track": 18,
+        "name": "Trombone I",
+        "note_on_count": 34,
+        "port": 1,
+        "channels": [
+          2
+        ]
+      },
+      {
+        "track": 19,
+        "name": "Trombone II",
+        "note_on_count": 34,
+        "port": 1,
+        "channels": [
+          3
+        ]
+      },
+      {
+        "track": 20,
+        "name": "Bass Trombone",
+        "note_on_count": 40,
+        "port": 1,
+        "channels": [
+          4
+        ]
+      },
+      {
+        "track": 21,
+        "name": "Tuba",
+        "note_on_count": 34,
+        "port": 1,
+        "channels": [
+          5
+        ]
+      },
+      {
+        "track": 22,
+        "name": "Violin I - A",
+        "note_on_count": 269,
+        "port": 1,
+        "channels": [
+          6
+        ]
+      },
+      {
+        "track": 23,
+        "name": "Violin I - B",
+        "note_on_count": 129,
+        "port": 1,
+        "channels": [
+          7
+        ]
+      },
+      {
+        "track": 24,
+        "name": "Violin II - A",
+        "note_on_count": 317,
+        "port": 1,
+        "channels": [
+          8
+        ]
+      },
+      {
+        "track": 25,
+        "name": "Violin II - B",
+        "note_on_count": 143,
+        "port": 1,
+        "channels": [
+          10
+        ]
+      },
+      {
+        "track": 26,
+        "name": "Viola - A",
+        "note_on_count": 314,
+        "port": 1,
+        "channels": [
+          11
+        ]
+      },
+      {
+        "track": 27,
+        "name": "Viola - B",
+        "note_on_count": 221,
+        "port": 1,
+        "channels": [
+          12
+        ]
+      },
+      {
+        "track": 28,
+        "name": "Cello - A",
+        "note_on_count": 338,
+        "port": 1,
+        "channels": [
+          13
+        ]
+      },
+      {
+        "track": 29,
+        "name": "Cello - B",
+        "note_on_count": 188,
+        "port": 1,
+        "channels": [
+          14
+        ]
+      },
+      {
+        "track": 30,
+        "name": "Double Bass",
+        "note_on_count": 225,
+        "port": 1,
+        "channels": [
+          15
+        ]
+      },
+      {
+        "track": 31,
+        "name": "Solo Cello",
+        "note_on_count": 50,
+        "port": 2,
+        "channels": [
+          0
+        ]
+      },
+      {
+        "track": 32,
+        "name": "Harp I",
+        "note_on_count": 491,
+        "port": 2,
+        "channels": [
+          1
+        ]
+      },
+      {
+        "track": 33,
+        "name": "Harp II",
+        "note_on_count": 8,
+        "port": 2,
+        "channels": [
+          2
+        ]
+      },
+      {
+        "track": 34,
+        "name": "Celesta",
+        "note_on_count": 22,
+        "port": 2,
+        "channels": [
+          3
+        ]
+      },
+      {
+        "track": 35,
+        "name": "Glockenspiel",
+        "note_on_count": 4,
+        "port": 2,
+        "channels": [
+          4
+        ]
+      },
+      {
+        "track": 36,
+        "name": "Timpani",
+        "note_on_count": 22,
+        "port": 2,
+        "channels": [
+          5
+        ]
+      },
+      {
+        "track": 37,
+        "name": "Concert Bass Drum",
+        "note_on_count": 218,
+        "port": 3,
+        "channels": [
+          9
+        ]
+      },
+      {
+        "track": 38,
+        "name": "Concert Snare",
+        "note_on_count": 234,
+        "port": 4,
+        "channels": [
+          9
+        ]
+      },
+      {
+        "track": 39,
+        "name": "Crash Cymbals",
+        "note_on_count": 4,
+        "port": 5,
+        "channels": [
+          9
+        ]
+      },
+      {
+        "track": 40,
+        "name": "Suspended Cymbal",
+        "note_on_count": 80,
+        "port": 6,
+        "channels": [
+          9
+        ]
+      },
+      {
+        "track": 41,
+        "name": "Triangle",
+        "note_on_count": 6,
+        "port": 8,
+        "channels": [
+          9
+        ]
+      },
+      {
+        "track": 42,
+        "name": "Wordless Choir - High",
+        "note_on_count": 2,
+        "port": 2,
+        "channels": [
+          13
+        ]
+      },
+      {
+        "track": 43,
+        "name": "Wordless Choir - Low",
+        "note_on_count": 2,
+        "port": 2,
+        "channels": [
+          14
+        ]
+      },
+      {
+        "track": 44,
+        "name": "Deep Bass Drum Resonance",
+        "note_on_count": 112,
+        "port": 9,
+        "channels": [
+          9
+        ]
+      },
+      {
+        "track": 45,
+        "name": "Double Bass - Pizzicato",
+        "note_on_count": 291,
+        "port": 3,
+        "channels": [
+          0
+        ]
+      },
+      {
+        "track": 46,
+        "name": "Cello - C Ostinato",
+        "note_on_count": 194,
+        "port": 3,
+        "channels": [
+          1
+        ]
+      },
+      {
+        "track": 47,
+        "name": "Timpani II - Responses",
+        "note_on_count": 7,
+        "port": 3,
+        "channels": [
+          2
+        ]
+      },
+      {
+        "track": 48,
+        "name": "Electric Guitar - Arpeggios",
+        "note_on_count": 696,
+        "port": 3,
+        "channels": [
+          3
+        ]
+      },
+      {
+        "track": 49,
+        "name": "Electric Guitar - Rhythm",
+        "note_on_count": 186,
+        "port": 3,
+        "channels": [
+          4
+        ]
+      },
+      {
+        "track": 50,
+        "name": "Electric Bass Support",
+        "note_on_count": 93,
+        "port": 3,
+        "channels": [
+          5
+        ]
+      },
+      {
+        "track": 51,
+        "name": "Alto Sax - Ensemble Colour",
+        "note_on_count": 82,
+        "port": 3,
+        "channels": [
+          6
+        ]
+      },
+      {
+        "track": 52,
+        "name": "Modern Hi-hat",
+        "note_on_count": 132,
+        "port": 10,
+        "channels": [
+          9
+        ]
+      },
+      {
+        "track": 53,
+        "name": "Violin II - Tutti",
+        "note_on_count": 158,
+        "port": 3,
+        "channels": [
+          8
+        ]
+      },
+      {
+        "track": 54,
+        "name": "Flute - Tutti",
+        "note_on_count": 158,
+        "port": 3,
+        "channels": [
+          10
+        ]
+      },
+      {
+        "track": 55,
+        "name": "Violin I - Mid Tutti",
+        "note_on_count": 105,
+        "port": 4,
+        "channels": [
+          0
+        ]
+      },
+      {
+        "track": 56,
+        "name": "Clarinet - Tutti",
+        "note_on_count": 105,
+        "port": 4,
+        "channels": [
+          1
+        ]
+      },
+      {
+        "track": 57,
+        "name": "Wordless Choir - Finale",
+        "note_on_count": 48,
+        "port": 4,
+        "channels": [
+          2
+        ]
+      },
+      {
+        "track": 58,
+        "name": "Trumpet - Finale Accents",
+        "note_on_count": 24,
+        "port": 4,
+        "channels": [
+          3
+        ]
+      },
+      {
+        "track": 59,
+        "name": "Violin I - High Divisi",
+        "note_on_count": 89,
+        "port": 4,
+        "channels": [
+          4
+        ]
+      },
+      {
+        "track": 60,
+        "name": "Violin I - Middle Divisi",
+        "note_on_count": 178,
+        "port": 4,
+        "channels": [
+          5
+        ]
+      },
+      {
+        "track": 61,
+        "name": "Violin I - Lower Divisi",
+        "note_on_count": 93,
+        "port": 4,
+        "channels": [
+          6
+        ]
+      },
+      {
+        "track": 62,
+        "name": "Violin II - High Divisi",
+        "note_on_count": 113,
+        "port": 4,
+        "channels": [
+          7
+        ]
+      },
+      {
+        "track": 63,
+        "name": "Violin II - Middle Divisi",
+        "note_on_count": 176,
+        "port": 4,
+        "channels": [
+          8
+        ]
+      },
+      {
+        "track": 64,
+        "name": "Viola - Upper Divisi",
+        "note_on_count": 187,
+        "port": 4,
+        "channels": [
+          10
+        ]
+      },
+      {
+        "track": 65,
+        "name": "Viola - Lower Divisi",
+        "note_on_count": 60,
+        "port": 4,
+        "channels": [
+          11
+        ]
+      },
+      {
+        "track": 66,
+        "name": "Cello - Middle Divisi",
+        "note_on_count": 162,
+        "port": 4,
+        "channels": [
+          12
+        ]
+      },
+      {
+        "track": 67,
+        "name": "Cello - Lower Divisi",
+        "note_on_count": 58,
+        "port": 4,
+        "channels": [
+          13
+        ]
+      },
+      {
+        "track": 68,
+        "name": "Cello - Tenor Divisi",
+        "note_on_count": 112,
+        "port": 4,
+        "channels": [
+          14
+        ]
+      },
+      {
+        "track": 69,
+        "name": "Flute - Inner Harmony",
+        "note_on_count": 122,
+        "port": 4,
+        "channels": [
+          15
+        ]
+      },
+      {
+        "track": 70,
+        "name": "Clarinet - Harmony Divisi",
+        "note_on_count": 150,
+        "port": 5,
+        "channels": [
+          0
+        ]
+      },
+      {
+        "track": 71,
+        "name": "Oboe - Harmony Divisi",
+        "note_on_count": 104,
+        "port": 5,
+        "channels": [
+          1
+        ]
+      },
+      {
+        "track": 72,
+        "name": "Bassoon - Tenor Harmony",
+        "note_on_count": 67,
+        "port": 5,
+        "channels": [
+          2
+        ]
+      },
+      {
+        "track": 73,
+        "name": "Horn - Upper Divisi",
+        "note_on_count": 108,
+        "port": 5,
+        "channels": [
+          3
+        ]
+      },
+      {
+        "track": 74,
+        "name": "Horn - Middle Divisi",
+        "note_on_count": 71,
+        "port": 5,
+        "channels": [
+          4
+        ]
+      },
+      {
+        "track": 75,
+        "name": "Trumpet - Upper Harmony",
+        "note_on_count": 45,
+        "port": 5,
+        "channels": [
+          5
+        ]
+      },
+      {
+        "track": 76,
+        "name": "Trumpet - Middle Harmony",
+        "note_on_count": 44,
+        "port": 5,
+        "channels": [
+          6
+        ]
+      },
+      {
+        "track": 77,
+        "name": "Trombone - Inner Harmony",
+        "note_on_count": 60,
+        "port": 5,
+        "channels": [
+          7
+        ]
+      },
+      {
+        "track": 78,
+        "name": "Bass Trombone - Harmony",
+        "note_on_count": 44,
+        "port": 5,
+        "channels": [
+          8
+        ]
+      },
+      {
+        "track": 79,
+        "name": "Wordless Choir - Wide Divisi",
+        "note_on_count": 72,
+        "port": 5,
+        "channels": [
+          10
+        ]
+      },
+      {
+        "track": 80,
+        "name": "Concert Grand Piano",
+        "note_on_count": 896,
+        "port": 5,
+        "channels": [
+          11
+        ]
+      }
+    ]
+  },
+  "groups": [
+    {
+      "path": "historical-workspace/output/orchestral-v11/Grouped_MIDI/01_High_Woodwinds_GM.mid",
+      "tracks": 9,
+      "seconds": 278.85246,
+      "ports": [
+        0
+      ],
+      "note_on_count": 773,
+      "shared_port_channels": {},
+      "unbalanced_notes": [],
+      "track_details": [
+        {
+          "track": 0,
+          "name": "Conductor - Grand Divisi Orchestra v11",
+          "note_on_count": 0,
+          "port": 0,
+          "channels": []
+        },
+        {
+          "track": 1,
+          "name": "01 Piccolo [GM]",
+          "note_on_count": 2,
+          "port": 0,
+          "channels": [
+            0
+          ]
+        },
+        {
+          "track": 2,
+          "name": "02 Flute I [GM]",
+          "note_on_count": 116,
+          "port": 0,
+          "channels": [
+            1
+          ]
+        },
+        {
+          "track": 3,
+          "name": "03 Flute II [GM]",
+          "note_on_count": 38,
+          "port": 0,
+          "channels": [
+            2
+          ]
+        },
+        {
+          "track": 4,
+          "name": "04 Oboe [GM]",
+          "note_on_count": 104,
+          "port": 0,
+          "channels": [
+            3
+          ]
+        },
+        {
+          "track": 5,
+          "name": "05 English Horn [GM]",
+          "note_on_count": 129,
+          "port": 0,
+          "channels": [
+            4
+          ]
+        },
+        {
+          "track": 6,
+          "name": "55 Flute - Tutti [GM]",
+          "note_on_count": 158,
+          "port": 0,
+          "channels": [
+            5
+          ]
+        },
+        {
+          "track": 7,
+          "name": "70 Flute - Inner Harmony [GM]",
+          "note_on_count": 122,
+          "port": 0,
+          "channels": [
+            6
+          ]
+        },
+        {
+          "track": 8,
+          "name": "72 Oboe - Harmony Divisi [GM]",
+          "note_on_count": 104,
+          "port": 0,
+          "channels": [
+            7
+          ]
+        }
+      ],
+      "family": "woodwinds_high",
+      "parts": 8,
+      "melodic_channels": 8,
+      "drum_common_cc7": null,
+      "drum_common_pan": null,
+      "drum_balance": null
+    },
+    {
+      "path": "historical-workspace/output/orchestral-v11/Grouped_MIDI/02_Lower_Woodwinds_GM.mid",
+      "tracks": 10,
+      "seconds": 278.85246,
+      "ports": [
+        0
+      ],
+      "note_on_count": 1241,
+      "shared_port_channels": {},
+      "unbalanced_notes": [],
+      "track_details": [
+        {
+          "track": 0,
+          "name": "Conductor - Grand Divisi Orchestra v11",
+          "note_on_count": 0,
+          "port": 0,
+          "channels": []
+        },
+        {
+          "track": 1,
+          "name": "06 Clarinet I [GM]",
+          "note_on_count": 103,
+          "port": 0,
+          "channels": [
+            0
+          ]
+        },
+        {
+          "track": 2,
+          "name": "07 Clarinet II [GM]",
+          "note_on_count": 188,
+          "port": 0,
+          "channels": [
+            1
+          ]
+        },
+        {
+          "track": 3,
+          "name": "08 Bass Clarinet [GM]",
+          "note_on_count": 186,
+          "port": 0,
+          "channels": [
+            2
+          ]
+        },
+        {
+          "track": 4,
+          "name": "09 Bassoon [GM]",
+          "note_on_count": 176,
+          "port": 0,
+          "channels": [
+            3
+          ]
+        },
+        {
+          "track": 5,
+          "name": "10 Contrabassoon [GM]",
+          "note_on_count": 184,
+          "port": 0,
+          "channels": [
+            4
+          ]
+        },
+        {
+          "track": 6,
+          "name": "52 Alto Sax - Ensemble Colour [GM]",
+          "note_on_count": 82,
+          "port": 0,
+          "channels": [
+            5
+          ]
+        },
+        {
+          "track": 7,
+          "name": "57 Clarinet - Tutti [GM]",
+          "note_on_count": 105,
+          "port": 0,
+          "channels": [
+            6
+          ]
+        },
+        {
+          "track": 8,
+          "name": "71 Clarinet - Harmony Divisi [GM]",
+          "note_on_count": 150,
+          "port": 0,
+          "channels": [
+            7
+          ]
+        },
+        {
+          "track": 9,
+          "name": "73 Bassoon - Tenor Harmony [GM]",
+          "note_on_count": 67,
+          "port": 0,
+          "channels": [
+            8
+          ]
+        }
+      ],
+      "family": "woodwinds_low",
+      "parts": 9,
+      "melodic_channels": 9,
+      "drum_common_cc7": null,
+      "drum_common_pan": null,
+      "drum_balance": null
+    },
+    {
+      "path": "historical-workspace/output/orchestral-v11/Grouped_MIDI/03_Horns_and_Trumpets_GM.mid",
+      "tracks": 13,
+      "seconds": 278.85246,
+      "ports": [
+        0
+      ],
+      "note_on_count": 823,
+      "shared_port_channels": {},
+      "unbalanced_notes": [],
+      "track_details": [
+        {
+          "track": 0,
+          "name": "Conductor - Grand Divisi Orchestra v11",
+          "note_on_count": 0,
+          "port": 0,
+          "channels": []
+        },
+        {
+          "track": 1,
+          "name": "11 Horn I [GM]",
+          "note_on_count": 102,
+          "port": 0,
+          "channels": [
+            0
+          ]
+        },
+        {
+          "track": 2,
+          "name": "12 Horn II [GM]",
+          "note_on_count": 122,
+          "port": 0,
+          "channels": [
+            1
+          ]
+        },
+        {
+          "track": 3,
+          "name": "13 Horn III [GM]",
+          "note_on_count": 121,
+          "port": 0,
+          "channels": [
+            2
+          ]
+        },
+        {
+          "track": 4,
+          "name": "14 Horn IV [GM]",
+          "note_on_count": 105,
+          "port": 0,
+          "channels": [
+            3
+          ]
+        },
+        {
+          "track": 5,
+          "name": "15 Trumpet I [GM]",
+          "note_on_count": 53,
+          "port": 0,
+          "channels": [
+            4
+          ]
+        },
+        {
+          "track": 6,
+          "name": "16 Trumpet II [GM]",
+          "note_on_count": 14,
+          "port": 0,
+          "channels": [
+            5
+          ]
+        },
+        {
+          "track": 7,
+          "name": "17 Trumpet III [GM]",
+          "note_on_count": 14,
+          "port": 0,
+          "channels": [
+            6
+          ]
+        },
+        {
+          "track": 8,
+          "name": "59 Trumpet - Finale Accents [GM]",
+          "note_on_count": 24,
+          "port": 0,
+          "channels": [
+            7
+          ]
+        },
+        {
+          "track": 9,
+          "name": "74 Horn - Upper Divisi [GM]",
+          "note_on_count": 108,
+          "port": 0,
+          "channels": [
+            8
+          ]
+        },
+        {
+          "track": 10,
+          "name": "75 Horn - Middle Divisi [GM]",
+          "note_on_count": 71,
+          "port": 0,
+          "channels": [
+            10
+          ]
+        },
+        {
+          "track": 11,
+          "name": "76 Trumpet - Upper Harmony [GM]",
+          "note_on_count": 45,
+          "port": 0,
+          "channels": [
+            11
+          ]
+        },
+        {
+          "track": 12,
+          "name": "77 Trumpet - Middle Harmony [GM]",
+          "note_on_count": 44,
+          "port": 0,
+          "channels": [
+            12
+          ]
+        }
+      ],
+      "family": "brass_high",
+      "parts": 12,
+      "melodic_channels": 12,
+      "drum_common_cc7": null,
+      "drum_common_pan": null,
+      "drum_balance": null
+    },
+    {
+      "path": "historical-workspace/output/orchestral-v11/Grouped_MIDI/04_Low_Brass_GM.mid",
+      "tracks": 7,
+      "seconds": 278.85246,
+      "ports": [
+        0
+      ],
+      "note_on_count": 246,
+      "shared_port_channels": {},
+      "unbalanced_notes": [],
+      "track_details": [
+        {
+          "track": 0,
+          "name": "Conductor - Grand Divisi Orchestra v11",
+          "note_on_count": 0,
+          "port": 0,
+          "channels": []
+        },
+        {
+          "track": 1,
+          "name": "18 Trombone I [GM]",
+          "note_on_count": 34,
+          "port": 0,
+          "channels": [
+            0
+          ]
+        },
+        {
+          "track": 2,
+          "name": "19 Trombone II [GM]",
+          "note_on_count": 34,
+          "port": 0,
+          "channels": [
+            1
+          ]
+        },
+        {
+          "track": 3,
+          "name": "20 Bass Trombone [GM]",
+          "note_on_count": 40,
+          "port": 0,
+          "channels": [
+            2
+          ]
+        },
+        {
+          "track": 4,
+          "name": "21 Tuba [GM]",
+          "note_on_count": 34,
+          "port": 0,
+          "channels": [
+            3
+          ]
+        },
+        {
+          "track": 5,
+          "name": "78 Trombone - Inner Harmony [GM]",
+          "note_on_count": 60,
+          "port": 0,
+          "channels": [
+            4
+          ]
+        },
+        {
+          "track": 6,
+          "name": "79 Bass Trombone - Harmony [GM]",
+          "note_on_count": 44,
+          "port": 0,
+          "channels": [
+            5
+          ]
+        }
+      ],
+      "family": "brass_low",
+      "parts": 6,
+      "melodic_channels": 6,
+      "drum_common_cc7": null,
+      "drum_common_pan": null,
+      "drum_balance": null
+    },
+    {
+      "path": "historical-workspace/output/orchestral-v11/Grouped_MIDI/05_Violins_and_Violas_GM.mid",
+      "tracks": 16,
+      "seconds": 278.85246,
+      "ports": [
+        0
+      ],
+      "note_on_count": 2552,
+      "shared_port_channels": {},
+      "unbalanced_notes": [],
+      "track_details": [
+        {
+          "track": 0,
+          "name": "Conductor - Grand Divisi Orchestra v11",
+          "note_on_count": 0,
+          "port": 0,
+          "channels": []
+        },
+        {
+          "track": 1,
+          "name": "22 Violin I - A [GM]",
+          "note_on_count": 269,
+          "port": 0,
+          "channels": [
+            0
+          ]
+        },
+        {
+          "track": 2,
+          "name": "23 Violin I - B [GM]",
+          "note_on_count": 129,
+          "port": 0,
+          "channels": [
+            1
+          ]
+        },
+        {
+          "track": 3,
+          "name": "24 Violin II - A [GM]",
+          "note_on_count": 317,
+          "port": 0,
+          "channels": [
+            2
+          ]
+        },
+        {
+          "track": 4,
+          "name": "25 Violin II - B [GM]",
+          "note_on_count": 143,
+          "port": 0,
+          "channels": [
+            3
+          ]
+        },
+        {
+          "track": 5,
+          "name": "26 Viola - A [GM]",
+          "note_on_count": 314,
+          "port": 0,
+          "channels": [
+            4
+          ]
+        },
+        {
+          "track": 6,
+          "name": "27 Viola - B [GM]",
+          "note_on_count": 221,
+          "port": 0,
+          "channels": [
+            5
+          ]
+        },
+        {
+          "track": 7,
+          "name": "54 Violin II - Tutti [GM]",
+          "note_on_count": 158,
+          "port": 0,
+          "channels": [
+            6
+          ]
+        },
+        {
+          "track": 8,
+          "name": "56 Violin I - Mid Tutti [GM]",
+          "note_on_count": 105,
+          "port": 0,
+          "channels": [
+            7
+          ]
+        },
+        {
+          "track": 9,
+          "name": "60 Violin I - High Divisi [GM]",
+          "note_on_count": 89,
+          "port": 0,
+          "channels": [
+            8
+          ]
+        },
+        {
+          "track": 10,
+          "name": "61 Violin I - Middle Divisi [GM]",
+          "note_on_count": 178,
+          "port": 0,
+          "channels": [
+            10
+          ]
+        },
+        {
+          "track": 11,
+          "name": "62 Violin I - Lower Divisi [GM]",
+          "note_on_count": 93,
+          "port": 0,
+          "channels": [
+            11
+          ]
+        },
+        {
+          "track": 12,
+          "name": "63 Violin II - High Divisi [GM]",
+          "note_on_count": 113,
+          "port": 0,
+          "channels": [
+            12
+          ]
+        },
+        {
+          "track": 13,
+          "name": "64 Violin II - Middle Divisi [GM]",
+          "note_on_count": 176,
+          "port": 0,
+          "channels": [
+            13
+          ]
+        },
+        {
+          "track": 14,
+          "name": "65 Viola - Upper Divisi [GM]",
+          "note_on_count": 187,
+          "port": 0,
+          "channels": [
+            14
+          ]
+        },
+        {
+          "track": 15,
+          "name": "66 Viola - Lower Divisi [GM]",
+          "note_on_count": 60,
+          "port": 0,
+          "channels": [
+            15
+          ]
+        }
+      ],
+      "family": "strings_upper",
+      "parts": 15,
+      "melodic_channels": 15,
+      "drum_common_cc7": null,
+      "drum_common_pan": null,
+      "drum_balance": null
+    },
+    {
+      "path": "historical-workspace/output/orchestral-v11/Grouped_MIDI/06_Cellos_and_Basses_GM.mid",
+      "tracks": 10,
+      "seconds": 278.85246,
+      "ports": [
+        0
+      ],
+      "note_on_count": 1618,
+      "shared_port_channels": {},
+      "unbalanced_notes": [],
+      "track_details": [
+        {
+          "track": 0,
+          "name": "Conductor - Grand Divisi Orchestra v11",
+          "note_on_count": 0,
+          "port": 0,
+          "channels": []
+        },
+        {
+          "track": 1,
+          "name": "28 Cello - A [GM]",
+          "note_on_count": 338,
+          "port": 0,
+          "channels": [
+            0
+          ]
+        },
+        {
+          "track": 2,
+          "name": "29 Cello - B [GM]",
+          "note_on_count": 188,
+          "port": 0,
+          "channels": [
+            1
+          ]
+        },
+        {
+          "track": 3,
+          "name": "30 Double Bass [GM]",
+          "note_on_count": 225,
+          "port": 0,
+          "channels": [
+            2
+          ]
+        },
+        {
+          "track": 4,
+          "name": "31 Solo Cello [GM]",
+          "note_on_count": 50,
+          "port": 0,
+          "channels": [
+            3
+          ]
+        },
+        {
+          "track": 5,
+          "name": "46 Double Bass - Pizzicato [GM]",
+          "note_on_count": 291,
+          "port": 0,
+          "channels": [
+            4
+          ]
+        },
+        {
+          "track": 6,
+          "name": "47 Cello - C Ostinato [GM]",
+          "note_on_count": 194,
+          "port": 0,
+          "channels": [
+            5
+          ]
+        },
+        {
+          "track": 7,
+          "name": "67 Cello - Middle Divisi [GM]",
+          "note_on_count": 162,
+          "port": 0,
+          "channels": [
+            6
+          ]
+        },
+        {
+          "track": 8,
+          "name": "68 Cello - Lower Divisi [GM]",
+          "note_on_count": 58,
+          "port": 0,
+          "channels": [
+            7
+          ]
+        },
+        {
+          "track": 9,
+          "name": "69 Cello - Tenor Divisi [GM]",
+          "note_on_count": 112,
+          "port": 0,
+          "channels": [
+            8
+          ]
+        }
+      ],
+      "family": "strings_lower",
+      "parts": 9,
+      "melodic_channels": 9,
+      "drum_common_cc7": null,
+      "drum_common_pan": null,
+      "drum_balance": null
+    },
+    {
+      "path": "historical-workspace/output/orchestral-v11/Grouped_MIDI/07_Harps_Keys_and_Piano_GM.mid",
+      "tracks": 6,
+      "seconds": 278.85246,
+      "ports": [
+        0
+      ],
+      "note_on_count": 1421,
+      "shared_port_channels": {},
+      "unbalanced_notes": [],
+      "track_details": [
+        {
+          "track": 0,
+          "name": "Conductor - Grand Divisi Orchestra v11",
+          "note_on_count": 0,
+          "port": 0,
+          "channels": []
+        },
+        {
+          "track": 1,
+          "name": "32 Harp I [GM]",
+          "note_on_count": 491,
+          "port": 0,
+          "channels": [
+            0
+          ]
+        },
+        {
+          "track": 2,
+          "name": "33 Harp II [GM]",
+          "note_on_count": 8,
+          "port": 0,
+          "channels": [
+            1
+          ]
+        },
+        {
+          "track": 3,
+          "name": "34 Celesta [GM]",
+          "note_on_count": 22,
+          "port": 0,
+          "channels": [
+            2
+          ]
+        },
+        {
+          "track": 4,
+          "name": "35 Glockenspiel [GM]",
+          "note_on_count": 4,
+          "port": 0,
+          "channels": [
+            3
+          ]
+        },
+        {
+          "track": 5,
+          "name": "81 Concert Grand Piano [GM]",
+          "note_on_count": 896,
+          "port": 0,
+          "channels": [
+            4
+          ]
+        }
+      ],
+      "family": "harp_keys",
+      "parts": 5,
+      "melodic_channels": 5,
+      "drum_common_cc7": null,
+      "drum_common_pan": null,
+      "drum_balance": null
+    },
+    {
+      "path": "historical-workspace/output/orchestral-v11/Grouped_MIDI/08_Percussion_GM.mid",
+      "tracks": 10,
+      "seconds": 278.85246,
+      "ports": [
+        0
+      ],
+      "note_on_count": 815,
+      "shared_port_channels": {
+        "(0, 9)": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          9
+        ]
+      },
+      "unbalanced_notes": [],
+      "track_details": [
+        {
+          "track": 0,
+          "name": "Conductor - Grand Divisi Orchestra v11",
+          "note_on_count": 0,
+          "port": 0,
+          "channels": []
+        },
+        {
+          "track": 1,
+          "name": "36 Timpani [GM]",
+          "note_on_count": 22,
+          "port": 0,
+          "channels": [
+            0
+          ]
+        },
+        {
+          "track": 2,
+          "name": "37 Concert Bass Drum [GM]",
+          "note_on_count": 218,
+          "port": 0,
+          "channels": [
+            9
+          ]
+        },
+        {
+          "track": 3,
+          "name": "38 Concert Snare [GM]",
+          "note_on_count": 234,
+          "port": 0,
+          "channels": [
+            9
+          ]
+        },
+        {
+          "track": 4,
+          "name": "39 Crash Cymbals [GM]",
+          "note_on_count": 4,
+          "port": 0,
+          "channels": [
+            9
+          ]
+        },
+        {
+          "track": 5,
+          "name": "40 Suspended Cymbal [GM]",
+          "note_on_count": 80,
+          "port": 0,
+          "channels": [
+            9
+          ]
+        },
+        {
+          "track": 6,
+          "name": "42 Triangle [GM]",
+          "note_on_count": 6,
+          "port": 0,
+          "channels": [
+            9
+          ]
+        },
+        {
+          "track": 7,
+          "name": "45 Deep Bass Drum Resonance [GM]",
+          "note_on_count": 112,
+          "port": 0,
+          "channels": [
+            9
+          ]
+        },
+        {
+          "track": 8,
+          "name": "48 Timpani II - Responses [GM]",
+          "note_on_count": 7,
+          "port": 0,
+          "channels": [
+            1
+          ]
+        },
+        {
+          "track": 9,
+          "name": "53 Modern Hi-hat [GM]",
+          "note_on_count": 132,
+          "port": 0,
+          "channels": [
+            9
+          ]
+        }
+      ],
+      "family": "percussion",
+      "parts": 9,
+      "melodic_channels": 2,
+      "drum_common_cc7": 121,
+      "drum_common_pan": 75,
+      "drum_balance": "Shared channel9: per-part CC7/CC11 baked into note-on velocities; all notes and timing retained."
+    },
+    {
+      "path": "historical-workspace/output/orchestral-v11/Grouped_MIDI/09_Wordless_Choir_GM.mid",
+      "tracks": 5,
+      "seconds": 278.85246,
+      "ports": [
+        0
+      ],
+      "note_on_count": 124,
+      "shared_port_channels": {},
+      "unbalanced_notes": [],
+      "track_details": [
+        {
+          "track": 0,
+          "name": "Conductor - Grand Divisi Orchestra v11",
+          "note_on_count": 0,
+          "port": 0,
+          "channels": []
+        },
+        {
+          "track": 1,
+          "name": "43 Wordless Choir - High [GM]",
+          "note_on_count": 2,
+          "port": 0,
+          "channels": [
+            0
+          ]
+        },
+        {
+          "track": 2,
+          "name": "44 Wordless Choir - Low [GM]",
+          "note_on_count": 2,
+          "port": 0,
+          "channels": [
+            1
+          ]
+        },
+        {
+          "track": 3,
+          "name": "58 Wordless Choir - Finale [GM]",
+          "note_on_count": 48,
+          "port": 0,
+          "channels": [
+            2
+          ]
+        },
+        {
+          "track": 4,
+          "name": "80 Wordless Choir - Wide Divisi [GM]",
+          "note_on_count": 72,
+          "port": 0,
+          "channels": [
+            3
+          ]
+        }
+      ],
+      "family": "choir",
+      "parts": 4,
+      "melodic_channels": 4,
+      "drum_common_cc7": null,
+      "drum_common_pan": null,
+      "drum_balance": null
+    },
+    {
+      "path": "historical-workspace/output/orchestral-v11/Grouped_MIDI/10_Guitars_GM.mid",
+      "tracks": 3,
+      "seconds": 278.85246,
+      "ports": [
+        0
+      ],
+      "note_on_count": 882,
+      "shared_port_channels": {},
+      "unbalanced_notes": [],
+      "track_details": [
+        {
+          "track": 0,
+          "name": "Conductor - Grand Divisi Orchestra v11",
+          "note_on_count": 0,
+          "port": 0,
+          "channels": []
+        },
+        {
+          "track": 1,
+          "name": "49 Electric Guitar - Arpeggios [GM]",
+          "note_on_count": 696,
+          "port": 0,
+          "channels": [
+            0
+          ]
+        },
+        {
+          "track": 2,
+          "name": "50 Electric Guitar - Rhythm [GM]",
+          "note_on_count": 186,
+          "port": 0,
+          "channels": [
+            1
+          ]
+        }
+      ],
+      "family": "guitars",
+      "parts": 2,
+      "melodic_channels": 2,
+      "drum_common_cc7": null,
+      "drum_common_pan": null,
+      "drum_balance": null
+    },
+    {
+      "path": "historical-workspace/output/orchestral-v11/Grouped_MIDI/11_Electric_Bass_GM.mid",
+      "tracks": 2,
+      "seconds": 278.85246,
+      "ports": [
+        0
+      ],
+      "note_on_count": 93,
+      "shared_port_channels": {},
+      "unbalanced_notes": [],
+      "track_details": [
+        {
+          "track": 0,
+          "name": "Conductor - Grand Divisi Orchestra v11",
+          "note_on_count": 0,
+          "port": 0,
+          "channels": []
+        },
+        {
+          "track": 1,
+          "name": "51 Electric Bass Support [GM]",
+          "note_on_count": 93,
+          "port": 0,
+          "channels": [
+            0
+          ]
+        }
+      ],
+      "family": "bass",
+      "parts": 1,
+      "melodic_channels": 1,
+      "drum_common_cc7": null,
+      "drum_common_pan": null,
+      "drum_balance": null
+    }
+  ],
+  "native": {
+    "path": "historical-workspace/output/orchestral-v11/Sekai_Grand_Symphonic_v11_Native_Mapped.mid",
+    "tracks": 81,
+    "seconds": 278.85246,
+    "ports": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      8,
+      9,
+      10
+    ],
+    "note_on_count": 11196,
+    "shared_port_channels": {},
+    "unbalanced_notes": [],
+    "track_details": [
+      {
+        "track": 0,
+        "name": "Conductor - Grand Divisi Orchestra v11",
+        "note_on_count": 0,
+        "port": 0,
+        "channels": []
+      },
+      {
+        "track": 1,
+        "name": "01 Piccolo [Native Mapped]",
+        "note_on_count": 2,
+        "port": 0,
+        "channels": [
+          0
+        ]
+      },
+      {
+        "track": 2,
+        "name": "02 Flute I [Native Mapped]",
+        "note_on_count": 137,
+        "port": 0,
+        "channels": [
+          1
+        ]
+      },
+      {
+        "track": 3,
+        "name": "03 Flute II [Native Mapped]",
+        "note_on_count": 45,
+        "port": 0,
+        "channels": [
+          2
+        ]
+      },
+      {
+        "track": 4,
+        "name": "04 Oboe [Native Mapped]",
+        "note_on_count": 127,
+        "port": 0,
+        "channels": [
+          3
+        ]
+      },
+      {
+        "track": 5,
+        "name": "05 English Horn [Native Mapped]",
+        "note_on_count": 158,
+        "port": 0,
+        "channels": [
+          4
+        ]
+      },
+      {
+        "track": 6,
+        "name": "06 Clarinet I [Native Mapped]",
+        "note_on_count": 124,
+        "port": 0,
+        "channels": [
+          5
+        ]
+      },
+      {
+        "track": 7,
+        "name": "07 Clarinet II [Native Mapped]",
+        "note_on_count": 197,
+        "port": 0,
+        "channels": [
+          6
+        ]
+      },
+      {
+        "track": 8,
+        "name": "08 Bass Clarinet [Native Mapped]",
+        "note_on_count": 186,
+        "port": 0,
+        "channels": [
+          7
+        ]
+      },
+      {
+        "track": 9,
+        "name": "09 Bassoon [Native Mapped]",
+        "note_on_count": 176,
+        "port": 0,
+        "channels": [
+          8
+        ]
+      },
+      {
+        "track": 10,
+        "name": "10 Contrabassoon [Native Mapped]",
+        "note_on_count": 184,
+        "port": 0,
+        "channels": [
+          10
+        ]
+      },
+      {
+        "track": 11,
+        "name": "11 Horn I [Native Mapped]",
+        "note_on_count": 133,
+        "port": 0,
+        "channels": [
+          11
+        ]
+      },
+      {
+        "track": 12,
+        "name": "12 Horn II [Native Mapped]",
+        "note_on_count": 153,
+        "port": 0,
+        "channels": [
+          12
+        ]
+      },
+      {
+        "track": 13,
+        "name": "13 Horn III [Native Mapped]",
+        "note_on_count": 126,
+        "port": 0,
+        "channels": [
+          13
+        ]
+      },
+      {
+        "track": 14,
+        "name": "14 Horn IV [Native Mapped]",
+        "note_on_count": 105,
+        "port": 0,
+        "channels": [
+          14
+        ]
+      },
+      {
+        "track": 15,
+        "name": "15 Trumpet I [Native Mapped]",
+        "note_on_count": 74,
+        "port": 0,
+        "channels": [
+          15
+        ]
+      },
+      {
+        "track": 16,
+        "name": "16 Trumpet II [Native Mapped]",
+        "note_on_count": 28,
+        "port": 1,
+        "channels": [
+          0
+        ]
+      },
+      {
+        "track": 17,
+        "name": "17 Trumpet III [Native Mapped]",
+        "note_on_count": 28,
+        "port": 1,
+        "channels": [
+          1
+        ]
+      },
+      {
+        "track": 18,
+        "name": "18 Trombone I [Native Mapped]",
+        "note_on_count": 34,
+        "port": 1,
+        "channels": [
+          2
+        ]
+      },
+      {
+        "track": 19,
+        "name": "19 Trombone II [Native Mapped]",
+        "note_on_count": 34,
+        "port": 1,
+        "channels": [
+          3
+        ]
+      },
+      {
+        "track": 20,
+        "name": "20 Bass Trombone [Native Mapped]",
+        "note_on_count": 45,
+        "port": 1,
+        "channels": [
+          4
+        ]
+      },
+      {
+        "track": 21,
+        "name": "21 Tuba [Native Mapped]",
+        "note_on_count": 34,
+        "port": 1,
+        "channels": [
+          5
+        ]
+      },
+      {
+        "track": 22,
+        "name": "22 Violin I - A [Native Mapped]",
+        "note_on_count": 349,
+        "port": 1,
+        "channels": [
+          6
+        ]
+      },
+      {
+        "track": 23,
+        "name": "23 Violin I - B [Native Mapped]",
+        "note_on_count": 158,
+        "port": 1,
+        "channels": [
+          7
+        ]
+      },
+      {
+        "track": 24,
+        "name": "24 Violin II - A [Native Mapped]",
+        "note_on_count": 324,
+        "port": 1,
+        "channels": [
+          8
+        ]
+      },
+      {
+        "track": 25,
+        "name": "25 Violin II - B [Native Mapped]",
+        "note_on_count": 164,
+        "port": 1,
+        "channels": [
+          10
+        ]
+      },
+      {
+        "track": 26,
+        "name": "26 Viola - A [Native Mapped]",
+        "note_on_count": 321,
+        "port": 1,
+        "channels": [
+          11
+        ]
+      },
+      {
+        "track": 27,
+        "name": "27 Viola - B [Native Mapped]",
+        "note_on_count": 238,
+        "port": 1,
+        "channels": [
+          12
+        ]
+      },
+      {
+        "track": 28,
+        "name": "28 Cello - A [Native Mapped]",
+        "note_on_count": 494,
+        "port": 1,
+        "channels": [
+          13
+        ]
+      },
+      {
+        "track": 29,
+        "name": "29 Cello - B [Native Mapped]",
+        "note_on_count": 207,
+        "port": 1,
+        "channels": [
+          14
+        ]
+      },
+      {
+        "track": 30,
+        "name": "30 Double Bass [Native Mapped]",
+        "note_on_count": 225,
+        "port": 1,
+        "channels": [
+          15
+        ]
+      },
+      {
+        "track": 31,
+        "name": "31 Solo Cello [Native Mapped]",
+        "note_on_count": 67,
+        "port": 2,
+        "channels": [
+          0
+        ]
+      },
+      {
+        "track": 32,
+        "name": "32 Harp I [Native Mapped]",
+        "note_on_count": 491,
+        "port": 2,
+        "channels": [
+          1
+        ]
+      },
+      {
+        "track": 33,
+        "name": "33 Harp II [Native Mapped]",
+        "note_on_count": 8,
+        "port": 2,
+        "channels": [
+          2
+        ]
+      },
+      {
+        "track": 34,
+        "name": "34 Celesta [Native Mapped]",
+        "note_on_count": 22,
+        "port": 2,
+        "channels": [
+          3
+        ]
+      },
+      {
+        "track": 35,
+        "name": "35 Glockenspiel [Native Mapped]",
+        "note_on_count": 4,
+        "port": 2,
+        "channels": [
+          4
+        ]
+      },
+      {
+        "track": 36,
+        "name": "36 Timpani [Native Mapped]",
+        "note_on_count": 22,
+        "port": 2,
+        "channels": [
+          5
+        ]
+      },
+      {
+        "track": 37,
+        "name": "37 Concert Bass Drum [Native Mapped]",
+        "note_on_count": 218,
+        "port": 3,
+        "channels": [
+          9
+        ]
+      },
+      {
+        "track": 38,
+        "name": "38 Concert Snare [Native Mapped]",
+        "note_on_count": 196,
+        "port": 4,
+        "channels": [
+          9
+        ]
+      },
+      {
+        "track": 39,
+        "name": "39 Crash Cymbals [Native Mapped]",
+        "note_on_count": 4,
+        "port": 5,
+        "channels": [
+          9
+        ]
+      },
+      {
+        "track": 40,
+        "name": "40 Suspended Cymbal [Native Mapped]",
+        "note_on_count": 5,
+        "port": 6,
+        "channels": [
+          9
+        ]
+      },
+      {
+        "track": 41,
+        "name": "42 Triangle [Native Mapped]",
+        "note_on_count": 6,
+        "port": 8,
+        "channels": [
+          9
+        ]
+      },
+      {
+        "track": 42,
+        "name": "43 Wordless Choir - High [Native Mapped]",
+        "note_on_count": 2,
+        "port": 2,
+        "channels": [
+          13
+        ]
+      },
+      {
+        "track": 43,
+        "name": "44 Wordless Choir - Low [Native Mapped]",
+        "note_on_count": 2,
+        "port": 2,
+        "channels": [
+          14
+        ]
+      },
+      {
+        "track": 44,
+        "name": "45 Deep Bass Drum Resonance [Native Mapped]",
+        "note_on_count": 112,
+        "port": 9,
+        "channels": [
+          9
+        ]
+      },
+      {
+        "track": 45,
+        "name": "46 Double Bass - Pizzicato [Native Mapped]",
+        "note_on_count": 291,
+        "port": 3,
+        "channels": [
+          0
+        ]
+      },
+      {
+        "track": 46,
+        "name": "47 Cello - C Ostinato [Native Mapped]",
+        "note_on_count": 194,
+        "port": 3,
+        "channels": [
+          1
+        ]
+      },
+      {
+        "track": 47,
+        "name": "48 Timpani II - Responses [Native Mapped]",
+        "note_on_count": 7,
+        "port": 3,
+        "channels": [
+          2
+        ]
+      },
+      {
+        "track": 48,
+        "name": "49 Electric Guitar - Arpeggios [Native Mapped]",
+        "note_on_count": 696,
+        "port": 3,
+        "channels": [
+          3
+        ]
+      },
+      {
+        "track": 49,
+        "name": "50 Electric Guitar - Rhythm [Native Mapped]",
+        "note_on_count": 186,
+        "port": 3,
+        "channels": [
+          4
+        ]
+      },
+      {
+        "track": 50,
+        "name": "51 Electric Bass Support [Native Mapped]",
+        "note_on_count": 93,
+        "port": 3,
+        "channels": [
+          5
+        ]
+      },
+      {
+        "track": 51,
+        "name": "52 Alto Sax - Ensemble Colour [Native Mapped]",
+        "note_on_count": 82,
+        "port": 3,
+        "channels": [
+          6
+        ]
+      },
+      {
+        "track": 52,
+        "name": "53 Modern Hi-hat [Native Mapped]",
+        "note_on_count": 132,
+        "port": 10,
+        "channels": [
+          9
+        ]
+      },
+      {
+        "track": 53,
+        "name": "54 Violin II - Tutti [Native Mapped]",
+        "note_on_count": 217,
+        "port": 3,
+        "channels": [
+          8
+        ]
+      },
+      {
+        "track": 54,
+        "name": "55 Flute - Tutti [Native Mapped]",
+        "note_on_count": 158,
+        "port": 3,
+        "channels": [
+          10
+        ]
+      },
+      {
+        "track": 55,
+        "name": "56 Violin I - Mid Tutti [Native Mapped]",
+        "note_on_count": 144,
+        "port": 4,
+        "channels": [
+          0
+        ]
+      },
+      {
+        "track": 56,
+        "name": "57 Clarinet - Tutti [Native Mapped]",
+        "note_on_count": 144,
+        "port": 4,
+        "channels": [
+          1
+        ]
+      },
+      {
+        "track": 57,
+        "name": "58 Wordless Choir - Finale [Native Mapped]",
+        "note_on_count": 48,
+        "port": 4,
+        "channels": [
+          2
+        ]
+      },
+      {
+        "track": 58,
+        "name": "59 Trumpet - Finale Accents [Native Mapped]",
+        "note_on_count": 24,
+        "port": 4,
+        "channels": [
+          3
+        ]
+      },
+      {
+        "track": 59,
+        "name": "60 Violin I - High Divisi [Native Mapped]",
+        "note_on_count": 89,
+        "port": 4,
+        "channels": [
+          4
+        ]
+      },
+      {
+        "track": 60,
+        "name": "61 Violin I - Middle Divisi [Native Mapped]",
+        "note_on_count": 178,
+        "port": 4,
+        "channels": [
+          5
+        ]
+      },
+      {
+        "track": 61,
+        "name": "62 Violin I - Lower Divisi [Native Mapped]",
+        "note_on_count": 93,
+        "port": 4,
+        "channels": [
+          6
+        ]
+      },
+      {
+        "track": 62,
+        "name": "63 Violin II - High Divisi [Native Mapped]",
+        "note_on_count": 113,
+        "port": 4,
+        "channels": [
+          7
+        ]
+      },
+      {
+        "track": 63,
+        "name": "64 Violin II - Middle Divisi [Native Mapped]",
+        "note_on_count": 176,
+        "port": 4,
+        "channels": [
+          8
+        ]
+      },
+      {
+        "track": 64,
+        "name": "65 Viola - Upper Divisi [Native Mapped]",
+        "note_on_count": 187,
+        "port": 4,
+        "channels": [
+          10
+        ]
+      },
+      {
+        "track": 65,
+        "name": "66 Viola - Lower Divisi [Native Mapped]",
+        "note_on_count": 60,
+        "port": 4,
+        "channels": [
+          11
+        ]
+      },
+      {
+        "track": 66,
+        "name": "67 Cello - Middle Divisi [Native Mapped]",
+        "note_on_count": 162,
+        "port": 4,
+        "channels": [
+          12
+        ]
+      },
+      {
+        "track": 67,
+        "name": "68 Cello - Lower Divisi [Native Mapped]",
+        "note_on_count": 58,
+        "port": 4,
+        "channels": [
+          13
+        ]
+      },
+      {
+        "track": 68,
+        "name": "69 Cello - Tenor Divisi [Native Mapped]",
+        "note_on_count": 112,
+        "port": 4,
+        "channels": [
+          14
+        ]
+      },
+      {
+        "track": 69,
+        "name": "70 Flute - Inner Harmony [Native Mapped]",
+        "note_on_count": 122,
+        "port": 4,
+        "channels": [
+          15
+        ]
+      },
+      {
+        "track": 70,
+        "name": "71 Clarinet - Harmony Divisi [Native Mapped]",
+        "note_on_count": 150,
+        "port": 5,
+        "channels": [
+          0
+        ]
+      },
+      {
+        "track": 71,
+        "name": "72 Oboe - Harmony Divisi [Native Mapped]",
+        "note_on_count": 104,
+        "port": 5,
+        "channels": [
+          1
+        ]
+      },
+      {
+        "track": 72,
+        "name": "73 Bassoon - Tenor Harmony [Native Mapped]",
+        "note_on_count": 67,
+        "port": 5,
+        "channels": [
+          2
+        ]
+      },
+      {
+        "track": 73,
+        "name": "74 Horn - Upper Divisi [Native Mapped]",
+        "note_on_count": 108,
+        "port": 5,
+        "channels": [
+          3
+        ]
+      },
+      {
+        "track": 74,
+        "name": "75 Horn - Middle Divisi [Native Mapped]",
+        "note_on_count": 71,
+        "port": 5,
+        "channels": [
+          4
+        ]
+      },
+      {
+        "track": 75,
+        "name": "76 Trumpet - Upper Harmony [Native Mapped]",
+        "note_on_count": 45,
+        "port": 5,
+        "channels": [
+          5
+        ]
+      },
+      {
+        "track": 76,
+        "name": "77 Trumpet - Middle Harmony [Native Mapped]",
+        "note_on_count": 44,
+        "port": 5,
+        "channels": [
+          6
+        ]
+      },
+      {
+        "track": 77,
+        "name": "78 Trombone - Inner Harmony [Native Mapped]",
+        "note_on_count": 60,
+        "port": 5,
+        "channels": [
+          7
+        ]
+      },
+      {
+        "track": 78,
+        "name": "79 Bass Trombone - Harmony [Native Mapped]",
+        "note_on_count": 44,
+        "port": 5,
+        "channels": [
+          8
+        ]
+      },
+      {
+        "track": 79,
+        "name": "80 Wordless Choir - Wide Divisi [Native Mapped]",
+        "note_on_count": 72,
+        "port": 5,
+        "channels": [
+          10
+        ]
+      },
+      {
+        "track": 80,
+        "name": "81 Concert Grand Piano [Native Mapped]",
+        "note_on_count": 896,
+        "port": 5,
+        "channels": [
+          11
+        ]
+      }
+    ],
+    "mapping": [
+      {
+        "id": "01",
+        "name": "Piccolo",
+        "library": "Sonatina Symphonic Orchestra v4.0",
+        "sample_key": "piccolo",
+        "port_zero_based": 0,
+        "channel_zero_based": 0,
+        "patch_path": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Woodwinds - Performance/Piccolo Solo Legato.sfz",
+        "source_render_midi": "historical-workspace/tmp/orchestral-v6/midi/01.mid",
+        "gm_program_zero_based": null,
+        "cc7": 45,
+        "cc10": 49,
+        "render_selection": {
+          "mode": "single_articulation",
+          "articulation": "Legato",
+          "render_midi_transpose": 0
+        },
+        "render_notes_retained_exactly": true
+      },
+      {
+        "id": "02",
+        "name": "Flute I",
+        "library": "Sonatina Symphonic Orchestra v4.0",
+        "sample_key": "flute",
+        "port_zero_based": 0,
+        "channel_zero_based": 1,
+        "patch_path": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Woodwinds - Performance/Flute Solo 1 KS.sfz",
+        "source_render_midi": "historical-workspace/tmp/orchestral-v6/render_work/02.render.mid",
+        "gm_program_zero_based": null,
+        "cc7": 75,
+        "cc10": 41,
+        "render_selection": {
+          "mode": "inserted_keyswitches",
+          "switch_count": 21,
+          "keys": {
+            "sustain (non-looped)": {
+              "key": 36,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Woodwinds - Performance/Flute Solo 1 Sustain.sfz"
+            },
+            "sustain (looped)": {
+              "key": 37,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Woodwinds - Performance/Flute Solo 1 Sustain (looped).sfz"
+            },
+            "sustain (looped, decay)": {
+              "key": 38,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Woodwinds - Performance/Flute Solo 1 Sustain (looped, decay).sfz"
+            },
+            "legato": {
+              "key": 39,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Woodwinds - Performance/Flute Solo 1 Legato.sfz"
+            },
+            "marcato (non-looped)": {
+              "key": 40,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Woodwinds - Performance/Flute Solo 1 Marcato.sfz"
+            },
+            "marcato (looped)": {
+              "key": 41,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Woodwinds - Performance/Flute Solo 1 Marcato (looped).sfz"
+            },
+            "marcato (looped, decay)": {
+              "key": 42,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Woodwinds - Performance/Flute Solo 1 Marcato (looped, decay).sfz"
+            },
+            "staccato": {
+              "key": 43,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Woodwinds - Performance/Flute Solo 1 Staccato.sfz"
+            }
+          },
+          "render_midi_transpose": 0
+        },
+        "render_notes_retained_exactly": true
+      },
+      {
+        "id": "03",
+        "name": "Flute II",
+        "library": "Sonatina Symphonic Orchestra v4.0",
+        "sample_key": "flute",
+        "port_zero_based": 0,
+        "channel_zero_based": 2,
+        "patch_path": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Woodwinds - Performance/Flute Solo 1 KS.sfz",
+        "source_render_midi": "historical-workspace/tmp/orchestral-v6/render_work/03.render.mid",
+        "gm_program_zero_based": null,
+        "cc7": 51,
+        "cc10": 48,
+        "render_selection": {
+          "mode": "inserted_keyswitches",
+          "switch_count": 7,
+          "keys": {
+            "sustain (non-looped)": {
+              "key": 36,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Woodwinds - Performance/Flute Solo 1 Sustain.sfz"
+            },
+            "sustain (looped)": {
+              "key": 37,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Woodwinds - Performance/Flute Solo 1 Sustain (looped).sfz"
+            },
+            "sustain (looped, decay)": {
+              "key": 38,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Woodwinds - Performance/Flute Solo 1 Sustain (looped, decay).sfz"
+            },
+            "legato": {
+              "key": 39,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Woodwinds - Performance/Flute Solo 1 Legato.sfz"
+            },
+            "marcato (non-looped)": {
+              "key": 40,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Woodwinds - Performance/Flute Solo 1 Marcato.sfz"
+            },
+            "marcato (looped)": {
+              "key": 41,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Woodwinds - Performance/Flute Solo 1 Marcato (looped).sfz"
+            },
+            "marcato (looped, decay)": {
+              "key": 42,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Woodwinds - Performance/Flute Solo 1 Marcato (looped, decay).sfz"
+            },
+            "staccato": {
+              "key": 43,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Woodwinds - Performance/Flute Solo 1 Staccato.sfz"
+            }
+          },
+          "render_midi_transpose": 0
+        },
+        "render_notes_retained_exactly": true
+      },
+      {
+        "id": "04",
+        "name": "Oboe",
+        "library": "Sonatina Symphonic Orchestra v4.0",
+        "sample_key": "oboe",
+        "port_zero_based": 0,
+        "channel_zero_based": 3,
+        "patch_path": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Woodwinds - Performance/Oboe Solo KS.sfz",
+        "source_render_midi": "historical-workspace/tmp/orchestral-v6/render_work/04.render.mid",
+        "gm_program_zero_based": null,
+        "cc7": 53,
+        "cc10": 57,
+        "render_selection": {
+          "mode": "inserted_keyswitches",
+          "switch_count": 23,
+          "keys": {
+            "sustain (non-looped)": {
+              "key": 36,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Woodwinds - Performance/Oboe Solo Sustain.sfz"
+            },
+            "sustain (looped)": {
+              "key": 37,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Woodwinds - Performance/Oboe Solo Sustain (looped).sfz"
+            },
+            "sustain (looped, decay)": {
+              "key": 38,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Woodwinds - Performance/Oboe Solo Sustain (looped, decay).sfz"
+            },
+            "staccato": {
+              "key": 39,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Woodwinds - Performance/Oboe Solo Staccato.sfz"
+            },
+            "legato": {
+              "key": 40,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Woodwinds - Performance/Oboe Solo Legato.sfz"
+            }
+          },
+          "render_midi_transpose": 0
+        },
+        "render_notes_retained_exactly": true
+      },
+      {
+        "id": "05",
+        "name": "English Horn",
+        "library": "Sonatina Symphonic Orchestra v4.0",
+        "sample_key": "english_horn",
+        "port_zero_based": 0,
+        "channel_zero_based": 4,
+        "patch_path": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Woodwinds - Performance/Cor Anglais Solo KS.sfz",
+        "source_render_midi": "historical-workspace/tmp/orchestral-v6/render_work/05.render.mid",
+        "gm_program_zero_based": null,
+        "cc7": 65,
+        "cc10": 65,
+        "render_selection": {
+          "mode": "inserted_keyswitches",
+          "switch_count": 29,
+          "keys": {
+            "sustain (non-looped)": {
+              "key": 36,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Woodwinds - Performance/Cor Anglais Solo Sustain.sfz"
+            },
+            "sustain (looped)": {
+              "key": 37,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Woodwinds - Performance/Cor Anglais Solo Sustain (looped).sfz"
+            },
+            "sustain (looped, decay)": {
+              "key": 38,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Woodwinds - Performance/Cor Anglais Solo Sustain (looped, decay).sfz"
+            },
+            "staccato": {
+              "key": 39,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Woodwinds - Performance/Cor Anglais Solo Staccato.sfz"
+            },
+            "legato": {
+              "key": 40,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Woodwinds - Performance/Cor Anglais Solo Legato.sfz"
+            }
+          },
+          "render_midi_transpose": 0
+        },
+        "render_notes_retained_exactly": true
+      },
+      {
+        "id": "06",
+        "name": "Clarinet I",
+        "library": "Sonatina Symphonic Orchestra v4.0",
+        "sample_key": "clarinet",
+        "port_zero_based": 0,
+        "channel_zero_based": 5,
+        "patch_path": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Woodwinds - Performance/Clarinet Solo KS.sfz",
+        "source_render_midi": "historical-workspace/tmp/orchestral-v6/render_work/06.render.mid",
+        "gm_program_zero_based": null,
+        "cc7": 63,
+        "cc10": 71,
+        "render_selection": {
+          "mode": "inserted_keyswitches",
+          "switch_count": 21,
+          "keys": {
+            "sustain (non-looped)": {
+              "key": 36,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Woodwinds - Performance/Clarinet Solo Sustain.sfz"
+            },
+            "sustain (looped)": {
+              "key": 37,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Woodwinds - Performance/Clarinet Solo Sustain (looped).sfz"
+            },
+            "sustain (looped, decay)": {
+              "key": 38,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Woodwinds - Performance/Clarinet Solo Sustain (looped, decay).sfz"
+            },
+            "staccato": {
+              "key": 39,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Woodwinds - Performance/Clarinet Solo Staccato.sfz"
+            },
+            "legato": {
+              "key": 40,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Woodwinds - Performance/Clarinet Solo Legato.sfz"
+            }
+          },
+          "render_midi_transpose": 0
+        },
+        "render_notes_retained_exactly": true
+      },
+      {
+        "id": "07",
+        "name": "Clarinet II",
+        "library": "Sonatina Symphonic Orchestra v4.0",
+        "sample_key": "clarinet",
+        "port_zero_based": 0,
+        "channel_zero_based": 6,
+        "patch_path": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Woodwinds - Performance/Clarinet Solo KS.sfz",
+        "source_render_midi": "historical-workspace/tmp/orchestral-v6/render_work/07.render.mid",
+        "gm_program_zero_based": null,
+        "cc7": 40,
+        "cc10": 78,
+        "render_selection": {
+          "mode": "inserted_keyswitches",
+          "switch_count": 9,
+          "keys": {
+            "sustain (non-looped)": {
+              "key": 36,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Woodwinds - Performance/Clarinet Solo Sustain.sfz"
+            },
+            "sustain (looped)": {
+              "key": 37,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Woodwinds - Performance/Clarinet Solo Sustain (looped).sfz"
+            },
+            "sustain (looped, decay)": {
+              "key": 38,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Woodwinds - Performance/Clarinet Solo Sustain (looped, decay).sfz"
+            },
+            "staccato": {
+              "key": 39,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Woodwinds - Performance/Clarinet Solo Staccato.sfz"
+            },
+            "legato": {
+              "key": 40,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Woodwinds - Performance/Clarinet Solo Legato.sfz"
+            }
+          },
+          "render_midi_transpose": 0
+        },
+        "render_notes_retained_exactly": true
+      },
+      {
+        "id": "08",
+        "name": "Bass Clarinet",
+        "library": "Sonatina Symphonic Orchestra v4.0",
+        "sample_key": "bass_clarinet",
+        "port_zero_based": 0,
+        "channel_zero_based": 7,
+        "patch_path": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Woodwinds - Performance/Bass Clarinet Solo Sustain (looped).sfz",
+        "source_render_midi": "historical-workspace/tmp/orchestral-v6/midi/08.mid",
+        "gm_program_zero_based": null,
+        "cc7": 47,
+        "cc10": 81,
+        "render_selection": {
+          "mode": "single_articulation",
+          "articulation": "Sustain (looped)",
+          "render_midi_transpose": 0
+        },
+        "render_notes_retained_exactly": true
+      },
+      {
+        "id": "09",
+        "name": "Bassoon",
+        "library": "Sonatina Symphonic Orchestra v4.0",
+        "sample_key": "bassoon",
+        "port_zero_based": 0,
+        "channel_zero_based": 8,
+        "patch_path": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Woodwinds - Performance/Bassoon Solo Sustain (looped).sfz",
+        "source_render_midi": "historical-workspace/tmp/orchestral-v6/midi/09.mid",
+        "gm_program_zero_based": null,
+        "cc7": 40,
+        "cc10": 88,
+        "render_selection": {
+          "mode": "single_articulation",
+          "articulation": "Sustain (looped)",
+          "render_midi_transpose": 0
+        },
+        "render_notes_retained_exactly": true
+      },
+      {
+        "id": "10",
+        "name": "Contrabassoon",
+        "library": "Sonatina Symphonic Orchestra v4.0",
+        "sample_key": "contrabassoon",
+        "port_zero_based": 0,
+        "channel_zero_based": 10,
+        "patch_path": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Woodwinds - Performance/Contrabassoon Solo Sustain (looped).sfz",
+        "source_render_midi": "historical-workspace/tmp/orchestral-v6/midi/10.mid",
+        "gm_program_zero_based": null,
+        "cc7": 41,
+        "cc10": 92,
+        "render_selection": {
+          "mode": "single_articulation",
+          "articulation": "Sustain (looped)",
+          "render_midi_transpose": 0
+        },
+        "render_notes_retained_exactly": true
+      },
+      {
+        "id": "11",
+        "name": "Horn I",
+        "library": "Sonatina Symphonic Orchestra v4.0",
+        "sample_key": "horn_section",
+        "port_zero_based": 0,
+        "channel_zero_based": 11,
+        "patch_path": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Brass - Performance/Horns KS.sfz",
+        "source_render_midi": "historical-workspace/tmp/orchestral-v6/render_work/11.render.mid",
+        "gm_program_zero_based": null,
+        "cc7": 51,
+        "cc10": 41,
+        "render_selection": {
+          "mode": "inserted_keyswitches",
+          "switch_count": 31,
+          "keys": {
+            "sustain": {
+              "key": 84,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Brass - Performance/Horns Sustain.sfz"
+            },
+            "marcato": {
+              "key": 86,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Brass - Performance/Horns Marcato.sfz"
+            },
+            "staccato": {
+              "key": 88,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Brass - Performance/Horns Staccato.sfz"
+            },
+            "legato": {
+              "key": 89,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Brass - Performance/Horns Legato.sfz"
+            }
+          },
+          "render_midi_transpose": 0
+        },
+        "render_notes_retained_exactly": true
+      },
+      {
+        "id": "12",
+        "name": "Horn II",
+        "library": "Sonatina Symphonic Orchestra v4.0",
+        "sample_key": "horn_section",
+        "port_zero_based": 0,
+        "channel_zero_based": 12,
+        "patch_path": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Brass - Performance/Horns KS.sfz",
+        "source_render_midi": "historical-workspace/tmp/orchestral-v6/render_work/12.render.mid",
+        "gm_program_zero_based": null,
+        "cc7": 39,
+        "cc10": 46,
+        "render_selection": {
+          "mode": "inserted_keyswitches",
+          "switch_count": 31,
+          "keys": {
+            "sustain": {
+              "key": 84,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Brass - Performance/Horns Sustain.sfz"
+            },
+            "marcato": {
+              "key": 86,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Brass - Performance/Horns Marcato.sfz"
+            },
+            "staccato": {
+              "key": 88,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Brass - Performance/Horns Staccato.sfz"
+            },
+            "legato": {
+              "key": 89,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Brass - Performance/Horns Legato.sfz"
+            }
+          },
+          "render_midi_transpose": 0
+        },
+        "render_notes_retained_exactly": true
+      },
+      {
+        "id": "13",
+        "name": "Horn III",
+        "library": "Sonatina Symphonic Orchestra v4.0",
+        "sample_key": "horn_section",
+        "port_zero_based": 0,
+        "channel_zero_based": 13,
+        "patch_path": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Brass - Performance/Horns KS.sfz",
+        "source_render_midi": "historical-workspace/tmp/orchestral-v6/render_work/13.render.mid",
+        "gm_program_zero_based": null,
+        "cc7": 37,
+        "cc10": 51,
+        "render_selection": {
+          "mode": "inserted_keyswitches",
+          "switch_count": 5,
+          "keys": {
+            "sustain": {
+              "key": 84,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Brass - Performance/Horns Sustain.sfz"
+            },
+            "marcato": {
+              "key": 86,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Brass - Performance/Horns Marcato.sfz"
+            },
+            "staccato": {
+              "key": 88,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Brass - Performance/Horns Staccato.sfz"
+            },
+            "legato": {
+              "key": 89,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Brass - Performance/Horns Legato.sfz"
+            }
+          },
+          "render_midi_transpose": 0
+        },
+        "render_notes_retained_exactly": true
+      },
+      {
+        "id": "14",
+        "name": "Horn IV",
+        "library": "Sonatina Symphonic Orchestra v4.0",
+        "sample_key": "horn_section",
+        "port_zero_based": 0,
+        "channel_zero_based": 14,
+        "patch_path": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Brass - Performance/Horns Sustain.sfz",
+        "source_render_midi": "historical-workspace/tmp/orchestral-v6/midi/14.mid",
+        "gm_program_zero_based": null,
+        "cc7": 32,
+        "cc10": 56,
+        "render_selection": {
+          "mode": "single_articulation",
+          "articulation": "Sustain",
+          "render_midi_transpose": 0
+        },
+        "render_notes_retained_exactly": true
+      },
+      {
+        "id": "15",
+        "name": "Trumpet I",
+        "library": "Sonatina Symphonic Orchestra v4.0",
+        "sample_key": "trumpet_section",
+        "port_zero_based": 0,
+        "channel_zero_based": 15,
+        "patch_path": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Brass - Performance/Trumpets KS.sfz",
+        "source_render_midi": "historical-workspace/tmp/orchestral-v6/render_work/15.render.mid",
+        "gm_program_zero_based": null,
+        "cc7": 71,
+        "cc10": 65,
+        "render_selection": {
+          "mode": "inserted_keyswitches",
+          "switch_count": 21,
+          "keys": {
+            "sustain (looped)": {
+              "key": 36,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Brass - Performance/Trumpets Sustain (looped).sfz"
+            },
+            "sustain (non-looped)": {
+              "key": 37,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Brass - Performance/Trumpets Sustain.sfz"
+            },
+            "marcato (looped)": {
+              "key": 38,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Brass - Performance/Trumpets Marcato (looped).sfz"
+            },
+            "marcato (non-looped)": {
+              "key": 39,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Brass - Performance/Trumpets Marcato.sfz"
+            },
+            "staccato": {
+              "key": 40,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Brass - Performance/Trumpets Staccato.sfz"
+            },
+            "legato": {
+              "key": 41,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Brass - Performance/Trumpets Legato.sfz"
+            }
+          },
+          "render_midi_transpose": 0
+        },
+        "render_notes_retained_exactly": true
+      },
+      {
+        "id": "16",
+        "name": "Trumpet II",
+        "library": "Sonatina Symphonic Orchestra v4.0",
+        "sample_key": "trumpet_section",
+        "port_zero_based": 1,
+        "channel_zero_based": 0,
+        "patch_path": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Brass - Performance/Trumpets KS.sfz",
+        "source_render_midi": "historical-workspace/tmp/orchestral-v6/render_work/16.render.mid",
+        "gm_program_zero_based": null,
+        "cc7": 53,
+        "cc10": 72,
+        "render_selection": {
+          "mode": "inserted_keyswitches",
+          "switch_count": 14,
+          "keys": {
+            "sustain (looped)": {
+              "key": 36,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Brass - Performance/Trumpets Sustain (looped).sfz"
+            },
+            "sustain (non-looped)": {
+              "key": 37,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Brass - Performance/Trumpets Sustain.sfz"
+            },
+            "marcato (looped)": {
+              "key": 38,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Brass - Performance/Trumpets Marcato (looped).sfz"
+            },
+            "marcato (non-looped)": {
+              "key": 39,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Brass - Performance/Trumpets Marcato.sfz"
+            },
+            "staccato": {
+              "key": 40,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Brass - Performance/Trumpets Staccato.sfz"
+            },
+            "legato": {
+              "key": 41,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Brass - Performance/Trumpets Legato.sfz"
+            }
+          },
+          "render_midi_transpose": 0
+        },
+        "render_notes_retained_exactly": true
+      },
+      {
+        "id": "17",
+        "name": "Trumpet III",
+        "library": "Sonatina Symphonic Orchestra v4.0",
+        "sample_key": "trumpet_section",
+        "port_zero_based": 1,
+        "channel_zero_based": 1,
+        "patch_path": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Brass - Performance/Trumpets KS.sfz",
+        "source_render_midi": "historical-workspace/tmp/orchestral-v6/render_work/17.render.mid",
+        "gm_program_zero_based": null,
+        "cc7": 52,
+        "cc10": 78,
+        "render_selection": {
+          "mode": "inserted_keyswitches",
+          "switch_count": 14,
+          "keys": {
+            "sustain (looped)": {
+              "key": 36,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Brass - Performance/Trumpets Sustain (looped).sfz"
+            },
+            "sustain (non-looped)": {
+              "key": 37,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Brass - Performance/Trumpets Sustain.sfz"
+            },
+            "marcato (looped)": {
+              "key": 38,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Brass - Performance/Trumpets Marcato (looped).sfz"
+            },
+            "marcato (non-looped)": {
+              "key": 39,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Brass - Performance/Trumpets Marcato.sfz"
+            },
+            "staccato": {
+              "key": 40,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Brass - Performance/Trumpets Staccato.sfz"
+            },
+            "legato": {
+              "key": 41,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Brass - Performance/Trumpets Legato.sfz"
+            }
+          },
+          "render_midi_transpose": 0
+        },
+        "render_notes_retained_exactly": true
+      },
+      {
+        "id": "18",
+        "name": "Trombone I",
+        "library": "Sonatina Symphonic Orchestra v4.0",
+        "sample_key": "trombone_section",
+        "port_zero_based": 1,
+        "channel_zero_based": 2,
+        "patch_path": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Brass - Performance/Trombones Marcato (looped).sfz",
+        "source_render_midi": "historical-workspace/tmp/orchestral-v6/midi/18.mid",
+        "gm_program_zero_based": null,
+        "cc7": 46,
+        "cc10": 86,
+        "render_selection": {
+          "mode": "single_articulation",
+          "articulation": "Marcato (looped)",
+          "render_midi_transpose": 0
+        },
+        "render_notes_retained_exactly": true
+      },
+      {
+        "id": "19",
+        "name": "Trombone II",
+        "library": "Sonatina Symphonic Orchestra v4.0",
+        "sample_key": "trombone_section",
+        "port_zero_based": 1,
+        "channel_zero_based": 3,
+        "patch_path": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Brass - Performance/Trombones Marcato (looped).sfz",
+        "source_render_midi": "historical-workspace/tmp/orchestral-v6/midi/19.mid",
+        "gm_program_zero_based": null,
+        "cc7": 41,
+        "cc10": 91,
+        "render_selection": {
+          "mode": "single_articulation",
+          "articulation": "Marcato (looped)",
+          "render_midi_transpose": 0
+        },
+        "render_notes_retained_exactly": true
+      },
+      {
+        "id": "20",
+        "name": "Bass Trombone",
+        "library": "Sonatina Symphonic Orchestra v4.0",
+        "sample_key": "trombone_section",
+        "port_zero_based": 1,
+        "channel_zero_based": 4,
+        "patch_path": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Brass - Performance/Trombones KS.sfz",
+        "source_render_midi": "historical-workspace/tmp/orchestral-v6/render_work/20.render.mid",
+        "gm_program_zero_based": null,
+        "cc7": 47,
+        "cc10": 97,
+        "render_selection": {
+          "mode": "inserted_keyswitches",
+          "switch_count": 5,
+          "keys": {
+            "sustain (looped)": {
+              "key": 84,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Brass - Performance/Trombones Sustain (looped).sfz"
+            },
+            "sustain (non-looped)": {
+              "key": 85,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Brass - Performance/Trombones Sustain.sfz"
+            },
+            "marcato (looped)": {
+              "key": 86,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Brass - Performance/Trombones Marcato (looped).sfz"
+            },
+            "marcato (non-looped)": {
+              "key": 87,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Brass - Performance/Trombones Marcato.sfz"
+            },
+            "staccato": {
+              "key": 88,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Brass - Performance/Trombones Staccato.sfz"
+            },
+            "legato": {
+              "key": 89,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Brass - Performance/Trombones Legato.sfz"
+            }
+          },
+          "render_midi_transpose": 0
+        },
+        "render_notes_retained_exactly": true
+      },
+      {
+        "id": "21",
+        "name": "Tuba",
+        "library": "Sonatina Symphonic Orchestra v4.0",
+        "sample_key": "tuba",
+        "port_zero_based": 1,
+        "channel_zero_based": 5,
+        "patch_path": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Brass - Performance/Tuba Marcato (looped).sfz",
+        "source_render_midi": "historical-workspace/tmp/orchestral-v6/midi/21.mid",
+        "gm_program_zero_based": null,
+        "cc7": 51,
+        "cc10": 102,
+        "render_selection": {
+          "mode": "single_articulation",
+          "articulation": "Marcato (looped)",
+          "render_midi_transpose": 0
+        },
+        "render_notes_retained_exactly": true
+      },
+      {
+        "id": "22",
+        "name": "Violin I - A",
+        "library": "Sonatina Symphonic Orchestra v4.0",
+        "sample_key": "violin1",
+        "port_zero_based": 1,
+        "channel_zero_based": 6,
+        "patch_path": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Strings - Performance/1st Violins KS.sfz",
+        "source_render_midi": "historical-workspace/tmp/orchestral-v6/render_work/22.render.mid",
+        "gm_program_zero_based": null,
+        "cc7": 71,
+        "cc10": 18,
+        "render_selection": {
+          "mode": "inserted_keyswitches",
+          "switch_count": 80,
+          "keys": {
+            "sustain": {
+              "key": 36,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Strings - Performance/1st Violins Sustain.sfz"
+            },
+            "legato": {
+              "key": 37,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Strings - Performance/1st Violins Legato.sfz"
+            },
+            "marcato": {
+              "key": 38,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Strings - Performance/1st Violins Marcato.sfz"
+            },
+            "staccato": {
+              "key": 40,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Strings - Performance/1st Violins Staccato.sfz"
+            },
+            "pizzicato": {
+              "key": 41,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Strings - Performance/1st Violins Pizzicato.sfz"
+            },
+            "col legno": {
+              "key": 42,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Strings - Performance/1st Violins Col Legno.sfz"
+            },
+            "tremolo": {
+              "key": 43,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Strings - Performance/1st Violins Tremolo.sfz"
+            },
+            "harmonics": {
+              "key": 45,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Strings - Performance/1st Violins Harmonics.sfz"
+            }
+          },
+          "render_midi_transpose": 0
+        },
+        "render_notes_retained_exactly": true
+      },
+      {
+        "id": "23",
+        "name": "Violin I - B",
+        "library": "Sonatina Symphonic Orchestra v4.0",
+        "sample_key": "violin1",
+        "port_zero_based": 1,
+        "channel_zero_based": 7,
+        "patch_path": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Strings - Performance/1st Violins KS.sfz",
+        "source_render_midi": "historical-workspace/tmp/orchestral-v6/render_work/23.render.mid",
+        "gm_program_zero_based": null,
+        "cc7": 43,
+        "cc10": 25,
+        "render_selection": {
+          "mode": "inserted_keyswitches",
+          "switch_count": 29,
+          "keys": {
+            "sustain": {
+              "key": 36,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Strings - Performance/1st Violins Sustain.sfz"
+            },
+            "legato": {
+              "key": 37,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Strings - Performance/1st Violins Legato.sfz"
+            },
+            "marcato": {
+              "key": 38,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Strings - Performance/1st Violins Marcato.sfz"
+            },
+            "staccato": {
+              "key": 40,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Strings - Performance/1st Violins Staccato.sfz"
+            },
+            "pizzicato": {
+              "key": 41,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Strings - Performance/1st Violins Pizzicato.sfz"
+            },
+            "col legno": {
+              "key": 42,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Strings - Performance/1st Violins Col Legno.sfz"
+            },
+            "tremolo": {
+              "key": 43,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Strings - Performance/1st Violins Tremolo.sfz"
+            },
+            "harmonics": {
+              "key": 45,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Strings - Performance/1st Violins Harmonics.sfz"
+            }
+          },
+          "render_midi_transpose": 0
+        },
+        "render_notes_retained_exactly": true
+      },
+      {
+        "id": "24",
+        "name": "Violin II - A",
+        "library": "Sonatina Symphonic Orchestra v4.0",
+        "sample_key": "violin2",
+        "port_zero_based": 1,
+        "channel_zero_based": 8,
+        "patch_path": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Strings - Performance/2nd Violins KS.sfz",
+        "source_render_midi": "historical-workspace/tmp/orchestral-v6/render_work/24.render.mid",
+        "gm_program_zero_based": null,
+        "cc7": 75,
+        "cc10": 33,
+        "render_selection": {
+          "mode": "inserted_keyswitches",
+          "switch_count": 7,
+          "keys": {
+            "sustain": {
+              "key": 36,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Strings - Performance/2nd Violins Sustain.sfz"
+            },
+            "legato": {
+              "key": 37,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Strings - Performance/2nd Violins Legato.sfz"
+            },
+            "marcato": {
+              "key": 38,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Strings - Performance/2nd Violins Marcato.sfz"
+            },
+            "staccato": {
+              "key": 40,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Strings - Performance/2nd Violins Staccato.sfz"
+            },
+            "pizzicato": {
+              "key": 41,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Strings - Performance/2nd Violins Pizzicato.sfz"
+            },
+            "col legno": {
+              "key": 42,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Strings - Performance/2nd Violins Col Legno.sfz"
+            },
+            "tremolo": {
+              "key": 43,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Strings - Performance/2nd Violins Tremolo.sfz"
+            },
+            "harmonics": {
+              "key": 45,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Strings - Performance/2nd Violins Harmonics.sfz"
+            }
+          },
+          "render_midi_transpose": 0
+        },
+        "render_notes_retained_exactly": true
+      },
+      {
+        "id": "25",
+        "name": "Violin II - B",
+        "library": "Sonatina Symphonic Orchestra v4.0",
+        "sample_key": "violin2",
+        "port_zero_based": 1,
+        "channel_zero_based": 10,
+        "patch_path": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Strings - Performance/2nd Violins KS.sfz",
+        "source_render_midi": "historical-workspace/tmp/orchestral-v6/render_work/25.render.mid",
+        "gm_program_zero_based": null,
+        "cc7": 50,
+        "cc10": 41,
+        "render_selection": {
+          "mode": "inserted_keyswitches",
+          "switch_count": 21,
+          "keys": {
+            "sustain": {
+              "key": 36,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Strings - Performance/2nd Violins Sustain.sfz"
+            },
+            "legato": {
+              "key": 37,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Strings - Performance/2nd Violins Legato.sfz"
+            },
+            "marcato": {
+              "key": 38,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Strings - Performance/2nd Violins Marcato.sfz"
+            },
+            "staccato": {
+              "key": 40,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Strings - Performance/2nd Violins Staccato.sfz"
+            },
+            "pizzicato": {
+              "key": 41,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Strings - Performance/2nd Violins Pizzicato.sfz"
+            },
+            "col legno": {
+              "key": 42,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Strings - Performance/2nd Violins Col Legno.sfz"
+            },
+            "tremolo": {
+              "key": 43,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Strings - Performance/2nd Violins Tremolo.sfz"
+            },
+            "harmonics": {
+              "key": 45,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Strings - Performance/2nd Violins Harmonics.sfz"
+            }
+          },
+          "render_midi_transpose": 0
+        },
+        "render_notes_retained_exactly": true
+      },
+      {
+        "id": "26",
+        "name": "Viola - A",
+        "library": "Sonatina Symphonic Orchestra v4.0",
+        "sample_key": "viola",
+        "port_zero_based": 1,
+        "channel_zero_based": 11,
+        "patch_path": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Strings - Performance/Violas KS.sfz",
+        "source_render_midi": "historical-workspace/tmp/orchestral-v6/render_work/26.render.mid",
+        "gm_program_zero_based": null,
+        "cc7": 64,
+        "cc10": 62,
+        "render_selection": {
+          "mode": "inserted_keyswitches",
+          "switch_count": 7,
+          "keys": {
+            "sustain": {
+              "key": 36,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Strings - Performance/Violas Sustain.sfz"
+            },
+            "legato": {
+              "key": 37,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Strings - Performance/Violas Legato.sfz"
+            },
+            "marcato": {
+              "key": 38,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Strings - Performance/Violas Marcato.sfz"
+            },
+            "staccato": {
+              "key": 40,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Strings - Performance/Violas Staccato.sfz"
+            },
+            "pizzicato": {
+              "key": 41,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Strings - Performance/Violas Pizzicato.sfz"
+            },
+            "col legno": {
+              "key": 42,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Strings - Performance/Violas Col Legno.sfz"
+            },
+            "tremolo": {
+              "key": 43,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Strings - Performance/Violas Tremolo.sfz"
+            },
+            "harmonics": {
+              "key": 45,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Strings - Performance/Violas Harmonics.sfz"
+            }
+          },
+          "render_midi_transpose": 0
+        },
+        "render_notes_retained_exactly": true
+      },
+      {
+        "id": "27",
+        "name": "Viola - B",
+        "library": "Sonatina Symphonic Orchestra v4.0",
+        "sample_key": "viola",
+        "port_zero_based": 1,
+        "channel_zero_based": 12,
+        "patch_path": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Strings - Performance/Violas KS.sfz",
+        "source_render_midi": "historical-workspace/tmp/orchestral-v6/render_work/27.render.mid",
+        "gm_program_zero_based": null,
+        "cc7": 42,
+        "cc10": 70,
+        "render_selection": {
+          "mode": "inserted_keyswitches",
+          "switch_count": 17,
+          "keys": {
+            "sustain": {
+              "key": 36,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Strings - Performance/Violas Sustain.sfz"
+            },
+            "legato": {
+              "key": 37,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Strings - Performance/Violas Legato.sfz"
+            },
+            "marcato": {
+              "key": 38,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Strings - Performance/Violas Marcato.sfz"
+            },
+            "staccato": {
+              "key": 40,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Strings - Performance/Violas Staccato.sfz"
+            },
+            "pizzicato": {
+              "key": 41,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Strings - Performance/Violas Pizzicato.sfz"
+            },
+            "col legno": {
+              "key": 42,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Strings - Performance/Violas Col Legno.sfz"
+            },
+            "tremolo": {
+              "key": 43,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Strings - Performance/Violas Tremolo.sfz"
+            },
+            "harmonics": {
+              "key": 45,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Strings - Performance/Violas Harmonics.sfz"
+            }
+          },
+          "render_midi_transpose": 0
+        },
+        "render_notes_retained_exactly": true
+      },
+      {
+        "id": "28",
+        "name": "Cello - A",
+        "library": "Sonatina Symphonic Orchestra v4.0",
+        "sample_key": "cello",
+        "port_zero_based": 1,
+        "channel_zero_based": 13,
+        "patch_path": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Strings - Performance/Celli KS.sfz",
+        "source_render_midi": "historical-workspace/tmp/orchestral-v6/render_work/28.render.mid",
+        "gm_program_zero_based": null,
+        "cc7": 66,
+        "cc10": 86,
+        "render_selection": {
+          "mode": "inserted_keyswitches",
+          "switch_count": 156,
+          "keys": {
+            "sustain": {
+              "key": 84,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Strings - Performance/Celli Sustain.sfz"
+            },
+            "legato": {
+              "key": 85,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Strings - Performance/Celli Legato.sfz"
+            },
+            "marcato": {
+              "key": 86,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Strings - Performance/Celli Marcato.sfz"
+            },
+            "staccato": {
+              "key": 88,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Strings - Performance/Celli Staccato.sfz"
+            },
+            "pizzicato": {
+              "key": 89,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Strings - Performance/Celli Pizzicato.sfz"
+            },
+            "col legno": {
+              "key": 90,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Strings - Performance/Celli Col Legno.sfz"
+            },
+            "tremolo": {
+              "key": 91,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Strings - Performance/Celli Tremolo.sfz"
+            },
+            "harmonics": {
+              "key": 93,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Strings - Performance/Celli Harmonics.sfz"
+            }
+          },
+          "render_midi_transpose": 0
+        },
+        "render_notes_retained_exactly": true
+      },
+      {
+        "id": "29",
+        "name": "Cello - B",
+        "library": "Sonatina Symphonic Orchestra v4.0",
+        "sample_key": "cello",
+        "port_zero_based": 1,
+        "channel_zero_based": 14,
+        "patch_path": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Strings - Performance/Celli KS.sfz",
+        "source_render_midi": "historical-workspace/tmp/orchestral-v6/render_work/29.render.mid",
+        "gm_program_zero_based": null,
+        "cc7": 44,
+        "cc10": 92,
+        "render_selection": {
+          "mode": "inserted_keyswitches",
+          "switch_count": 19,
+          "keys": {
+            "sustain": {
+              "key": 84,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Strings - Performance/Celli Sustain.sfz"
+            },
+            "legato": {
+              "key": 85,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Strings - Performance/Celli Legato.sfz"
+            },
+            "marcato": {
+              "key": 86,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Strings - Performance/Celli Marcato.sfz"
+            },
+            "staccato": {
+              "key": 88,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Strings - Performance/Celli Staccato.sfz"
+            },
+            "pizzicato": {
+              "key": 89,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Strings - Performance/Celli Pizzicato.sfz"
+            },
+            "col legno": {
+              "key": 90,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Strings - Performance/Celli Col Legno.sfz"
+            },
+            "tremolo": {
+              "key": 91,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Strings - Performance/Celli Tremolo.sfz"
+            },
+            "harmonics": {
+              "key": 93,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Strings - Performance/Celli Harmonics.sfz"
+            }
+          },
+          "render_midi_transpose": 0
+        },
+        "render_notes_retained_exactly": true
+      },
+      {
+        "id": "30",
+        "name": "Double Bass",
+        "library": "Sonatina Symphonic Orchestra v4.0",
+        "sample_key": "double_bass",
+        "port_zero_based": 1,
+        "channel_zero_based": 15,
+        "patch_path": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Strings - Performance/Basses Sustain.sfz",
+        "source_render_midi": "historical-workspace/tmp/orchestral-v6/midi/30.mid",
+        "gm_program_zero_based": null,
+        "cc7": 61,
+        "cc10": 103,
+        "render_selection": {
+          "mode": "single_articulation",
+          "articulation": "Sustain",
+          "render_midi_transpose": 0
+        },
+        "render_notes_retained_exactly": true
+      },
+      {
+        "id": "31",
+        "name": "Solo Cello",
+        "library": "Sonatina Symphonic Orchestra v4.0",
+        "sample_key": "cello_solo",
+        "port_zero_based": 2,
+        "channel_zero_based": 0,
+        "patch_path": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Strings - Performance/Cello Solo KS.sfz",
+        "source_render_midi": "historical-workspace/tmp/orchestral-v6/render_work/31.render.mid",
+        "gm_program_zero_based": null,
+        "cc7": 100,
+        "cc10": 80,
+        "render_selection": {
+          "mode": "inserted_keyswitches",
+          "switch_count": 17,
+          "keys": {
+            "sustain": {
+              "key": 91,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Strings - Performance/Cello Solo Sustain.sfz"
+            },
+            "legato": {
+              "key": 92,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Strings - Performance/Cello Solo Legato.sfz"
+            },
+            "marcato": {
+              "key": 93,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Strings - Performance/Cello Solo Marcato.sfz"
+            },
+            "staccato": {
+              "key": 95,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Strings - Performance/Cello Solo Staccato.sfz"
+            },
+            "pizzicato": {
+              "key": 96,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Strings - Performance/Cello Solo Pizzicato.sfz"
+            },
+            "harmonics": {
+              "key": 98,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Strings - Performance/Cello Solo Harmonics.sfz"
+            }
+          },
+          "render_midi_transpose": 0
+        },
+        "render_notes_retained_exactly": true
+      },
+      {
+        "id": "32",
+        "name": "Harp I",
+        "library": "Sonatina Symphonic Orchestra v4.0",
+        "sample_key": "harp",
+        "port_zero_based": 2,
+        "channel_zero_based": 1,
+        "patch_path": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Concert Harp.sfz",
+        "source_render_midi": "historical-workspace/tmp/orchestral-v6/midi/32.mid",
+        "gm_program_zero_based": null,
+        "cc7": 45,
+        "cc10": 30,
+        "render_selection": {
+          "mode": "direct",
+          "render_midi_transpose": 0
+        },
+        "render_notes_retained_exactly": true
+      },
+      {
+        "id": "33",
+        "name": "Harp II",
+        "library": "Sonatina Symphonic Orchestra v4.0",
+        "sample_key": "harp",
+        "port_zero_based": 2,
+        "channel_zero_based": 2,
+        "patch_path": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Concert Harp.sfz",
+        "source_render_midi": "historical-workspace/tmp/orchestral-v6/midi/33.mid",
+        "gm_program_zero_based": null,
+        "cc7": 53,
+        "cc10": 38,
+        "render_selection": {
+          "mode": "direct",
+          "render_midi_transpose": 0
+        },
+        "render_notes_retained_exactly": true
+      },
+      {
+        "id": "34",
+        "name": "Celesta",
+        "library": "Sonatina Symphonic Orchestra v4.0",
+        "sample_key": "celeste",
+        "port_zero_based": 2,
+        "channel_zero_based": 3,
+        "patch_path": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Percussion/Celeste.sfz",
+        "source_render_midi": "historical-workspace/tmp/orchestral-v6/midi/34.mid",
+        "gm_program_zero_based": null,
+        "cc7": 45,
+        "cc10": 53,
+        "render_selection": {
+          "mode": "direct",
+          "render_midi_transpose": 0
+        },
+        "render_notes_retained_exactly": true
+      },
+      {
+        "id": "35",
+        "name": "Glockenspiel",
+        "library": "Sonatina Symphonic Orchestra v4.0",
+        "sample_key": "glockenspiel",
+        "port_zero_based": 2,
+        "channel_zero_based": 4,
+        "patch_path": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Percussion/Glockenspiel.sfz",
+        "source_render_midi": "historical-workspace/tmp/orchestral-v6/render_work/35.concert-input.mid",
+        "gm_program_zero_based": null,
+        "cc7": 40,
+        "cc10": 67,
+        "render_selection": {
+          "mode": "direct",
+          "render_midi_transpose": -24,
+          "intended_concert_midi_range": [
+            88,
+            90
+          ],
+          "intended_fundamental_hz_range": [
+            1318.5102276514797,
+            1479.9776908465376
+          ]
+        },
+        "render_notes_retained_exactly": true
+      },
+      {
+        "id": "36",
+        "name": "Timpani",
+        "library": "Sonatina Symphonic Orchestra v4.0",
+        "sample_key": "timpani",
+        "port_zero_based": 2,
+        "channel_zero_based": 5,
+        "patch_path": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Percussion/Timpani.sfz",
+        "source_render_midi": "historical-workspace/tmp/orchestral-v6/midi/36.mid",
+        "gm_program_zero_based": null,
+        "cc7": 83,
+        "cc10": 86,
+        "render_selection": {
+          "mode": "direct",
+          "render_midi_transpose": 0
+        },
+        "render_notes_retained_exactly": true
+      },
+      {
+        "id": "37",
+        "name": "Concert Bass Drum",
+        "library": "Sonatina Symphonic Orchestra v4.0",
+        "sample_key": "bass_drum_and_snare",
+        "port_zero_based": 3,
+        "channel_zero_based": 9,
+        "patch_path": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Percussion/Bass Drum & Snare.sfz",
+        "source_render_midi": "historical-workspace/tmp/orchestral-v6/midi/37.mid",
+        "gm_program_zero_based": null,
+        "cc7": 88,
+        "cc10": 80,
+        "render_selection": {
+          "mode": "direct",
+          "render_midi_transpose": 0
+        },
+        "render_notes_retained_exactly": true
+      },
+      {
+        "id": "38",
+        "name": "Concert Snare",
+        "library": "Sonatina Symphonic Orchestra v4.0",
+        "sample_key": "bass_drum_and_snare",
+        "port_zero_based": 4,
+        "channel_zero_based": 9,
+        "patch_path": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Percussion/Bass Drum & Snare.sfz",
+        "source_render_midi": "historical-workspace/tmp/orchestral-v6/midi/38.mid",
+        "gm_program_zero_based": null,
+        "cc7": 84,
+        "cc10": 88,
+        "render_selection": {
+          "mode": "direct",
+          "render_midi_transpose": 0
+        },
+        "render_notes_retained_exactly": true
+      },
+      {
+        "id": "39",
+        "name": "Crash Cymbals",
+        "library": "Sonatina Symphonic Orchestra v4.0",
+        "sample_key": "cymbals_and_tamtam",
+        "port_zero_based": 5,
+        "channel_zero_based": 9,
+        "patch_path": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Percussion/Cymbals & Tamtam.sfz",
+        "source_render_midi": "historical-workspace/tmp/orchestral-v6/midi/39.mid",
+        "gm_program_zero_based": null,
+        "cc7": 69,
+        "cc10": 73,
+        "render_selection": {
+          "mode": "direct",
+          "render_midi_transpose": 0
+        },
+        "render_notes_retained_exactly": true
+      },
+      {
+        "id": "40",
+        "name": "Suspended Cymbal",
+        "library": "Sonatina Symphonic Orchestra v4.0",
+        "sample_key": "cymbals_and_tamtam",
+        "port_zero_based": 6,
+        "channel_zero_based": 9,
+        "patch_path": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Percussion/Cymbals & Tamtam.sfz",
+        "source_render_midi": "historical-workspace/tmp/orchestral-v6/midi/40.mid",
+        "gm_program_zero_based": null,
+        "cc7": 75,
+        "cc10": 81,
+        "render_selection": {
+          "mode": "direct",
+          "render_midi_transpose": 0
+        },
+        "render_notes_retained_exactly": true
+      },
+      {
+        "id": "42",
+        "name": "Triangle",
+        "library": "Sonatina Symphonic Orchestra v4.0",
+        "sample_key": "triangle",
+        "port_zero_based": 8,
+        "channel_zero_based": 9,
+        "patch_path": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Percussion/Triangle.sfz",
+        "source_render_midi": "historical-workspace/tmp/orchestral-v6/midi/42.mid",
+        "gm_program_zero_based": null,
+        "cc7": 42,
+        "cc10": 56,
+        "render_selection": {
+          "mode": "direct",
+          "render_midi_transpose": 0
+        },
+        "render_notes_retained_exactly": true
+      },
+      {
+        "id": "43",
+        "name": "Wordless Choir - High",
+        "library": "Sonatina Symphonic Orchestra v4.0",
+        "sample_key": "large_choir",
+        "port_zero_based": 2,
+        "channel_zero_based": 13,
+        "patch_path": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Chorus - Performance/Large Chorus.sfz",
+        "source_render_midi": "historical-workspace/tmp/orchestral-v6/midi/43.mid",
+        "gm_program_zero_based": null,
+        "cc7": 37,
+        "cc10": 54,
+        "render_selection": {
+          "mode": "direct",
+          "render_midi_transpose": 0
+        },
+        "render_notes_retained_exactly": true
+      },
+      {
+        "id": "44",
+        "name": "Wordless Choir - Low",
+        "library": "Sonatina Symphonic Orchestra v4.0",
+        "sample_key": "mixed_choir",
+        "port_zero_based": 2,
+        "channel_zero_based": 14,
+        "patch_path": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Chorus - Performance/Mixed Chorus.sfz",
+        "source_render_midi": "historical-workspace/tmp/orchestral-v6/midi/44.mid",
+        "gm_program_zero_based": null,
+        "cc7": 37,
+        "cc10": 75,
+        "render_selection": {
+          "mode": "direct",
+          "render_midi_transpose": 0
+        },
+        "render_notes_retained_exactly": true
+      },
+      {
+        "id": "45",
+        "name": "Deep Bass Drum Resonance",
+        "library": "Sonatina Symphonic Orchestra v4.0",
+        "sample_key": "deep_bass_drum",
+        "port_zero_based": 9,
+        "channel_zero_based": 9,
+        "patch_path": "historical-workspace/tmp/orchestral-v2/assets/custom/Deep Concert Bass Drum.sfz",
+        "source_render_midi": "historical-workspace/tmp/orchestral-v6/midi/45.mid",
+        "gm_program_zero_based": null,
+        "cc7": 90,
+        "cc10": 65,
+        "render_selection": {
+          "mode": "direct",
+          "render_midi_transpose": 0
+        },
+        "render_notes_retained_exactly": true
+      },
+      {
+        "id": "46",
+        "name": "Double Bass - Pizzicato",
+        "library": "Sonatina Symphonic Orchestra v4.0",
+        "sample_key": "double_bass",
+        "port_zero_based": 3,
+        "channel_zero_based": 0,
+        "patch_path": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Strings - Performance/Basses Pizzicato.sfz",
+        "source_render_midi": "historical-workspace/tmp/orchestral-v6/midi/46.mid",
+        "gm_program_zero_based": null,
+        "cc7": 66,
+        "cc10": 97,
+        "render_selection": {
+          "mode": "single_articulation",
+          "articulation": "Pizzicato",
+          "render_midi_transpose": 0
+        },
+        "render_notes_retained_exactly": true
+      },
+      {
+        "id": "47",
+        "name": "Cello - C Ostinato",
+        "library": "Sonatina Symphonic Orchestra v4.0",
+        "sample_key": "cello",
+        "port_zero_based": 3,
+        "channel_zero_based": 1,
+        "patch_path": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Strings - Performance/Celli Staccato.sfz",
+        "source_render_midi": "historical-workspace/tmp/orchestral-v6/midi/47.mid",
+        "gm_program_zero_based": null,
+        "cc7": 75,
+        "cc10": 83,
+        "render_selection": {
+          "mode": "single_articulation",
+          "articulation": "Staccato",
+          "render_midi_transpose": 0
+        },
+        "render_notes_retained_exactly": true
+      },
+      {
+        "id": "48",
+        "name": "Timpani II - Responses",
+        "library": "Sonatina Symphonic Orchestra v4.0",
+        "sample_key": "timpani",
+        "port_zero_based": 3,
+        "channel_zero_based": 2,
+        "patch_path": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Percussion/Timpani.sfz",
+        "source_render_midi": "historical-workspace/tmp/orchestral-v6/midi/48.mid",
+        "gm_program_zero_based": null,
+        "cc7": 71,
+        "cc10": 76,
+        "render_selection": {
+          "mode": "direct",
+          "render_midi_transpose": 0
+        },
+        "render_notes_retained_exactly": true
+      },
+      {
+        "id": "49",
+        "name": "Electric Guitar - Arpeggios",
+        "library": "Karoryfer Shinyguitar v1.002 (clean electric guitar)",
+        "sample_key": "shinyguitar",
+        "port_zero_based": 3,
+        "channel_zero_based": 3,
+        "patch_path": "historical-workspace/tmp/orchestral-v7/assets/guitar/shinyguitar/Shinyguitar/Programs/sfizz_main_absolute.sfz",
+        "source_render_midi": "historical-workspace/tmp/orchestral-v8/midi/49.mid",
+        "gm_program_zero_based": null,
+        "cc7": 38,
+        "cc10": 39,
+        "render_selection": {
+          "mode": "direct",
+          "render_midi_transpose": 0
+        },
+        "render_notes_retained_exactly": true
+      },
+      {
+        "id": "50",
+        "name": "Electric Guitar - Rhythm",
+        "library": "Karoryfer Shinyguitar v1.002 (clean electric guitar)",
+        "sample_key": "shinyguitar",
+        "port_zero_based": 3,
+        "channel_zero_based": 4,
+        "patch_path": "historical-workspace/tmp/orchestral-v7/assets/guitar/shinyguitar/Shinyguitar/Programs/sfizz_main_absolute.sfz",
+        "source_render_midi": "historical-workspace/tmp/orchestral-v8/midi/50.mid",
+        "gm_program_zero_based": null,
+        "cc7": 27,
+        "cc10": 88,
+        "render_selection": {
+          "mode": "direct",
+          "render_midi_transpose": 0
+        },
+        "render_notes_retained_exactly": true
+      },
+      {
+        "id": "51",
+        "name": "Electric Bass Support",
+        "library": "GeneralUser GS (General MIDI)",
+        "sample_key": "gm",
+        "port_zero_based": 3,
+        "channel_zero_based": 5,
+        "patch_path": "historical-workspace/tmp/orchestral/assets/GeneralUser-GS.sf2",
+        "source_render_midi": "historical-workspace/tmp/orchestral-v8/midi/51.mid",
+        "gm_program_zero_based": 33,
+        "cc7": 73,
+        "cc10": 64,
+        "render_selection": {
+          "mode": "general_midi"
+        },
+        "render_notes_retained_exactly": true
+      },
+      {
+        "id": "52",
+        "name": "Alto Sax - Ensemble Colour",
+        "library": "Karoryfer Weresax v1.003 (alto sax, private sfizz CC remap)",
+        "sample_key": "weresax",
+        "port_zero_based": 3,
+        "channel_zero_based": 6,
+        "patch_path": "historical-workspace/tmp/orchestral-v7/assets/sax/library/Weresax/Programs/Sax (sfizz native).sfz",
+        "source_render_midi": "historical-workspace/tmp/orchestral-v8/midi/52.mid",
+        "gm_program_zero_based": null,
+        "cc7": 38,
+        "cc10": 70,
+        "render_selection": {
+          "mode": "direct",
+          "render_midi_transpose": 0
+        },
+        "render_notes_retained_exactly": true
+      },
+      {
+        "id": "53",
+        "name": "Modern Hi-hat",
+        "library": "GeneralUser GS (General MIDI)",
+        "sample_key": "gm",
+        "port_zero_based": 10,
+        "channel_zero_based": 9,
+        "patch_path": "historical-workspace/tmp/orchestral/assets/GeneralUser-GS.sf2",
+        "source_render_midi": "historical-workspace/tmp/orchestral-v8/midi/53.mid",
+        "gm_program_zero_based": 0,
+        "cc7": 121,
+        "cc10": 83,
+        "render_selection": {
+          "mode": "general_midi"
+        },
+        "render_notes_retained_exactly": true
+      },
+      {
+        "id": "54",
+        "name": "Violin II - Tutti",
+        "library": "Sonatina Symphonic Orchestra v4.0",
+        "sample_key": "violin2",
+        "port_zero_based": 3,
+        "channel_zero_based": 8,
+        "patch_path": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Strings - Performance/2nd Violins KS.sfz",
+        "source_render_midi": "historical-workspace/tmp/orchestral-v9/render_work/54.render.mid",
+        "gm_program_zero_based": null,
+        "cc7": 55,
+        "cc10": 43,
+        "render_selection": {
+          "mode": "inserted_keyswitches",
+          "switch_count": 59,
+          "keys": {
+            "sustain": {
+              "key": 36,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Strings - Performance/2nd Violins Sustain.sfz"
+            },
+            "legato": {
+              "key": 37,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Strings - Performance/2nd Violins Legato.sfz"
+            },
+            "marcato": {
+              "key": 38,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Strings - Performance/2nd Violins Marcato.sfz"
+            },
+            "staccato": {
+              "key": 40,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Strings - Performance/2nd Violins Staccato.sfz"
+            },
+            "pizzicato": {
+              "key": 41,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Strings - Performance/2nd Violins Pizzicato.sfz"
+            },
+            "col legno": {
+              "key": 42,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Strings - Performance/2nd Violins Col Legno.sfz"
+            },
+            "tremolo": {
+              "key": 43,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Strings - Performance/2nd Violins Tremolo.sfz"
+            },
+            "harmonics": {
+              "key": 45,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Strings - Performance/2nd Violins Harmonics.sfz"
+            }
+          },
+          "render_midi_transpose": 0
+        },
+        "render_notes_retained_exactly": true
+      },
+      {
+        "id": "55",
+        "name": "Flute - Tutti",
+        "library": "Sonatina Symphonic Orchestra v4.0",
+        "sample_key": "flute_tutti_v9",
+        "port_zero_based": 3,
+        "channel_zero_based": 10,
+        "patch_path": "historical-workspace/tmp/orchestral-v9/assets/Flute_Tutti_Sustain_v9.sfz",
+        "source_render_midi": "historical-workspace/tmp/orchestral-v9/midi/55.mid",
+        "gm_program_zero_based": null,
+        "cc7": 55,
+        "cc10": 56,
+        "render_selection": {
+          "mode": "direct",
+          "render_midi_transpose": 0
+        },
+        "render_notes_retained_exactly": true
+      },
+      {
+        "id": "56",
+        "name": "Violin I - Mid Tutti",
+        "library": "Sonatina Symphonic Orchestra v4.0",
+        "sample_key": "violin1",
+        "port_zero_based": 4,
+        "channel_zero_based": 0,
+        "patch_path": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Strings - Performance/1st Violins KS.sfz",
+        "source_render_midi": "historical-workspace/tmp/orchestral-v10/render_work/56.render.mid",
+        "gm_program_zero_based": null,
+        "cc7": 61,
+        "cc10": 39,
+        "render_selection": {
+          "mode": "inserted_keyswitches",
+          "switch_count": 39,
+          "keys": {
+            "sustain": {
+              "key": 36,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Strings - Performance/1st Violins Sustain.sfz"
+            },
+            "legato": {
+              "key": 37,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Strings - Performance/1st Violins Legato.sfz"
+            },
+            "marcato": {
+              "key": 38,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Strings - Performance/1st Violins Marcato.sfz"
+            },
+            "staccato": {
+              "key": 40,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Strings - Performance/1st Violins Staccato.sfz"
+            },
+            "pizzicato": {
+              "key": 41,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Strings - Performance/1st Violins Pizzicato.sfz"
+            },
+            "col legno": {
+              "key": 42,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Strings - Performance/1st Violins Col Legno.sfz"
+            },
+            "tremolo": {
+              "key": 43,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Strings - Performance/1st Violins Tremolo.sfz"
+            },
+            "harmonics": {
+              "key": 45,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Strings - Performance/1st Violins Harmonics.sfz"
+            }
+          },
+          "render_midi_transpose": 0
+        },
+        "render_notes_retained_exactly": true
+      },
+      {
+        "id": "57",
+        "name": "Clarinet - Tutti",
+        "library": "Sonatina Symphonic Orchestra v4.0",
+        "sample_key": "clarinet",
+        "port_zero_based": 4,
+        "channel_zero_based": 1,
+        "patch_path": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Woodwinds - Performance/Clarinet Solo KS.sfz",
+        "source_render_midi": "historical-workspace/tmp/orchestral-v10/render_work/57.render.mid",
+        "gm_program_zero_based": null,
+        "cc7": 43,
+        "cc10": 75,
+        "render_selection": {
+          "mode": "inserted_keyswitches",
+          "switch_count": 39,
+          "keys": {
+            "sustain (non-looped)": {
+              "key": 36,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Woodwinds - Performance/Clarinet Solo Sustain.sfz"
+            },
+            "sustain (looped)": {
+              "key": 37,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Woodwinds - Performance/Clarinet Solo Sustain (looped).sfz"
+            },
+            "sustain (looped, decay)": {
+              "key": 38,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Woodwinds - Performance/Clarinet Solo Sustain (looped, decay).sfz"
+            },
+            "staccato": {
+              "key": 39,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Woodwinds - Performance/Clarinet Solo Staccato.sfz"
+            },
+            "legato": {
+              "key": 40,
+              "sfz": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Woodwinds - Performance/Clarinet Solo Legato.sfz"
+            }
+          },
+          "render_midi_transpose": 0
+        },
+        "render_notes_retained_exactly": true
+      },
+      {
+        "id": "58",
+        "name": "Wordless Choir - Finale",
+        "library": "Sonatina Symphonic Orchestra v4.0",
+        "sample_key": "choir_finale_v10",
+        "port_zero_based": 4,
+        "channel_zero_based": 2,
+        "patch_path": "historical-workspace/tmp/orchestral-v10/assets/Choir_Finale_v10.sfz",
+        "source_render_midi": "historical-workspace/tmp/orchestral-v10/midi/58.mid",
+        "gm_program_zero_based": null,
+        "cc7": 53,
+        "cc10": 69,
+        "render_selection": {
+          "mode": "direct",
+          "render_midi_transpose": 0
+        },
+        "render_notes_retained_exactly": true
+      },
+      {
+        "id": "59",
+        "name": "Trumpet - Finale Accents",
+        "library": "Sonatina Symphonic Orchestra v4.0",
+        "sample_key": "trumpet_section",
+        "port_zero_based": 4,
+        "channel_zero_based": 3,
+        "patch_path": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Brass - Performance/Trumpets Sustain (looped).sfz",
+        "source_render_midi": "historical-workspace/tmp/orchestral-v10/midi/59.mid",
+        "gm_program_zero_based": null,
+        "cc7": 76,
+        "cc10": 79,
+        "render_selection": {
+          "mode": "single_articulation",
+          "articulation": "Sustain (looped)",
+          "render_midi_transpose": 0
+        },
+        "render_notes_retained_exactly": true
+      },
+      {
+        "id": "60",
+        "name": "Violin I - High Divisi",
+        "library": "Sonatina Symphonic Orchestra v4.0",
+        "sample_key": "violin1",
+        "port_zero_based": 4,
+        "channel_zero_based": 4,
+        "patch_path": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Strings - Performance/1st Violins Sustain.sfz",
+        "source_render_midi": "historical-workspace/tmp/orchestral-v11/midi/60.mid",
+        "gm_program_zero_based": null,
+        "cc7": 45,
+        "cc10": 20,
+        "render_selection": {
+          "mode": "single_articulation",
+          "articulation": "Sustain",
+          "render_midi_transpose": 0
+        },
+        "render_notes_retained_exactly": true
+      },
+      {
+        "id": "61",
+        "name": "Violin I - Middle Divisi",
+        "library": "Sonatina Symphonic Orchestra v4.0",
+        "sample_key": "violin1",
+        "port_zero_based": 4,
+        "channel_zero_based": 5,
+        "patch_path": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Strings - Performance/1st Violins Sustain.sfz",
+        "source_render_midi": "historical-workspace/tmp/orchestral-v11/midi/61.mid",
+        "gm_program_zero_based": null,
+        "cc7": 53,
+        "cc10": 35,
+        "render_selection": {
+          "mode": "single_articulation",
+          "articulation": "Sustain",
+          "render_midi_transpose": 0
+        },
+        "render_notes_retained_exactly": true
+      },
+      {
+        "id": "62",
+        "name": "Violin I - Lower Divisi",
+        "library": "Sonatina Symphonic Orchestra v4.0",
+        "sample_key": "violin1",
+        "port_zero_based": 4,
+        "channel_zero_based": 6,
+        "patch_path": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Strings - Performance/1st Violins Sustain.sfz",
+        "source_render_midi": "historical-workspace/tmp/orchestral-v11/midi/62.mid",
+        "gm_program_zero_based": null,
+        "cc7": 50,
+        "cc10": 51,
+        "render_selection": {
+          "mode": "single_articulation",
+          "articulation": "Sustain",
+          "render_midi_transpose": 0
+        },
+        "render_notes_retained_exactly": true
+      },
+      {
+        "id": "63",
+        "name": "Violin II - High Divisi",
+        "library": "Sonatina Symphonic Orchestra v4.0",
+        "sample_key": "violin2",
+        "port_zero_based": 4,
+        "channel_zero_based": 7,
+        "patch_path": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Strings - Performance/2nd Violins Sustain.sfz",
+        "source_render_midi": "historical-workspace/tmp/orchestral-v11/midi/63.mid",
+        "gm_program_zero_based": null,
+        "cc7": 53,
+        "cc10": 95,
+        "render_selection": {
+          "mode": "single_articulation",
+          "articulation": "Sustain",
+          "render_midi_transpose": 0
+        },
+        "render_notes_retained_exactly": true
+      },
+      {
+        "id": "64",
+        "name": "Violin II - Middle Divisi",
+        "library": "Sonatina Symphonic Orchestra v4.0",
+        "sample_key": "violin2",
+        "port_zero_based": 4,
+        "channel_zero_based": 8,
+        "patch_path": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Strings - Performance/2nd Violins Sustain.sfz",
+        "source_render_midi": "historical-workspace/tmp/orchestral-v11/midi/64.mid",
+        "gm_program_zero_based": null,
+        "cc7": 53,
+        "cc10": 79,
+        "render_selection": {
+          "mode": "single_articulation",
+          "articulation": "Sustain",
+          "render_midi_transpose": 0
+        },
+        "render_notes_retained_exactly": true
+      },
+      {
+        "id": "65",
+        "name": "Viola - Upper Divisi",
+        "library": "Sonatina Symphonic Orchestra v4.0",
+        "sample_key": "viola",
+        "port_zero_based": 4,
+        "channel_zero_based": 10,
+        "patch_path": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Strings - Performance/Violas Sustain.sfz",
+        "source_render_midi": "historical-workspace/tmp/orchestral-v11/midi/65.mid",
+        "gm_program_zero_based": null,
+        "cc7": 48,
+        "cc10": 57,
+        "render_selection": {
+          "mode": "single_articulation",
+          "articulation": "Sustain",
+          "render_midi_transpose": 0
+        },
+        "render_notes_retained_exactly": true
+      },
+      {
+        "id": "66",
+        "name": "Viola - Lower Divisi",
+        "library": "Sonatina Symphonic Orchestra v4.0",
+        "sample_key": "viola",
+        "port_zero_based": 4,
+        "channel_zero_based": 11,
+        "patch_path": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Strings - Performance/Violas Sustain.sfz",
+        "source_render_midi": "historical-workspace/tmp/orchestral-v11/midi/66.mid",
+        "gm_program_zero_based": null,
+        "cc7": 46,
+        "cc10": 70,
+        "render_selection": {
+          "mode": "single_articulation",
+          "articulation": "Sustain",
+          "render_midi_transpose": 0
+        },
+        "render_notes_retained_exactly": true
+      },
+      {
+        "id": "67",
+        "name": "Cello - Middle Divisi",
+        "library": "Sonatina Symphonic Orchestra v4.0",
+        "sample_key": "cello",
+        "port_zero_based": 4,
+        "channel_zero_based": 12,
+        "patch_path": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Strings - Performance/Celli Sustain.sfz",
+        "source_render_midi": "historical-workspace/tmp/orchestral-v11/midi/67.mid",
+        "gm_program_zero_based": null,
+        "cc7": 52,
+        "cc10": 92,
+        "render_selection": {
+          "mode": "single_articulation",
+          "articulation": "Sustain",
+          "render_midi_transpose": 0
+        },
+        "render_notes_retained_exactly": true
+      },
+      {
+        "id": "68",
+        "name": "Cello - Lower Divisi",
+        "library": "Sonatina Symphonic Orchestra v4.0",
+        "sample_key": "cello",
+        "port_zero_based": 4,
+        "channel_zero_based": 13,
+        "patch_path": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Strings - Performance/Celli Sustain.sfz",
+        "source_render_midi": "historical-workspace/tmp/orchestral-v11/midi/68.mid",
+        "gm_program_zero_based": null,
+        "cc7": 46,
+        "cc10": 105,
+        "render_selection": {
+          "mode": "single_articulation",
+          "articulation": "Sustain",
+          "render_midi_transpose": 0
+        },
+        "render_notes_retained_exactly": true
+      },
+      {
+        "id": "69",
+        "name": "Cello - Tenor Divisi",
+        "library": "Sonatina Symphonic Orchestra v4.0",
+        "sample_key": "cello",
+        "port_zero_based": 4,
+        "channel_zero_based": 14,
+        "patch_path": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Strings - Performance/Celli Sustain.sfz",
+        "source_render_midi": "historical-workspace/tmp/orchestral-v11/midi/69.mid",
+        "gm_program_zero_based": null,
+        "cc7": 53,
+        "cc10": 81,
+        "render_selection": {
+          "mode": "single_articulation",
+          "articulation": "Sustain",
+          "render_midi_transpose": 0
+        },
+        "render_notes_retained_exactly": true
+      },
+      {
+        "id": "70",
+        "name": "Flute - Inner Harmony",
+        "library": "Sonatina Symphonic Orchestra v4.0",
+        "sample_key": "flute_tutti_v9",
+        "port_zero_based": 4,
+        "channel_zero_based": 15,
+        "patch_path": "historical-workspace/tmp/orchestral-v9/assets/Flute_Tutti_Sustain_v9.sfz",
+        "source_render_midi": "historical-workspace/tmp/orchestral-v11/midi/70.mid",
+        "gm_program_zero_based": null,
+        "cc7": 52,
+        "cc10": 48,
+        "render_selection": {
+          "mode": "direct",
+          "render_midi_transpose": 0
+        },
+        "render_notes_retained_exactly": true
+      },
+      {
+        "id": "71",
+        "name": "Clarinet - Harmony Divisi",
+        "library": "Sonatina Symphonic Orchestra v4.0",
+        "sample_key": "clarinet",
+        "port_zero_based": 5,
+        "channel_zero_based": 0,
+        "patch_path": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Woodwinds - Performance/Clarinet Solo Sustain (looped).sfz",
+        "source_render_midi": "historical-workspace/tmp/orchestral-v11/midi/71.mid",
+        "gm_program_zero_based": null,
+        "cc7": 49,
+        "cc10": 71,
+        "render_selection": {
+          "mode": "single_articulation",
+          "articulation": "Sustain (looped)",
+          "render_midi_transpose": 0
+        },
+        "render_notes_retained_exactly": true
+      },
+      {
+        "id": "72",
+        "name": "Oboe - Harmony Divisi",
+        "library": "Sonatina Symphonic Orchestra v4.0",
+        "sample_key": "oboe",
+        "port_zero_based": 5,
+        "channel_zero_based": 1,
+        "patch_path": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Woodwinds - Performance/Oboe Solo Sustain (looped).sfz",
+        "source_render_midi": "historical-workspace/tmp/orchestral-v11/midi/72.mid",
+        "gm_program_zero_based": null,
+        "cc7": 48,
+        "cc10": 57,
+        "render_selection": {
+          "mode": "single_articulation",
+          "articulation": "Sustain (looped)",
+          "render_midi_transpose": 0
+        },
+        "render_notes_retained_exactly": true
+      },
+      {
+        "id": "73",
+        "name": "Bassoon - Tenor Harmony",
+        "library": "Sonatina Symphonic Orchestra v4.0",
+        "sample_key": "bassoon",
+        "port_zero_based": 5,
+        "channel_zero_based": 2,
+        "patch_path": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Woodwinds - Performance/Bassoon Solo Sustain (looped).sfz",
+        "source_render_midi": "historical-workspace/tmp/orchestral-v11/midi/73.mid",
+        "gm_program_zero_based": null,
+        "cc7": 44,
+        "cc10": 81,
+        "render_selection": {
+          "mode": "single_articulation",
+          "articulation": "Sustain (looped)",
+          "render_midi_transpose": 0
+        },
+        "render_notes_retained_exactly": true
+      },
+      {
+        "id": "74",
+        "name": "Horn - Upper Divisi",
+        "library": "Sonatina Symphonic Orchestra v4.0",
+        "sample_key": "horn_section",
+        "port_zero_based": 5,
+        "channel_zero_based": 3,
+        "patch_path": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Brass - Performance/Horns Sustain.sfz",
+        "source_render_midi": "historical-workspace/tmp/orchestral-v11/midi/74.mid",
+        "gm_program_zero_based": null,
+        "cc7": 48,
+        "cc10": 35,
+        "render_selection": {
+          "mode": "single_articulation",
+          "articulation": "Sustain",
+          "render_midi_transpose": 0
+        },
+        "render_notes_retained_exactly": true
+      },
+      {
+        "id": "75",
+        "name": "Horn - Middle Divisi",
+        "library": "Sonatina Symphonic Orchestra v4.0",
+        "sample_key": "horn_section",
+        "port_zero_based": 5,
+        "channel_zero_based": 4,
+        "patch_path": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Brass - Performance/Horns Sustain.sfz",
+        "source_render_midi": "historical-workspace/tmp/orchestral-v11/midi/75.mid",
+        "gm_program_zero_based": null,
+        "cc7": 53,
+        "cc10": 54,
+        "render_selection": {
+          "mode": "single_articulation",
+          "articulation": "Sustain",
+          "render_midi_transpose": 0
+        },
+        "render_notes_retained_exactly": true
+      },
+      {
+        "id": "76",
+        "name": "Trumpet - Upper Harmony",
+        "library": "Sonatina Symphonic Orchestra v4.0",
+        "sample_key": "trumpet_section",
+        "port_zero_based": 5,
+        "channel_zero_based": 5,
+        "patch_path": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Brass - Performance/Trumpets Sustain (looped).sfz",
+        "source_render_midi": "historical-workspace/tmp/orchestral-v11/midi/76.mid",
+        "gm_program_zero_based": null,
+        "cc7": 74,
+        "cc10": 73,
+        "render_selection": {
+          "mode": "single_articulation",
+          "articulation": "Sustain (looped)",
+          "render_midi_transpose": 0
+        },
+        "render_notes_retained_exactly": true
+      },
+      {
+        "id": "77",
+        "name": "Trumpet - Middle Harmony",
+        "library": "Sonatina Symphonic Orchestra v4.0",
+        "sample_key": "trumpet_section",
+        "port_zero_based": 5,
+        "channel_zero_based": 6,
+        "patch_path": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Brass - Performance/Trumpets Sustain (looped).sfz",
+        "source_render_midi": "historical-workspace/tmp/orchestral-v11/midi/77.mid",
+        "gm_program_zero_based": null,
+        "cc7": 72,
+        "cc10": 86,
+        "render_selection": {
+          "mode": "single_articulation",
+          "articulation": "Sustain (looped)",
+          "render_midi_transpose": 0
+        },
+        "render_notes_retained_exactly": true
+      },
+      {
+        "id": "78",
+        "name": "Trombone - Inner Harmony",
+        "library": "Sonatina Symphonic Orchestra v4.0",
+        "sample_key": "trombone_section",
+        "port_zero_based": 5,
+        "channel_zero_based": 7,
+        "patch_path": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Brass - Performance/Trombones Sustain (looped).sfz",
+        "source_render_midi": "historical-workspace/tmp/orchestral-v11/midi/78.mid",
+        "gm_program_zero_based": null,
+        "cc7": 57,
+        "cc10": 83,
+        "render_selection": {
+          "mode": "single_articulation",
+          "articulation": "Sustain (looped)",
+          "render_midi_transpose": 0
+        },
+        "render_notes_retained_exactly": true
+      },
+      {
+        "id": "79",
+        "name": "Bass Trombone - Harmony",
+        "library": "Sonatina Symphonic Orchestra v4.0",
+        "sample_key": "trombone_section",
+        "port_zero_based": 5,
+        "channel_zero_based": 8,
+        "patch_path": "historical-workspace/tmp/orchestral-v2/assets/sso-v4.0/Sonatina Symphonic Orchestra/Brass - Performance/Trombones Sustain (looped).sfz",
+        "source_render_midi": "historical-workspace/tmp/orchestral-v11/midi/79.mid",
+        "gm_program_zero_based": null,
+        "cc7": 52,
+        "cc10": 94,
+        "render_selection": {
+          "mode": "single_articulation",
+          "articulation": "Sustain (looped)",
+          "render_midi_transpose": 0
+        },
+        "render_notes_retained_exactly": true
+      },
+      {
+        "id": "80",
+        "name": "Wordless Choir - Wide Divisi",
+        "library": "Sonatina Symphonic Orchestra v4.0",
+        "sample_key": "choir_finale_v10",
+        "port_zero_based": 5,
+        "channel_zero_based": 10,
+        "patch_path": "historical-workspace/tmp/orchestral-v10/assets/Choir_Finale_v10.sfz",
+        "source_render_midi": "historical-workspace/tmp/orchestral-v11/midi/80.mid",
+        "gm_program_zero_based": null,
+        "cc7": 64,
+        "cc10": 64,
+        "render_selection": {
+          "mode": "direct",
+          "render_midi_transpose": 0
+        },
+        "render_notes_retained_exactly": true
+      },
+      {
+        "id": "81",
+        "name": "Concert Grand Piano",
+        "library": "GeneralUser GS (General MIDI)",
+        "sample_key": "gm",
+        "port_zero_based": 5,
+        "channel_zero_based": 11,
+        "patch_path": "historical-workspace/tmp/orchestral/assets/GeneralUser-GS.sf2",
+        "source_render_midi": "historical-workspace/tmp/orchestral-v11/midi/81.mid",
+        "gm_program_zero_based": 0,
+        "cc7": 69,
+        "cc10": 56,
+        "render_selection": {
+          "mode": "general_midi"
+        },
+        "render_notes_retained_exactly": true
+      }
+    ],
+    "note": "Native mapping uses Karoryfer Weresax, Karoryfer Shinyguitar, Sonatina Symphonic Orchestra, and GeneralUser GS. Load the listed SFZ patches or GS programs on each MIDI port/channel. It retains verified sampler keyswitches and private controller mappings; use the GM master or groups for generic playback."
+  },
+  "conductor_retained_exactly": true,
+  "primary_notes_retained_exactly": true,
+  "primary_note_signature_sha256": "242bd7b055b653941a17c9ac4f2e5f7beb6e2f3b04ef75d5c4d1593b021e93fc",
+  "musicxml_notation_retained_exactly": true,
+  "musicxml_playback": [
+    {
+      "id": "01",
+      "cc7": 45,
+      "cc10": 49,
+      "xml_volume": 12.555,
+      "xml_pan": -21.43
+    },
+    {
+      "id": "02",
+      "cc7": 75,
+      "cc10": 41,
+      "xml_volume": 34.875,
+      "xml_pan": -32.86
+    },
+    {
+      "id": "03",
+      "cc7": 51,
+      "cc10": 48,
+      "xml_volume": 16.126,
+      "xml_pan": -22.86
+    },
+    {
+      "id": "04",
+      "cc7": 53,
+      "cc10": 57,
+      "xml_volume": 17.416,
+      "xml_pan": -10.0
+    },
+    {
+      "id": "05",
+      "cc7": 65,
+      "cc10": 65,
+      "xml_volume": 26.195,
+      "xml_pan": 1.43
+    },
+    {
+      "id": "06",
+      "cc7": 63,
+      "cc10": 71,
+      "xml_volume": 24.608,
+      "xml_pan": 10.0
+    },
+    {
+      "id": "07",
+      "cc7": 40,
+      "cc10": 78,
+      "xml_volume": 9.92,
+      "xml_pan": 20.0
+    },
+    {
+      "id": "08",
+      "cc7": 47,
+      "cc10": 81,
+      "xml_volume": 13.696,
+      "xml_pan": 24.29
+    },
+    {
+      "id": "09",
+      "cc7": 40,
+      "cc10": 88,
+      "xml_volume": 9.92,
+      "xml_pan": 34.29
+    },
+    {
+      "id": "10",
+      "cc7": 41,
+      "cc10": 92,
+      "xml_volume": 10.422,
+      "xml_pan": 40.0
+    },
+    {
+      "id": "52",
+      "cc7": 38,
+      "cc10": 70,
+      "xml_volume": 8.953,
+      "xml_pan": 8.57
+    },
+    {
+      "id": "55",
+      "cc7": 55,
+      "cc10": 56,
+      "xml_volume": 18.755,
+      "xml_pan": -11.43
+    },
+    {
+      "id": "57",
+      "cc7": 43,
+      "cc10": 75,
+      "xml_volume": 11.464,
+      "xml_pan": 15.71
+    },
+    {
+      "id": "70",
+      "cc7": 52,
+      "cc10": 48,
+      "xml_volume": 16.765,
+      "xml_pan": -22.86
+    },
+    {
+      "id": "71",
+      "cc7": 49,
+      "cc10": 71,
+      "xml_volume": 14.886,
+      "xml_pan": 10.0
+    },
+    {
+      "id": "72",
+      "cc7": 48,
+      "cc10": 57,
+      "xml_volume": 14.285,
+      "xml_pan": -10.0
+    },
+    {
+      "id": "73",
+      "cc7": 44,
+      "cc10": 81,
+      "xml_volume": 12.003,
+      "xml_pan": 24.29
+    },
+    {
+      "id": "11",
+      "cc7": 51,
+      "cc10": 41,
+      "xml_volume": 16.126,
+      "xml_pan": -32.86
+    },
+    {
+      "id": "12",
+      "cc7": 39,
+      "cc10": 46,
+      "xml_volume": 9.43,
+      "xml_pan": -25.71
+    },
+    {
+      "id": "13",
+      "cc7": 37,
+      "cc10": 51,
+      "xml_volume": 8.488,
+      "xml_pan": -18.57
+    },
+    {
+      "id": "14",
+      "cc7": 32,
+      "cc10": 56,
+      "xml_volume": 6.349,
+      "xml_pan": -11.43
+    },
+    {
+      "id": "15",
+      "cc7": 71,
+      "cc10": 65,
+      "xml_volume": 31.254,
+      "xml_pan": 1.43
+    },
+    {
+      "id": "16",
+      "cc7": 53,
+      "cc10": 72,
+      "xml_volume": 17.416,
+      "xml_pan": 11.43
+    },
+    {
+      "id": "17",
+      "cc7": 52,
+      "cc10": 78,
+      "xml_volume": 16.765,
+      "xml_pan": 20.0
+    },
+    {
+      "id": "18",
+      "cc7": 46,
+      "cc10": 86,
+      "xml_volume": 13.119,
+      "xml_pan": 31.43
+    },
+    {
+      "id": "19",
+      "cc7": 41,
+      "cc10": 91,
+      "xml_volume": 10.422,
+      "xml_pan": 38.57
+    },
+    {
+      "id": "20",
+      "cc7": 47,
+      "cc10": 97,
+      "xml_volume": 13.696,
+      "xml_pan": 47.14
+    },
+    {
+      "id": "21",
+      "cc7": 51,
+      "cc10": 102,
+      "xml_volume": 16.126,
+      "xml_pan": 54.29
+    },
+    {
+      "id": "59",
+      "cc7": 76,
+      "cc10": 79,
+      "xml_volume": 35.811,
+      "xml_pan": 21.43
+    },
+    {
+      "id": "74",
+      "cc7": 48,
+      "cc10": 35,
+      "xml_volume": 14.285,
+      "xml_pan": -41.43
+    },
+    {
+      "id": "75",
+      "cc7": 53,
+      "cc10": 54,
+      "xml_volume": 17.416,
+      "xml_pan": -14.29
+    },
+    {
+      "id": "76",
+      "cc7": 74,
+      "cc10": 73,
+      "xml_volume": 33.951,
+      "xml_pan": 12.86
+    },
+    {
+      "id": "77",
+      "cc7": 72,
+      "cc10": 86,
+      "xml_volume": 32.141,
+      "xml_pan": 31.43
+    },
+    {
+      "id": "78",
+      "cc7": 57,
+      "cc10": 83,
+      "xml_volume": 20.144,
+      "xml_pan": 27.14
+    },
+    {
+      "id": "79",
+      "cc7": 52,
+      "cc10": 94,
+      "xml_volume": 16.765,
+      "xml_pan": 42.86
+    },
+    {
+      "id": "22",
+      "cc7": 71,
+      "cc10": 18,
+      "xml_volume": 31.254,
+      "xml_pan": -65.71
+    },
+    {
+      "id": "23",
+      "cc7": 43,
+      "cc10": 25,
+      "xml_volume": 11.464,
+      "xml_pan": -55.71
+    },
+    {
+      "id": "24",
+      "cc7": 75,
+      "cc10": 33,
+      "xml_volume": 34.875,
+      "xml_pan": -44.29
+    },
+    {
+      "id": "25",
+      "cc7": 50,
+      "cc10": 41,
+      "xml_volume": 15.5,
+      "xml_pan": -32.86
+    },
+    {
+      "id": "26",
+      "cc7": 64,
+      "cc10": 62,
+      "xml_volume": 25.395,
+      "xml_pan": -2.86
+    },
+    {
+      "id": "27",
+      "cc7": 42,
+      "cc10": 70,
+      "xml_volume": 10.937,
+      "xml_pan": 8.57
+    },
+    {
+      "id": "28",
+      "cc7": 66,
+      "cc10": 86,
+      "xml_volume": 27.007,
+      "xml_pan": 31.43
+    },
+    {
+      "id": "29",
+      "cc7": 44,
+      "cc10": 92,
+      "xml_volume": 12.003,
+      "xml_pan": 40.0
+    },
+    {
+      "id": "30",
+      "cc7": 61,
+      "cc10": 103,
+      "xml_volume": 23.07,
+      "xml_pan": 55.71
+    },
+    {
+      "id": "31",
+      "cc7": 100,
+      "cc10": 80,
+      "xml_volume": 62.0,
+      "xml_pan": 22.86
+    },
+    {
+      "id": "46",
+      "cc7": 66,
+      "cc10": 97,
+      "xml_volume": 27.007,
+      "xml_pan": 47.14
+    },
+    {
+      "id": "47",
+      "cc7": 75,
+      "cc10": 83,
+      "xml_volume": 34.875,
+      "xml_pan": 27.14
+    },
+    {
+      "id": "54",
+      "cc7": 55,
+      "cc10": 43,
+      "xml_volume": 18.755,
+      "xml_pan": -30.0
+    },
+    {
+      "id": "56",
+      "cc7": 61,
+      "cc10": 39,
+      "xml_volume": 23.07,
+      "xml_pan": -35.71
+    },
+    {
+      "id": "60",
+      "cc7": 45,
+      "cc10": 20,
+      "xml_volume": 12.555,
+      "xml_pan": -62.86
+    },
+    {
+      "id": "61",
+      "cc7": 53,
+      "cc10": 35,
+      "xml_volume": 17.416,
+      "xml_pan": -41.43
+    },
+    {
+      "id": "62",
+      "cc7": 50,
+      "cc10": 51,
+      "xml_volume": 15.5,
+      "xml_pan": -18.57
+    },
+    {
+      "id": "63",
+      "cc7": 53,
+      "cc10": 95,
+      "xml_volume": 17.416,
+      "xml_pan": 44.29
+    },
+    {
+      "id": "64",
+      "cc7": 53,
+      "cc10": 79,
+      "xml_volume": 17.416,
+      "xml_pan": 21.43
+    },
+    {
+      "id": "65",
+      "cc7": 48,
+      "cc10": 57,
+      "xml_volume": 14.285,
+      "xml_pan": -10.0
+    },
+    {
+      "id": "66",
+      "cc7": 46,
+      "cc10": 70,
+      "xml_volume": 13.119,
+      "xml_pan": 8.57
+    },
+    {
+      "id": "67",
+      "cc7": 52,
+      "cc10": 92,
+      "xml_volume": 16.765,
+      "xml_pan": 40.0
+    },
+    {
+      "id": "68",
+      "cc7": 46,
+      "cc10": 105,
+      "xml_volume": 13.119,
+      "xml_pan": 58.57
+    },
+    {
+      "id": "69",
+      "cc7": 53,
+      "cc10": 81,
+      "xml_volume": 17.416,
+      "xml_pan": 24.29
+    },
+    {
+      "id": "32",
+      "cc7": 45,
+      "cc10": 30,
+      "xml_volume": 12.555,
+      "xml_pan": -48.57
+    },
+    {
+      "id": "33",
+      "cc7": 53,
+      "cc10": 38,
+      "xml_volume": 17.416,
+      "xml_pan": -37.14
+    },
+    {
+      "id": "34",
+      "cc7": 45,
+      "cc10": 53,
+      "xml_volume": 12.555,
+      "xml_pan": -15.71
+    },
+    {
+      "id": "35",
+      "cc7": 40,
+      "cc10": 67,
+      "xml_volume": 9.92,
+      "xml_pan": 4.29
+    },
+    {
+      "id": "81",
+      "cc7": 69,
+      "cc10": 56,
+      "xml_volume": 29.518,
+      "xml_pan": -11.43
+    },
+    {
+      "id": "49",
+      "cc7": 38,
+      "cc10": 39,
+      "xml_volume": 8.953,
+      "xml_pan": -35.71
+    },
+    {
+      "id": "50",
+      "cc7": 27,
+      "cc10": 88,
+      "xml_volume": 4.52,
+      "xml_pan": 34.29
+    },
+    {
+      "id": "51",
+      "cc7": 73,
+      "cc10": 64,
+      "xml_volume": 33.04,
+      "xml_pan": 0.0
+    },
+    {
+      "id": "36",
+      "cc7": 83,
+      "cc10": 86,
+      "xml_volume": 42.712,
+      "xml_pan": 31.43
+    },
+    {
+      "id": "37",
+      "cc7": 88,
+      "cc10": 80,
+      "xml_volume": 48.013,
+      "xml_pan": 22.86
+    },
+    {
+      "id": "38",
+      "cc7": 84,
+      "cc10": 88,
+      "xml_volume": 43.747,
+      "xml_pan": 34.29
+    },
+    {
+      "id": "39",
+      "cc7": 69,
+      "cc10": 73,
+      "xml_volume": 29.518,
+      "xml_pan": 12.86
+    },
+    {
+      "id": "40",
+      "cc7": 75,
+      "cc10": 81,
+      "xml_volume": 34.875,
+      "xml_pan": 24.29
+    },
+    {
+      "id": "42",
+      "cc7": 42,
+      "cc10": 56,
+      "xml_volume": 10.937,
+      "xml_pan": -11.43
+    },
+    {
+      "id": "45",
+      "cc7": 90,
+      "cc10": 65,
+      "xml_volume": 50.22,
+      "xml_pan": 1.43
+    },
+    {
+      "id": "48",
+      "cc7": 71,
+      "cc10": 76,
+      "xml_volume": 31.254,
+      "xml_pan": 17.14
+    },
+    {
+      "id": "53",
+      "cc7": 121,
+      "cc10": 83,
+      "xml_volume": 90.774,
+      "xml_pan": 27.14
+    },
+    {
+      "id": "43",
+      "cc7": 37,
+      "cc10": 54,
+      "xml_volume": 8.488,
+      "xml_pan": -14.29
+    },
+    {
+      "id": "44",
+      "cc7": 37,
+      "cc10": 75,
+      "xml_volume": 8.488,
+      "xml_pan": 15.71
+    },
+    {
+      "id": "58",
+      "cc7": 53,
+      "cc10": 69,
+      "xml_volume": 17.416,
+      "xml_pan": 7.14
+    },
+    {
+      "id": "80",
+      "cc7": 64,
+      "cc10": 64,
+      "xml_volume": 25.395,
+      "xml_pan": 0.0
+    }
+  ],
+  "source_melody_fidelity_report": "historical-workspace/tmp/orchestral-v11/melody_fidelity.json",
+  "balanced_cc7_by_part": {
+    "01": 45,
+    "02": 75,
+    "03": 51,
+    "04": 53,
+    "05": 65,
+    "06": 63,
+    "07": 40,
+    "08": 47,
+    "09": 40,
+    "10": 41,
+    "11": 51,
+    "12": 39,
+    "13": 37,
+    "14": 32,
+    "15": 71,
+    "16": 53,
+    "17": 52,
+    "18": 46,
+    "19": 41,
+    "20": 47,
+    "21": 51,
+    "22": 71,
+    "23": 43,
+    "24": 75,
+    "25": 50,
+    "26": 64,
+    "27": 42,
+    "28": 66,
+    "29": 44,
+    "30": 61,
+    "31": 100,
+    "32": 45,
+    "33": 53,
+    "34": 45,
+    "35": 40,
+    "36": 83,
+    "37": 88,
+    "38": 84,
+    "39": 69,
+    "40": 75,
+    "42": 42,
+    "43": 37,
+    "44": 37,
+    "45": 90,
+    "46": 66,
+    "47": 75,
+    "48": 71,
+    "49": 38,
+    "50": 27,
+    "51": 73,
+    "52": 38,
+    "53": 121,
+    "54": 55,
+    "55": 55,
+    "56": 61,
+    "57": 43,
+    "58": 53,
+    "59": 76,
+    "60": 45,
+    "61": 53,
+    "62": 50,
+    "63": 53,
+    "64": 53,
+    "65": 48,
+    "66": 46,
+    "67": 52,
+    "68": 46,
+    "69": 53,
+    "70": 52,
+    "71": 49,
+    "72": 48,
+    "73": 44,
+    "74": 48,
+    "75": 53,
+    "76": 74,
+    "77": 72,
+    "78": 57,
+    "79": 52,
+    "80": 64,
+    "81": 69
+  },
+  "original58_primary_tracks_exact_except_CC7_after_balance": true,
+  "temporal_note_audit": [
+    {
+      "file": "Sekai_Grand_Symphonic_v11.mid",
+      "temporal_note_errors": []
+    },
+    {
+      "file": "Sekai_Grand_Symphonic_v11_Native_Mapped.mid",
+      "temporal_note_errors": []
+    },
+    {
+      "file": "01_High_Woodwinds_GM.mid",
+      "temporal_note_errors": []
+    },
+    {
+      "file": "02_Lower_Woodwinds_GM.mid",
+      "temporal_note_errors": []
+    },
+    {
+      "file": "03_Horns_and_Trumpets_GM.mid",
+      "temporal_note_errors": []
+    },
+    {
+      "file": "04_Low_Brass_GM.mid",
+      "temporal_note_errors": []
+    },
+    {
+      "file": "05_Violins_and_Violas_GM.mid",
+      "temporal_note_errors": []
+    },
+    {
+      "file": "06_Cellos_and_Basses_GM.mid",
+      "temporal_note_errors": []
+    },
+    {
+      "file": "07_Harps_Keys_and_Piano_GM.mid",
+      "temporal_note_errors": []
+    },
+    {
+      "file": "08_Percussion_GM.mid",
+      "temporal_note_errors": []
+    },
+    {
+      "file": "09_Wordless_Choir_GM.mid",
+      "temporal_note_errors": []
+    },
+    {
+      "file": "10_Guitars_GM.mid",
+      "temporal_note_errors": []
+    },
+    {
+      "file": "11_Electric_Bass_GM.mid",
+      "temporal_note_errors": []
+    }
+  ],
+  "native_instrument_control_audit": [
+    {
+      "id": "49",
+      "sample_key": "shinyguitar",
+      "gm_programs": [],
+      "CC1": [
+        0
+      ],
+      "CC11": [
+        100
+      ],
+      "CC20": [],
+      "CC120": [],
+      "cc7": [
+        38
+      ],
+      "cc10": [
+        39
+      ],
+      "note_ons": 696
+    },
+    {
+      "id": "50",
+      "sample_key": "shinyguitar",
+      "gm_programs": [],
+      "CC1": [
+        0
+      ],
+      "CC11": [
+        100
+      ],
+      "CC20": [],
+      "CC120": [],
+      "cc7": [
+        27
+      ],
+      "cc10": [
+        88
+      ],
+      "note_ons": 186
+    },
+    {
+      "id": "51",
+      "sample_key": "gm",
+      "gm_programs": [
+        33
+      ],
+      "CC1": [
+        0
+      ],
+      "CC11": [
+        100
+      ],
+      "CC20": [],
+      "CC120": [],
+      "cc7": [
+        73
+      ],
+      "cc10": [
+        64
+      ],
+      "note_ons": 93
+    },
+    {
+      "id": "52",
+      "sample_key": "weresax",
+      "gm_programs": [],
+      "CC1": [],
+      "CC11": [
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102,
+        103
+      ],
+      "CC20": [
+        0
+      ],
+      "CC120": [],
+      "cc7": [
+        38
+      ],
+      "cc10": [
+        70
+      ],
+      "note_ons": 82
+    },
+    {
+      "id": "53",
+      "sample_key": "gm",
+      "gm_programs": [
+        0
+      ],
+      "CC1": [
+        0
+      ],
+      "CC11": [
+        100
+      ],
+      "CC20": [],
+      "CC120": [],
+      "cc7": [
+        121
+      ],
+      "cc10": [
+        83
+      ],
+      "note_ons": 132
+    },
+    {
+      "id": "54",
+      "sample_key": "violin2",
+      "gm_programs": [],
+      "CC1": [
+        96,
+        98
+      ],
+      "CC11": [
+        87,
+        92
+      ],
+      "CC20": [],
+      "CC120": [],
+      "cc7": [
+        55
+      ],
+      "cc10": [
+        43
+      ],
+      "note_ons": 217
+    },
+    {
+      "id": "55",
+      "sample_key": "flute_tutti_v9",
+      "gm_programs": [],
+      "CC1": [
+        90,
+        92,
+        94
+      ],
+      "CC11": [
+        87,
+        92
+      ],
+      "CC20": [],
+      "CC120": [],
+      "cc7": [
+        55
+      ],
+      "cc10": [
+        56
+      ],
+      "note_ons": 158
+    },
+    {
+      "id": "56",
+      "sample_key": "violin1",
+      "gm_programs": [],
+      "CC1": [
+        92,
+        96
+      ],
+      "CC11": [
+        92
+      ],
+      "CC20": [],
+      "CC120": [],
+      "cc7": [
+        61
+      ],
+      "cc10": [
+        39
+      ],
+      "note_ons": 144
+    },
+    {
+      "id": "57",
+      "sample_key": "clarinet",
+      "gm_programs": [],
+      "CC1": [
+        88,
+        92
+      ],
+      "CC11": [
+        90,
+        92
+      ],
+      "CC20": [],
+      "CC120": [],
+      "cc7": [
+        43
+      ],
+      "cc10": [
+        75
+      ],
+      "note_ons": 144
+    },
+    {
+      "id": "58",
+      "sample_key": "choir_finale_v10",
+      "gm_programs": [],
+      "CC1": [
+        78
+      ],
+      "CC11": [
+        76,
+        86,
+        88
+      ],
+      "CC20": [],
+      "CC120": [],
+      "cc7": [
+        53
+      ],
+      "cc10": [
+        69
+      ],
+      "note_ons": 48
+    },
+    {
+      "id": "59",
+      "sample_key": "trumpet_section",
+      "gm_programs": [],
+      "CC1": [
+        72
+      ],
+      "CC11": [
+        86
+      ],
+      "CC20": [],
+      "CC120": [],
+      "cc7": [
+        76
+      ],
+      "cc10": [
+        79
+      ],
+      "note_ons": 24
+    },
+    {
+      "id": "60",
+      "sample_key": "violin1",
+      "gm_programs": [],
+      "CC1": [
+        74,
+        78,
+        84,
+        88,
+        94,
+        100
+      ],
+      "CC11": [
+        88,
+        94
+      ],
+      "CC20": [],
+      "CC120": [],
+      "cc7": [
+        45
+      ],
+      "cc10": [
+        20
+      ],
+      "note_ons": 89
+    },
+    {
+      "id": "61",
+      "sample_key": "violin1",
+      "gm_programs": [],
+      "CC1": [
+        74,
+        78,
+        84,
+        88,
+        94,
+        100
+      ],
+      "CC11": [
+        88,
+        94
+      ],
+      "CC20": [],
+      "CC120": [],
+      "cc7": [
+        53
+      ],
+      "cc10": [
+        35
+      ],
+      "note_ons": 178
+    },
+    {
+      "id": "62",
+      "sample_key": "violin1",
+      "gm_programs": [],
+      "CC1": [
+        74,
+        84,
+        88,
+        94,
+        100
+      ],
+      "CC11": [
+        88,
+        94
+      ],
+      "CC20": [],
+      "CC120": [],
+      "cc7": [
+        50
+      ],
+      "cc10": [
+        51
+      ],
+      "note_ons": 93
+    },
+    {
+      "id": "63",
+      "sample_key": "violin2",
+      "gm_programs": [],
+      "CC1": [
+        74,
+        78,
+        84,
+        88,
+        94,
+        100
+      ],
+      "CC11": [
+        88,
+        94
+      ],
+      "CC20": [],
+      "CC120": [],
+      "cc7": [
+        53
+      ],
+      "cc10": [
+        95
+      ],
+      "note_ons": 113
+    },
+    {
+      "id": "64",
+      "sample_key": "violin2",
+      "gm_programs": [],
+      "CC1": [
+        74,
+        78,
+        84,
+        88,
+        94,
+        100
+      ],
+      "CC11": [
+        88,
+        94
+      ],
+      "CC20": [],
+      "CC120": [],
+      "cc7": [
+        53
+      ],
+      "cc10": [
+        79
+      ],
+      "note_ons": 176
+    },
+    {
+      "id": "65",
+      "sample_key": "viola",
+      "gm_programs": [],
+      "CC1": [
+        74,
+        78,
+        84,
+        88,
+        94,
+        100
+      ],
+      "CC11": [
+        88,
+        94
+      ],
+      "CC20": [],
+      "CC120": [],
+      "cc7": [
+        48
+      ],
+      "cc10": [
+        57
+      ],
+      "note_ons": 187
+    },
+    {
+      "id": "66",
+      "sample_key": "viola",
+      "gm_programs": [],
+      "CC1": [
+        74,
+        84,
+        88,
+        94,
+        100
+      ],
+      "CC11": [
+        88,
+        94
+      ],
+      "CC20": [],
+      "CC120": [],
+      "cc7": [
+        46
+      ],
+      "cc10": [
+        70
+      ],
+      "note_ons": 60
+    },
+    {
+      "id": "67",
+      "sample_key": "cello",
+      "gm_programs": [],
+      "CC1": [
+        74,
+        78,
+        84,
+        88,
+        94,
+        100
+      ],
+      "CC11": [
+        88,
+        94
+      ],
+      "CC20": [],
+      "CC120": [],
+      "cc7": [
+        52
+      ],
+      "cc10": [
+        92
+      ],
+      "note_ons": 162
+    },
+    {
+      "id": "68",
+      "sample_key": "cello",
+      "gm_programs": [],
+      "CC1": [
+        74,
+        84,
+        88,
+        94,
+        100
+      ],
+      "CC11": [
+        88,
+        94
+      ],
+      "CC20": [],
+      "CC120": [],
+      "cc7": [
+        46
+      ],
+      "cc10": [
+        105
+      ],
+      "note_ons": 58
+    },
+    {
+      "id": "69",
+      "sample_key": "cello",
+      "gm_programs": [],
+      "CC1": [
+        74,
+        84,
+        88,
+        94,
+        100
+      ],
+      "CC11": [
+        88,
+        94
+      ],
+      "CC20": [],
+      "CC120": [],
+      "cc7": [
+        53
+      ],
+      "cc10": [
+        81
+      ],
+      "note_ons": 112
+    },
+    {
+      "id": "70",
+      "sample_key": "flute_tutti_v9",
+      "gm_programs": [],
+      "CC1": [
+        72,
+        74,
+        78,
+        82,
+        84,
+        90,
+        94
+      ],
+      "CC11": [
+        88
+      ],
+      "CC20": [],
+      "CC120": [],
+      "cc7": [
+        52
+      ],
+      "cc10": [
+        48
+      ],
+      "note_ons": 122
+    },
+    {
+      "id": "71",
+      "sample_key": "clarinet",
+      "gm_programs": [],
+      "CC1": [
+        68,
+        72,
+        74,
+        78,
+        82,
+        84,
+        90,
+        94
+      ],
+      "CC11": [
+        88
+      ],
+      "CC20": [],
+      "CC120": [],
+      "cc7": [
+        49
+      ],
+      "cc10": [
+        71
+      ],
+      "note_ons": 150
+    },
+    {
+      "id": "72",
+      "sample_key": "oboe",
+      "gm_programs": [],
+      "CC1": [
+        68,
+        74,
+        78,
+        82,
+        84,
+        90,
+        94
+      ],
+      "CC11": [
+        88
+      ],
+      "CC20": [],
+      "CC120": [],
+      "cc7": [
+        48
+      ],
+      "cc10": [
+        57
+      ],
+      "note_ons": 104
+    },
+    {
+      "id": "73",
+      "sample_key": "bassoon",
+      "gm_programs": [],
+      "CC1": [
+        72,
+        74,
+        78,
+        82,
+        90,
+        94
+      ],
+      "CC11": [
+        88
+      ],
+      "CC20": [],
+      "CC120": [],
+      "cc7": [
+        44
+      ],
+      "cc10": [
+        81
+      ],
+      "note_ons": 67
+    },
+    {
+      "id": "74",
+      "sample_key": "horn_section",
+      "gm_programs": [],
+      "CC1": [
+        58,
+        68,
+        72,
+        74,
+        80,
+        86
+      ],
+      "CC11": [
+        86,
+        88
+      ],
+      "CC20": [],
+      "CC120": [],
+      "cc7": [
+        48
+      ],
+      "cc10": [
+        35
+      ],
+      "note_ons": 108
+    },
+    {
+      "id": "75",
+      "sample_key": "horn_section",
+      "gm_programs": [],
+      "CC1": [
+        68,
+        72,
+        74,
+        80,
+        86
+      ],
+      "CC11": [
+        86,
+        88
+      ],
+      "CC20": [],
+      "CC120": [],
+      "cc7": [
+        53
+      ],
+      "cc10": [
+        54
+      ],
+      "note_ons": 71
+    },
+    {
+      "id": "76",
+      "sample_key": "trumpet_section",
+      "gm_programs": [],
+      "CC1": [
+        72,
+        74,
+        80,
+        86
+      ],
+      "CC11": [
+        86,
+        88
+      ],
+      "CC20": [],
+      "CC120": [],
+      "cc7": [
+        74
+      ],
+      "cc10": [
+        73
+      ],
+      "note_ons": 45
+    },
+    {
+      "id": "77",
+      "sample_key": "trumpet_section",
+      "gm_programs": [],
+      "CC1": [
+        72,
+        74,
+        80,
+        86
+      ],
+      "CC11": [
+        86,
+        88
+      ],
+      "CC20": [],
+      "CC120": [],
+      "cc7": [
+        72
+      ],
+      "cc10": [
+        86
+      ],
+      "note_ons": 44
+    },
+    {
+      "id": "78",
+      "sample_key": "trombone_section",
+      "gm_programs": [],
+      "CC1": [
+        72,
+        74,
+        80,
+        86
+      ],
+      "CC11": [
+        86,
+        88
+      ],
+      "CC20": [],
+      "CC120": [],
+      "cc7": [
+        57
+      ],
+      "cc10": [
+        83
+      ],
+      "note_ons": 60
+    },
+    {
+      "id": "79",
+      "sample_key": "trombone_section",
+      "gm_programs": [],
+      "CC1": [
+        72,
+        74,
+        80,
+        86
+      ],
+      "CC11": [
+        86,
+        88
+      ],
+      "CC20": [],
+      "CC120": [],
+      "cc7": [
+        52
+      ],
+      "cc10": [
+        94
+      ],
+      "note_ons": 44
+    },
+    {
+      "id": "80",
+      "sample_key": "choir_finale_v10",
+      "gm_programs": [],
+      "CC1": [
+        74,
+        78,
+        84
+      ],
+      "CC11": [
+        88
+      ],
+      "CC20": [],
+      "CC120": [],
+      "cc7": [
+        64
+      ],
+      "cc10": [
+        64
+      ],
+      "note_ons": 72
+    },
+    {
+      "id": "81",
+      "sample_key": "gm",
+      "gm_programs": [
+        0
+      ],
+      "CC1": [
+        0
+      ],
+      "CC11": [
+        100
+      ],
+      "CC20": [],
+      "CC120": [],
+      "cc7": [
+        69
+      ],
+      "cc10": [
+        56
+      ],
+      "note_ons": 896
+    }
+  ],
+  "musicxml_addresses_exact": [
+    {
+      "id": "01",
+      "port_one_based": 1,
+      "channel_one_based": 1
+    },
+    {
+      "id": "02",
+      "port_one_based": 1,
+      "channel_one_based": 2
+    },
+    {
+      "id": "03",
+      "port_one_based": 1,
+      "channel_one_based": 3
+    },
+    {
+      "id": "04",
+      "port_one_based": 1,
+      "channel_one_based": 4
+    },
+    {
+      "id": "05",
+      "port_one_based": 1,
+      "channel_one_based": 5
+    },
+    {
+      "id": "06",
+      "port_one_based": 1,
+      "channel_one_based": 6
+    },
+    {
+      "id": "07",
+      "port_one_based": 1,
+      "channel_one_based": 7
+    },
+    {
+      "id": "08",
+      "port_one_based": 1,
+      "channel_one_based": 8
+    },
+    {
+      "id": "09",
+      "port_one_based": 1,
+      "channel_one_based": 9
+    },
+    {
+      "id": "10",
+      "port_one_based": 1,
+      "channel_one_based": 11
+    },
+    {
+      "id": "52",
+      "port_one_based": 4,
+      "channel_one_based": 7
+    },
+    {
+      "id": "55",
+      "port_one_based": 4,
+      "channel_one_based": 11
+    },
+    {
+      "id": "57",
+      "port_one_based": 5,
+      "channel_one_based": 2
+    },
+    {
+      "id": "70",
+      "port_one_based": 5,
+      "channel_one_based": 16
+    },
+    {
+      "id": "71",
+      "port_one_based": 6,
+      "channel_one_based": 1
+    },
+    {
+      "id": "72",
+      "port_one_based": 6,
+      "channel_one_based": 2
+    },
+    {
+      "id": "73",
+      "port_one_based": 6,
+      "channel_one_based": 3
+    },
+    {
+      "id": "11",
+      "port_one_based": 1,
+      "channel_one_based": 12
+    },
+    {
+      "id": "12",
+      "port_one_based": 1,
+      "channel_one_based": 13
+    },
+    {
+      "id": "13",
+      "port_one_based": 1,
+      "channel_one_based": 14
+    },
+    {
+      "id": "14",
+      "port_one_based": 1,
+      "channel_one_based": 15
+    },
+    {
+      "id": "15",
+      "port_one_based": 1,
+      "channel_one_based": 16
+    },
+    {
+      "id": "16",
+      "port_one_based": 2,
+      "channel_one_based": 1
+    },
+    {
+      "id": "17",
+      "port_one_based": 2,
+      "channel_one_based": 2
+    },
+    {
+      "id": "18",
+      "port_one_based": 2,
+      "channel_one_based": 3
+    },
+    {
+      "id": "19",
+      "port_one_based": 2,
+      "channel_one_based": 4
+    },
+    {
+      "id": "20",
+      "port_one_based": 2,
+      "channel_one_based": 5
+    },
+    {
+      "id": "21",
+      "port_one_based": 2,
+      "channel_one_based": 6
+    },
+    {
+      "id": "59",
+      "port_one_based": 5,
+      "channel_one_based": 4
+    },
+    {
+      "id": "74",
+      "port_one_based": 6,
+      "channel_one_based": 4
+    },
+    {
+      "id": "75",
+      "port_one_based": 6,
+      "channel_one_based": 5
+    },
+    {
+      "id": "76",
+      "port_one_based": 6,
+      "channel_one_based": 6
+    },
+    {
+      "id": "77",
+      "port_one_based": 6,
+      "channel_one_based": 7
+    },
+    {
+      "id": "78",
+      "port_one_based": 6,
+      "channel_one_based": 8
+    },
+    {
+      "id": "79",
+      "port_one_based": 6,
+      "channel_one_based": 9
+    },
+    {
+      "id": "22",
+      "port_one_based": 2,
+      "channel_one_based": 7
+    },
+    {
+      "id": "23",
+      "port_one_based": 2,
+      "channel_one_based": 8
+    },
+    {
+      "id": "24",
+      "port_one_based": 2,
+      "channel_one_based": 9
+    },
+    {
+      "id": "25",
+      "port_one_based": 2,
+      "channel_one_based": 11
+    },
+    {
+      "id": "26",
+      "port_one_based": 2,
+      "channel_one_based": 12
+    },
+    {
+      "id": "27",
+      "port_one_based": 2,
+      "channel_one_based": 13
+    },
+    {
+      "id": "28",
+      "port_one_based": 2,
+      "channel_one_based": 14
+    },
+    {
+      "id": "29",
+      "port_one_based": 2,
+      "channel_one_based": 15
+    },
+    {
+      "id": "30",
+      "port_one_based": 2,
+      "channel_one_based": 16
+    },
+    {
+      "id": "31",
+      "port_one_based": 3,
+      "channel_one_based": 1
+    },
+    {
+      "id": "46",
+      "port_one_based": 4,
+      "channel_one_based": 1
+    },
+    {
+      "id": "47",
+      "port_one_based": 4,
+      "channel_one_based": 2
+    },
+    {
+      "id": "54",
+      "port_one_based": 4,
+      "channel_one_based": 9
+    },
+    {
+      "id": "56",
+      "port_one_based": 5,
+      "channel_one_based": 1
+    },
+    {
+      "id": "60",
+      "port_one_based": 5,
+      "channel_one_based": 5
+    },
+    {
+      "id": "61",
+      "port_one_based": 5,
+      "channel_one_based": 6
+    },
+    {
+      "id": "62",
+      "port_one_based": 5,
+      "channel_one_based": 7
+    },
+    {
+      "id": "63",
+      "port_one_based": 5,
+      "channel_one_based": 8
+    },
+    {
+      "id": "64",
+      "port_one_based": 5,
+      "channel_one_based": 9
+    },
+    {
+      "id": "65",
+      "port_one_based": 5,
+      "channel_one_based": 11
+    },
+    {
+      "id": "66",
+      "port_one_based": 5,
+      "channel_one_based": 12
+    },
+    {
+      "id": "67",
+      "port_one_based": 5,
+      "channel_one_based": 13
+    },
+    {
+      "id": "68",
+      "port_one_based": 5,
+      "channel_one_based": 14
+    },
+    {
+      "id": "69",
+      "port_one_based": 5,
+      "channel_one_based": 15
+    },
+    {
+      "id": "32",
+      "port_one_based": 3,
+      "channel_one_based": 2
+    },
+    {
+      "id": "33",
+      "port_one_based": 3,
+      "channel_one_based": 3
+    },
+    {
+      "id": "34",
+      "port_one_based": 3,
+      "channel_one_based": 4
+    },
+    {
+      "id": "35",
+      "port_one_based": 3,
+      "channel_one_based": 5
+    },
+    {
+      "id": "81",
+      "port_one_based": 6,
+      "channel_one_based": 12
+    },
+    {
+      "id": "49",
+      "port_one_based": 4,
+      "channel_one_based": 4
+    },
+    {
+      "id": "50",
+      "port_one_based": 4,
+      "channel_one_based": 5
+    },
+    {
+      "id": "51",
+      "port_one_based": 4,
+      "channel_one_based": 6
+    },
+    {
+      "id": "36",
+      "port_one_based": 3,
+      "channel_one_based": 6
+    },
+    {
+      "id": "37",
+      "port_one_based": 4,
+      "channel_one_based": 10
+    },
+    {
+      "id": "38",
+      "port_one_based": 5,
+      "channel_one_based": 10
+    },
+    {
+      "id": "39",
+      "port_one_based": 6,
+      "channel_one_based": 10
+    },
+    {
+      "id": "40",
+      "port_one_based": 7,
+      "channel_one_based": 10
+    },
+    {
+      "id": "42",
+      "port_one_based": 9,
+      "channel_one_based": 10
+    },
+    {
+      "id": "45",
+      "port_one_based": 10,
+      "channel_one_based": 10
+    },
+    {
+      "id": "48",
+      "port_one_based": 4,
+      "channel_one_based": 3
+    },
+    {
+      "id": "53",
+      "port_one_based": 11,
+      "channel_one_based": 10
+    },
+    {
+      "id": "43",
+      "port_one_based": 3,
+      "channel_one_based": 14
+    },
+    {
+      "id": "44",
+      "port_one_based": 3,
+      "channel_one_based": 15
+    },
+    {
+      "id": "58",
+      "port_one_based": 5,
+      "channel_one_based": 3
+    },
+    {
+      "id": "80",
+      "port_one_based": 6,
+      "channel_one_based": 11
+    }
+  ],
+  "all80_rendered_parts_finite_nonzero_no_log_errors": true,
+  "all22newparts_Sustain_no_added_keyswitches": true,
+  "virtual_GM_families_only": true,
+  "automation_note": "Static CC7 uses finalpartmean gain. Familymacro/sectionlead compensation/EQ/stereo stage are printed in stems; source58musical/performance messages exceptCC7 unchanged.",
+  "independent_new_ensemble_audio_audit": "historical-workspace/output/orchestral-v11/ensemble_audit_v11.json",
+  "all9_percussion_decoded_samples_exact": true
+}

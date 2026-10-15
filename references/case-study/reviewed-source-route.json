@@ -1,0 +1,780 @@
+{
+  "title": "SMAP original-song route audit forv5",
+  "source_audio": "historical-workspace/SMAP_世界に一つだけの花_シングルヴァージョン.flac",
+  "source_score": "historical-workspace/output/piano/sekai-score.pdf",
+  "patterns_convention": "G fingering/capo2. Transpose melody and sourceG harmony up2semitones for concertA. C4=MIDI60.",
+  "bpm": 98.977,
+  "bpm_evidence": "Original FLAC onset Fourier peak98.976BPM. Chroma repeat lag90.930s is150quarter pulses at98.977BPM; this measures tempo, not section lengths.",
+  "phase_seconds": 0.02,
+  "phase_scope": "Quarter-pulse phase only; not established bar1 or first vocal onset.",
+  "source_duration": 281.06666666666666,
+  "fade_start": 274.0,
+  "fade_end": 280.0,
+  "fade_evidence": "Original mono RMS:274–275s=-10.8dBFS;275–276=-42.8;276–277=-59.9;277–278=-72.7;278–279=-80.9;279–280=-94.5;280–281 effectivelysilent. Fastfade starts late274s, most musical material gone by276s.",
+  "sections": [
+    {
+      "name": "Original Lead In",
+      "sequence": [
+        "LeadIn"
+      ],
+      "beat": 0,
+      "beats": 5,
+      "audio_seconds_estimate": 0.02
+    },
+    {
+      "name": "Opening Refrain / Intro1",
+      "sequence": [
+        "I1",
+        "I2",
+        "I3",
+        "I4"
+      ],
+      "beat": 5,
+      "beats": 14.0,
+      "audio_seconds_estimate": 3.051
+    },
+    {
+      "name": "Intro2",
+      "sequence": [
+        "I5_first",
+        "I6",
+        "I7",
+        "I8_long",
+        "I5",
+        "I6",
+        "I7",
+        "I8",
+        "I9"
+      ],
+      "beat": 19.0,
+      "beats": 34.0,
+      "audio_seconds_estimate": 11.5378
+    },
+    {
+      "name": "Verse1",
+      "sequence": [
+        "A1",
+        "A2",
+        "A3",
+        "A4",
+        "A5",
+        "A6",
+        "A7",
+        "A8",
+        "A1",
+        "A2",
+        "A3",
+        "A4",
+        "A5",
+        "A6",
+        "A7",
+        "A8"
+      ],
+      "beat": 53.0,
+      "beats": 64.0,
+      "audio_seconds_estimate": 32.1487
+    },
+    {
+      "name": "Build1",
+      "sequence": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5",
+        "B6",
+        "B7",
+        "B8",
+        "B9"
+      ],
+      "beat": 117.0,
+      "beats": 36.0,
+      "audio_seconds_estimate": 70.9456
+    },
+    {
+      "name": "Chorus1",
+      "sequence": [
+        "C1",
+        "C2",
+        "C3",
+        "C4",
+        "C5",
+        "C6",
+        "C7",
+        "C8"
+      ],
+      "beat": 153.0,
+      "beats": 32.0,
+      "audio_seconds_estimate": 92.7688
+    },
+    {
+      "name": "Interlude / D.S.1 return",
+      "sequence": [
+        "I5",
+        "I6",
+        "I7",
+        "I8_long",
+        "I5",
+        "I6",
+        "I7",
+        "I8",
+        "I9"
+      ],
+      "beat": 185.0,
+      "beats": 34.0,
+      "audio_seconds_estimate": 112.1673
+    },
+    {
+      "name": "Verse2",
+      "sequence": [
+        "A1",
+        "A2",
+        "A3",
+        "A4",
+        "A5",
+        "A6",
+        "A7",
+        "A8",
+        "A1",
+        "A2",
+        "A3",
+        "A4",
+        "A5",
+        "A6_fourth",
+        "A7",
+        "A8"
+      ],
+      "beat": 219.0,
+      "beats": 64.0,
+      "audio_seconds_estimate": 132.7781
+    },
+    {
+      "name": "Build2",
+      "sequence": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5",
+        "B6",
+        "B7",
+        "B8",
+        "B9"
+      ],
+      "beat": 283.0,
+      "beats": 36.0,
+      "audio_seconds_estimate": 171.575
+    },
+    {
+      "name": "Chorus2 toCoda1",
+      "sequence": [
+        "C1",
+        "C2",
+        "C3",
+        "C4",
+        "C5",
+        "C6",
+        "C7",
+        "Coda1"
+      ],
+      "beat": 319.0,
+      "beats": 32.0,
+      "audio_seconds_estimate": 193.3983
+    },
+    {
+      "name": "Final Chorus / D.S.2 return",
+      "sequence": [
+        "C1",
+        "C2",
+        "C3",
+        "C4",
+        "C5",
+        "C6",
+        "C7"
+      ],
+      "beat": 351.0,
+      "beats": 28.0,
+      "audio_seconds_estimate": 212.7967
+    },
+    {
+      "name": "Coda2",
+      "sequence": [
+        "Coda2a",
+        "Coda2b",
+        "Coda2c"
+      ],
+      "beat": 379.0,
+      "beats": 12.0,
+      "audio_seconds_estimate": 229.7703
+    },
+    {
+      "name": "La-la D",
+      "sequence": [
+        "D1",
+        "D2",
+        "D3",
+        "D4",
+        "D1",
+        "D2",
+        "D3",
+        "D5"
+      ],
+      "beat": 391.0,
+      "beats": 30.0,
+      "audio_seconds_estimate": 237.0448
+    },
+    {
+      "name": "E fade vamp",
+      "sequence": [
+        "E1",
+        "E2",
+        "E3",
+        "E4",
+        "E1",
+        "E2",
+        "E3",
+        "E4"
+      ],
+      "beat": 421.0,
+      "beats": 32.0,
+      "audio_seconds_estimate": 255.2308
+    }
+  ],
+  "patterns": {
+    "I1": {
+      "pattern": "G4:.75 G4:.75 D5:.5 D5:.75 C5:.75 B4:.5",
+      "harmony": [
+        "G",
+        "C"
+      ],
+      "beats": 4.0
+    },
+    "I2": {
+      "pattern": "A4:.5 A4:.25 B4:.75 C5:.5 B4:.5 B4:.25 A4:.25 R:1",
+      "harmony": [
+        "D",
+        "B7/D#"
+      ],
+      "beats": 4.0
+    },
+    "I3": {
+      "pattern": "G4:.5 G4:.25 A4:.75 B4:.5 B4:.5 B4:.25 A4:.5 A4:.25 G4:.5",
+      "harmony": [
+        "Em",
+        "CM7"
+      ],
+      "beats": 4.0
+    },
+    "I4": {
+      "pattern": "B4:1 D5:.25 E5:.25 G5:.25 A5:.25",
+      "harmony": [
+        "D"
+      ],
+      "beats": 2.0,
+      "melody_layers": [
+        {
+          "role": "vocal",
+          "pattern": "B4:1 R:1"
+        },
+        {
+          "role": "instrumental",
+          "pattern": "R:1 D5:.25 E5:.25 G5:.25 A5:.25"
+        }
+      ],
+      "source_location": "Mother p1: vocalOnly onB4quarter; four16ths are the instrumentalpickup. Lowone at nextI5_first belongs to vocalcontinuation."
+    },
+    "I5": {
+      "pattern": "B5:1 A5:.5 G5:.5 G5:1 B4:.25 C5:.25 E5:.5",
+      "harmony": [
+        "G",
+        "C"
+      ],
+      "beats": 4.0
+    },
+    "I6": {
+      "pattern": "A5:1 D6:1 G5:2",
+      "harmony": [
+        "D",
+        "Em"
+      ],
+      "beats": 4.0
+    },
+    "I7": {
+      "pattern": "B5:1 A5:.5 G5:.5 G5:1 D5:.25 E5:.25 G5:.5",
+      "harmony": [
+        "G",
+        "C"
+      ],
+      "beats": 4.0
+    },
+    "I8": {
+      "pattern": "A5:1 B5:1",
+      "harmony": [
+        "D"
+      ],
+      "beats": 2.0
+    },
+    "I9": {
+      "pattern": "G5:4",
+      "harmony": [
+        "C",
+        "C"
+      ],
+      "secondary": [
+        {
+          "at": 3.5,
+          "dur": 0.5,
+          "note": "D4",
+          "role": "vocal_pickup",
+          "condition": "Keep G5 instrumental note sounding through this separate pickup"
+        }
+      ],
+      "beats": 4.0
+    },
+    "A1": {
+      "pattern": "G4:.5 G4:.25 G4:.75 G4:.5 G4:.5 G4:.25 G4:.5 G4:.25 G4:.5",
+      "harmony": [
+        "G",
+        "C"
+      ],
+      "beats": 4.0
+    },
+    "A2": {
+      "pattern": "A4:.75 A4:.75 B4:.5 B4:1 R:1",
+      "harmony": [
+        "D",
+        "B7/D#"
+      ],
+      "beats": 4.0
+    },
+    "A3": {
+      "pattern": "G4:.5 G4:.25 G4:.75 D5:.5 D5:.75 C5:.75 B4:.5",
+      "harmony": [
+        "Em",
+        "C"
+      ],
+      "beats": 4.0
+    },
+    "A4": {
+      "pattern": "A4:.75 E4:.75 G4:.5 F#4:1 R:.5 D4:.5",
+      "harmony": [
+        "A/C#",
+        "D"
+      ],
+      "beats": 4.0
+    },
+    "A5": {
+      "pattern": "G4:.5 G4:.25 G4:.75 G4:.5 G4:.5 G4:.25 G4:.5 G4:.25 G4:.5",
+      "harmony": [
+        "G/B",
+        "C"
+      ],
+      "beats": 4.0
+    },
+    "A6": {
+      "pattern": "A4:.75 A4:.75 B4:.5 B4:1 R:1",
+      "harmony": [
+        "D",
+        "B7/D#"
+      ],
+      "beats": 4.0
+    },
+    "A7": {
+      "pattern": "G4:.5 G4:.25 G4:.75 D5:.5 D5:.75 C5:.75 B4:.5",
+      "harmony": [
+        "Em",
+        "C"
+      ],
+      "beats": 4.0
+    },
+    "A8": {
+      "pattern": "B4:.75 A4:.75 G4:.5 G4:1 R:.5 D4:.5",
+      "harmony": [
+        "D",
+        "G"
+      ],
+      "beats": 4.0
+    },
+    "B1": {
+      "pattern": "A4:.5 A4:.25 A4:.5 A4:.25 A4:.5 A4:.75 A4:.75 B4:.5",
+      "harmony": [
+        "F",
+        "F"
+      ],
+      "beats": 4.0
+    },
+    "B2": {
+      "pattern": "B4:.75 A4:.75 G4:.5 G4:1 R:1",
+      "harmony": [
+        "C",
+        "C"
+      ],
+      "beats": 4.0
+    },
+    "B3": {
+      "pattern": "A4:.75 A4:.75 A4:.5 A4:.75 B4:.75 B4:.5",
+      "harmony": [
+        "F",
+        "F"
+      ],
+      "beats": 4.0
+    },
+    "B4": {
+      "pattern": "C5:.5 C5:.25 B4:.75 A4:.25 G4:.25 G4:1 R:1",
+      "harmony": [
+        "C",
+        "C"
+      ],
+      "beats": 4.0
+    },
+    "B5": {
+      "pattern": "A4:.5 A4:.25 A4:.75 A4:.5 A4:.5 A4:.25 A4:.25 B4:.5 C5:.25 C5:.25",
+      "harmony": [
+        "D",
+        "D/C"
+      ],
+      "beats": 4.0
+    },
+    "B6": {
+      "pattern": "C5:.5 C5:.25 B4:.75 A4:.25 G4:.25 G4:1 R:.5 G4:.5",
+      "harmony": [
+        "G/B",
+        "G/B"
+      ],
+      "beats": 4.0
+    },
+    "B7": {
+      "pattern": "A4:.5 A4:.25 A4:.75 A4:.5 E5:.5 E5:.25 B4:.75 A4:.25 G4:.25",
+      "harmony": [
+        "A",
+        "A"
+      ],
+      "beats": 4.0
+    },
+    "B8": {
+      "pattern": "A4:3 R:1",
+      "harmony": [
+        "D",
+        "D"
+      ],
+      "beats": 4.0
+    },
+    "B9": {
+      "pattern": "A4:.75 B4:.75 C5:.5 B4:1 A4:.25 G4:.25 R:.5",
+      "harmony": [
+        "C/D",
+        "C/D"
+      ],
+      "beats": 4.0
+    },
+    "C1": {
+      "pattern": "G4:.5 G4:.25 G4:.75 D5:.5 D5:.75 C5:.75 B4:.5",
+      "harmony": [
+        "G",
+        "C"
+      ],
+      "beats": 4.0
+    },
+    "C2": {
+      "pattern": "A4:.75 B4:.75 C5:.5 B4:1 A4:.25 G4:.25 R:.5",
+      "harmony": [
+        "D",
+        "B7/D#"
+      ],
+      "beats": 4.0
+    },
+    "C3": {
+      "pattern": "G4:.5 G4:.25 G4:.75 B4:.5 B4:.75 A4:.25 R:.5 E4:.5",
+      "harmony": [
+        "Em",
+        "A/C#"
+      ],
+      "beats": 4.0
+    },
+    "C4": {
+      "pattern": "G4:.5 G4:.25 G4:.75 A4:.5 B4:.5 A4:.5 A4:.25 G4:.25 R:.5",
+      "harmony": [
+        "Dsus4",
+        "D"
+      ],
+      "beats": 4.0
+    },
+    "C5": {
+      "pattern": "G4:.75 G4:.25 G4:.5 D5:.5 D5:.75 C5:.75 B4:.5",
+      "harmony": [
+        "G/B",
+        "C"
+      ],
+      "beats": 4.0
+    },
+    "C6": {
+      "pattern": "A4:.5 A4:.25 B4:.75 C5:.5 B4:1 A4:.25 G4:.25 R:.5",
+      "harmony": [
+        "D",
+        "B7/D#"
+      ],
+      "beats": 4.0
+    },
+    "C7": {
+      "pattern": "G4:.75 G4:.75 B4:.5 B4:.75 A4:.75 G4:.5",
+      "harmony": [
+        "Em",
+        "A/C#"
+      ],
+      "beats": 4.0
+    },
+    "C8": {
+      "pattern": "G4:.5 G4:.25 F#4:.75 G4:.5 G4:1 R:1",
+      "harmony": [
+        "D",
+        "G"
+      ],
+      "beats": 4.0
+    },
+    "D1": {
+      "pattern": "G4:.75 G4:.75 D5:.5 D5:.75 C5:.75 B4:.5",
+      "harmony": [
+        "G",
+        "C"
+      ],
+      "beats": 4.0
+    },
+    "D2": {
+      "pattern": "A4:.75 B4:.75 C5:.5 B4:1 A4:.25 G4:.25 R:.5",
+      "harmony": [
+        "D",
+        "Em"
+      ],
+      "beats": 4.0
+    },
+    "D3": {
+      "pattern": "G4:.75 G4:.75 D5:.5 D5:.75 C5:.75 B4:.5",
+      "harmony": [
+        "G",
+        "C"
+      ],
+      "beats": 4.0
+    },
+    "D4": {
+      "pattern": "B4:1 A4:.5 G4:.5 G4:2",
+      "harmony": [
+        "D",
+        "Em"
+      ],
+      "articulation": "A4 to G4 eighth is a slur; final G4 half rearticulates.",
+      "beats": 4.0
+    },
+    "D5": {
+      "pattern": "B4:1 A4:.5 G4:.5",
+      "harmony": [
+        "D"
+      ],
+      "articulation": "2/4; A4 to G4 slur; return to4/4 atE.",
+      "beats": 2.0
+    },
+    "Coda1": {
+      "pattern": "G4:.5 G4:.25 F#4:.75 G4:.5 G4:1 R:1",
+      "harmony": [
+        "D",
+        "G"
+      ],
+      "source_location": "Mother sheet p3 Coda1; identical sounding pattern toC8; thenD.S.2",
+      "beats": 4.0
+    },
+    "Coda2a": {
+      "pattern": "B4:1 A4:.5 G4:.5 G4:2",
+      "harmony": [
+        "D",
+        "G"
+      ],
+      "source_location": "Mother sheet p3 Coda2 first bar, Only one",
+      "articulation": "A4 to G4 eighth slur; final G4 half rearticulates.",
+      "beats": 4.0
+    },
+    "Coda2b": {
+      "pattern": "B5:1 A5:.5 G5:.5 G5:1 D5:.25 E5:.25 G5:.5",
+      "harmony": [
+        "C",
+        "D"
+      ],
+      "source_location": "Mother sheet p3 Coda2 second bar, instrumental",
+      "beats": 4.0
+    },
+    "Coda2c": {
+      "pattern": "A5:1 D6:1 G5:2",
+      "harmony": [
+        "D",
+        "Em"
+      ],
+      "source_location": "Mother sheet p3 Coda2 third bar, instrumental",
+      "beats": 4.0
+    },
+    "E1": {
+      "pattern": "G4:.75 G4:.75 D5:.5 D5:.75 C5:.75 B4:.5",
+      "harmony": [
+        "C",
+        "C"
+      ],
+      "source_location": "Mother sheet p3 E bar1; C chord printed atEstart and no further changes indicated.",
+      "beats": 4.0
+    },
+    "E2": {
+      "pattern": "A4:.75 B4:.75 C5:.5 B4:1 A4:.25 G4:.25 R:.5",
+      "harmony": [
+        "C",
+        "C"
+      ],
+      "source_location": "Mother sheet p3 E bar2; C chord printed atEstart and no further changes indicated.",
+      "beats": 4.0
+    },
+    "E3": {
+      "pattern": "G4:.75 G4:.75 D5:.5 D5:.75 C5:.75 B4:.5",
+      "harmony": [
+        "C",
+        "C"
+      ],
+      "source_location": "Mother sheet p3 E bar3; C chord printed atEstart and no further changes indicated.",
+      "beats": 4.0
+    },
+    "E4": {
+      "pattern": "B4:1 A4:.5 G4:.5 G4:2",
+      "harmony": [
+        "C",
+        "C"
+      ],
+      "source_location": "Mother sheet p3 E bar4; C chord printed atEstart and no further changes indicated.",
+      "beats": 4.0
+    },
+    "LeadIn": {
+      "pattern": "R:5",
+      "harmony": [
+        "G"
+      ],
+      "template": "I9",
+      "beats": 5,
+      "role": "original_short_lead_in",
+      "source_location": "Original audio: quarter-pulse lead-in before No1; no new melodic notes authored."
+    },
+    "I8_long": {
+      "pattern": "A5:1 B5:1 G5:2",
+      "harmony": [
+        "D",
+        "Em"
+      ],
+      "template": "I8",
+      "beats": 4,
+      "source_location": "True other stem,18.9–21.1s and119.52–121.75s; concertB5,C#6,A5(2beats). True bassE2 thenF#2 confirmsE/F#m."
+    },
+    "I5_first": {
+      "pattern": "B5:1 A5:.5 G5:.5 G5:1 B4:.25 C5:.25 E5:.5",
+      "harmony": [
+        "G",
+        "C"
+      ],
+      "secondary": [
+        {
+          "at": 0,
+          "dur": 1,
+          "note": "G4",
+          "role": "vocal_only_first_intro2",
+          "condition": "First Intro2 occurrence only; independent of high instrumental melody"
+        }
+      ],
+      "beats": 4.0,
+      "template": "I5",
+      "source_location": "First firstIntro2bar only; vocal one is lowG4 for1beat alongside the high instrumental riff."
+    },
+    "A6_fourth": {
+      "pattern": "A4:.5 A4:.5 A4:.25 B4:.75 B4:1 R:1",
+      "harmony": [
+        "D",
+        "B7/D#"
+      ],
+      "template": "A6",
+      "beats": 4,
+      "source_location": "Mother sheetp2 A6 small-note alternative marked4thtimeonly; sourceGfingerings.",
+      "source_articulation": "Three separate A4 attacks, then two separate B4 attacks. Durations: eighth,eighth,sixteenth,dottedeighth,quarter,quarterrest. Do not merge the repeated-noteattacks.",
+      "true_vocal_evidence": {
+        "source": "New actual SMAP vocals.wav andtrue_vocal_pitch.npz, not earlier accompaniment separation.",
+        "nominal_bar_seconds": 164.3,
+        "syllable_attack_candidates_seconds": [
+          164.3,
+          164.55,
+          164.88,
+          165.17,
+          165.61
+        ],
+        "actual_vocal_pitch_targets": [
+          "B3",
+          "B3",
+          "B3",
+          "C#4",
+          "C#4"
+        ],
+        "details": "B3 near164.55/164.88, strong separate syllable attack165.17 with a scoop intoC#4 by165.30–165.37, separate C#4 attack165.61. Attack microtiming is looser than notation; the score explicitly gives fiveattacks for thisfourthpass."
+      }
+    }
+  },
+  "paper_beats_before_E": 384,
+  "recording_anchor_candidates": {
+    "method": "Local fixed-tempo melodic templates on newly separated actual SMAP vocalstem, gated byvocalRMS; independent high-register CQT on other andbass confirms instrumentalintro lengths.",
+    "verified_anchor_seconds": {
+      "No1_I1": 3.08,
+      "Verse1_A1": 32.19,
+      "Verse2_A1": 132.82,
+      "D_cycle1": 237.16,
+      "D_cycle2": 246.79,
+      "E_cycle1": 255.34,
+      "E_cycle2": 264.98
+    },
+    "vocal_first_rms_active": 2.995,
+    "I8_long_other_evidence": {
+      "first_occurrence": [
+        [
+          18.9,
+          19.35,
+          "B5"
+        ],
+        [
+          19.55,
+          19.95,
+          "C#6"
+        ],
+        [
+          20.1,
+          21.1,
+          "A5"
+        ]
+      ],
+      "interlude_occurrence": [
+        [
+          119.52,
+          119.95,
+          "B5"
+        ],
+        [
+          120.15,
+          120.55,
+          "C#6"
+        ],
+        [
+          120.74,
+          121.75,
+          "A5"
+        ]
+      ]
+    },
+    "confidence": "Section anchors match5beatlead-in,14beatopening,34beatintro/interlude,30beatD andtwo16beatEcycles. Residual~0.02–0.10s reflects singer onset, not addedbars."
+  },
+  "uncertainties": [
+    "phase_seconds is a quarter-pulse phase; vocal phoneme begins around2.995s while tonal No1template onset is3.08s. Nominal I1 grid after5beats is3.051s.",
+    "Final E is two4barcycles to musicalgridend~274.63s, then the original fastfade reaches near silence by276–280s. Do not expand tofivecycles or append a newly composedcadence.",
+    "All stored patterns remain sourceG/capo2 and transposeup2forconcertA; octave choices for orchestral soloists are register decisions, not inventedmelody.",
+    "No new v4 Development/SoloDialogue/FinalRefrain or P/Zmaterial belongs in this original-faithful version."
+  ],
+  "recording_beats": 453,
+  "recording_music_end_estimate": 274.62925265465714,
+  "source_route_status": "Ready: original recording form established using true separatedvocals, other andbass, with mother-sheet codas andvoice layers.",
+  "true_stem_root": "historical-workspace/tmp/orchestral-v5/reference_stems/SMAP_世界に一つだけの花_シングルヴァージョン",
+  "verified_variant": "A6 fourthpass corrected only inVerse2 sequenceindex13; original firstthreeoccurrences remainA6."
+}

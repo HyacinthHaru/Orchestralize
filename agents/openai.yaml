@@ -1,0 +1,4 @@
+interface:
+  display_name: "Orchestralize"
+  short_description: "Faithful, layered song arrangements with reproducible rendering"
+  default_prompt: "Use $orchestralize to arrange this song in my requested style, preserving its melody and form, with rich parts, optimized sound, and a reproducible project."

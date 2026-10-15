@@ -1,0 +1,786 @@
+[
+  {
+    "version": "orchestral-v1",
+    "parts": 16,
+    "measures": 116,
+    "beats": 456,
+    "evidence": "historical-workspace/output/orchestral/arrangement.json",
+    "count_basis": "desks length"
+  },
+  {
+    "version": "orchestral-v2",
+    "title": "Sekai ni Hitotsu Dake no Hana - Grand Symphonic v2",
+    "parts": 44,
+    "measures": 116,
+    "beats": 456.0,
+    "tempo_map": [
+      [
+        0,
+        92
+      ],
+      [
+        24.0,
+        98
+      ],
+      [
+        38.0,
+        100
+      ],
+      [
+        56.0,
+        99
+      ],
+      [
+        120.0,
+        100
+      ],
+      [
+        156.0,
+        98.5
+      ],
+      [
+        188.0,
+        100
+      ],
+      [
+        206.0,
+        99
+      ],
+      [
+        270.0,
+        100.5
+      ],
+      [
+        306.0,
+        98.7
+      ],
+      [
+        338.0,
+        97.5
+      ],
+      [
+        370.0,
+        99
+      ],
+      [
+        378.0,
+        99
+      ],
+      [
+        408.0,
+        98
+      ],
+      [
+        440.0,
+        94
+      ],
+      [
+        444.0,
+        86
+      ],
+      [
+        448.0,
+        74
+      ],
+      [
+        452.0,
+        58
+      ]
+    ],
+    "revision_notes": {},
+    "project": "historical-workspace/tmp/orchestral-v2/project.json"
+  },
+  {
+    "version": "orchestral-v3",
+    "title": "Sekai ni Hitotsu Dake no Hana - Grand Symphonic v3 - Low-End and Percussion",
+    "parts": 48,
+    "measures": 116,
+    "beats": 456.0,
+    "tempo_map": [
+      [
+        0,
+        92
+      ],
+      [
+        24.0,
+        98
+      ],
+      [
+        38.0,
+        100
+      ],
+      [
+        56.0,
+        99
+      ],
+      [
+        120.0,
+        100
+      ],
+      [
+        156.0,
+        98.5
+      ],
+      [
+        188.0,
+        100
+      ],
+      [
+        206.0,
+        99
+      ],
+      [
+        270.0,
+        100.5
+      ],
+      [
+        306.0,
+        98.7
+      ],
+      [
+        338.0,
+        97.5
+      ],
+      [
+        370.0,
+        99
+      ],
+      [
+        378.0,
+        99
+      ],
+      [
+        408.0,
+        98
+      ],
+      [
+        440.0,
+        94
+      ],
+      [
+        444.0,
+        86
+      ],
+      [
+        448.0,
+        74
+      ],
+      [
+        452.0,
+        58
+      ]
+    ],
+    "revision_notes": {
+      "secondary_dominant_resolutions": 15,
+      "low_bass_register": true,
+      "deep_bass_drum": "realPsample34.8Hz layeredwithnormalFattack",
+      "musical_parts": 48
+    },
+    "project": "historical-workspace/tmp/orchestral-v3/project.json"
+  },
+  {
+    "version": "orchestral-v4",
+    "title": "Sekai ni Hitotsu Dake no Hana - Grand Symphonic v4 - Theme and Variations",
+    "parts": 48,
+    "measures": 112,
+    "beats": 444.0,
+    "tempo_map": [
+      [
+        0,
+        92
+      ],
+      [
+        24.0,
+        99
+      ],
+      [
+        56.0,
+        99
+      ],
+      [
+        120.0,
+        100
+      ],
+      [
+        156.0,
+        98.5
+      ],
+      [
+        188.0,
+        101
+      ],
+      [
+        212.0,
+        98
+      ],
+      [
+        244.0,
+        101
+      ],
+      [
+        292.0,
+        99
+      ],
+      [
+        324.0,
+        98
+      ],
+      [
+        372.0,
+        100
+      ],
+      [
+        380.0,
+        98
+      ],
+      [
+        412.0,
+        97
+      ],
+      [
+        428.0,
+        94
+      ],
+      [
+        432.0,
+        86
+      ],
+      [
+        436.0,
+        74
+      ],
+      [
+        440.0,
+        58
+      ]
+    ],
+    "revision_notes": {
+      "secondary_dominant_resolutions": 16,
+      "reference_recording": "女子十二乐坊 - 世界に一つだけの花.mp3",
+      "independent_arrangement": true,
+      "source_E_coda_restored": true,
+      "source_E_coda_cycles": 1,
+      "removed_v3_bars": [
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        101,
+        102,
+        103,
+        104
+      ],
+      "new_development_bars": 12,
+      "new_dialogue_bars": 12,
+      "original_refrain_retained": "Refrain I"
+    },
+    "project": "historical-workspace/tmp/orchestral-v4/project.json"
+  },
+  {
+    "version": "orchestral-v5",
+    "title": "Sekai ni Hitotsu Dake no Hana - Orchestral v5 - Original Song Form",
+    "parts": 47,
+    "measures": 115,
+    "beats": 453.0,
+    "tempo_map": [
+      [
+        0,
+        98.977
+      ]
+    ],
+    "revision_notes": {
+      "original_melody_locked": true,
+      "new_composed_sections": 0,
+      "source_route": "source_route.json",
+      "mix_base": "v3 fixed gains; no active-RMS gain normalization"
+    },
+    "project": "historical-workspace/tmp/orchestral-v5/project.json"
+  },
+  {
+    "version": "orchestral-v6",
+    "title": "Sekai ni Hitotsu Dake no Hana - Orchestral v6 - Balanced Percussion and Inner Voices",
+    "parts": 47,
+    "measures": 115,
+    "beats": 453.0,
+    "tempo_map": [
+      [
+        0,
+        98.977
+      ]
+    ],
+    "revision_notes": {
+      "original_melody_locked": true,
+      "new_composed_sections": 0,
+      "source_route": "source_route.json",
+      "mix_base": "v3 fixed gains; no active-RMS gain normalization",
+      "based_on": "v5",
+      "original_foreground_events_unchanged": 680,
+      "added_chord_support_events": 58,
+      "connected_common_tones": 55,
+      "new_composed_melody_sections": 0
+    },
+    "project": "historical-workspace/tmp/orchestral-v6/project.json"
+  },
+  {
+    "version": "orchestral-v7",
+    "title": "Sekai ni Hitotsu Dake no Hana - Modern Pop Symphonic Remix v7",
+    "parts": 23,
+    "measures": 115,
+    "beats": 453.0,
+    "tempo_map": [
+      [
+        0,
+        98.977
+      ]
+    ],
+    "revision_notes": {
+      "based_on": "v6",
+      "style": "modern pop band and chamber strings",
+      "new_melody_sections": 0,
+      "guitar_voicings": "modern_plan.json",
+      "sax_lead_bars": [
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        86,
+        87,
+        88,
+        89,
+        104,
+        105,
+        106,
+        107
+      ]
+    },
+    "project": "historical-workspace/tmp/orchestral-v7/project.json"
+  },
+  {
+    "version": "orchestral-v8",
+    "title": "Sekai ni Hitotsu Dake no Hana - Modern Grand Symphonic v8",
+    "parts": 52,
+    "measures": 115,
+    "beats": 453.0,
+    "tempo_map": [
+      [
+        0,
+        98.977
+      ]
+    ],
+    "revision_notes": {
+      "based_on": "v6 full orchestra",
+      "all_47_original_parts_retained": true,
+      "original_foreground_performance_unchanged": true,
+      "modern_parts_added": [
+        [
+          "49",
+          "03",
+          "Electric Guitar - Arpeggios",
+          "guitars",
+          "Gtr. arp."
+        ],
+        [
+          "50",
+          "04",
+          "Electric Guitar - Rhythm",
+          "guitars",
+          "Gtr. rhythm"
+        ],
+        [
+          "51",
+          "05",
+          "Electric Bass Support",
+          "bass",
+          "E. Bass"
+        ],
+        [
+          "52",
+          "02",
+          "Alto Sax - Ensemble Colour",
+          "woodwinds",
+          "A. Sax"
+        ],
+        [
+          "53",
+          "22",
+          "Modern Hi-hat",
+          "percussion",
+          "HH"
+        ]
+      ],
+      "sax_role": "ensemble doubling of existing original melody; never replaces original lead",
+      "new_melody_sections": 0
+    },
+    "project": "historical-workspace/tmp/orchestral-v8/project.json"
+  },
+  {
+    "version": "orchestral-v9",
+    "title": "Sekai ni Hitotsu Dake no Hana - Modern Grand Symphonic v9",
+    "parts": 54,
+    "measures": 115,
+    "beats": 453.0,
+    "tempo_map": [
+      [
+        0,
+        98.977
+      ]
+    ],
+    "revision_notes": {
+      "based_on": "v8 complete52parts",
+      "all_47_original_parts_retained": true,
+      "original_foreground_performance_unchanged": true,
+      "modern_parts_added": [
+        [
+          "49",
+          "03",
+          "Electric Guitar - Arpeggios",
+          "guitars",
+          "Gtr. arp."
+        ],
+        [
+          "50",
+          "04",
+          "Electric Guitar - Rhythm",
+          "guitars",
+          "Gtr. rhythm"
+        ],
+        [
+          "51",
+          "05",
+          "Electric Bass Support",
+          "bass",
+          "E. Bass"
+        ],
+        [
+          "52",
+          "02",
+          "Alto Sax - Ensemble Colour",
+          "woodwinds",
+          "A. Sax"
+        ],
+        [
+          "53",
+          "22",
+          "Modern Hi-hat",
+          "percussion",
+          "HH"
+        ]
+      ],
+      "sax_role": "ensemble doubling of existing original melody; never replaces original lead",
+      "new_melody_sections": 0,
+      "all_52_original_parts_retained": true,
+      "chorus_brightness_added_parts": [
+        "54",
+        "55"
+      ],
+      "added_role": "ensemble_doubling",
+      "added_bars": [
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97
+      ],
+      "added_upper_register": "Both doubling desks follow original lead+12 in first2choruses andCoda97; same pitch as final high lead; sounding78..88."
+    },
+    "project": "historical-workspace/tmp/orchestral-v9/project.json"
+  },
+  {
+    "version": "orchestral-v10",
+    "title": "Sekai ni Hitotsu Dake no Hana - Modern Grand Symphonic v10",
+    "parts": 58,
+    "measures": 115,
+    "beats": 453.0,
+    "tempo_map": [
+      [
+        0,
+        98.977
+      ]
+    ],
+    "revision_notes": {
+      "based_on": "v9 complete54parts",
+      "all_47_original_parts_retained": true,
+      "original_foreground_performance_unchanged": true,
+      "modern_parts_added": [
+        [
+          "49",
+          "03",
+          "Electric Guitar - Arpeggios",
+          "guitars",
+          "Gtr. arp."
+        ],
+        [
+          "50",
+          "04",
+          "Electric Guitar - Rhythm",
+          "guitars",
+          "Gtr. rhythm"
+        ],
+        [
+          "51",
+          "05",
+          "Electric Bass Support",
+          "bass",
+          "E. Bass"
+        ],
+        [
+          "52",
+          "02",
+          "Alto Sax - Ensemble Colour",
+          "woodwinds",
+          "A. Sax"
+        ],
+        [
+          "53",
+          "22",
+          "Modern Hi-hat",
+          "percussion",
+          "HH"
+        ]
+      ],
+      "sax_role": "ensemble doubling of existing original melody; never replaces original lead",
+      "new_melody_sections": 0,
+      "all_52_original_parts_retained": true,
+      "chorus_brightness_added_parts": [
+        "54",
+        "55"
+      ],
+      "added_role": "ensemble_doubling",
+      "added_bars": [
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97
+      ],
+      "added_upper_register": "Both doubling desks follow original lead+12 in first2choruses andCoda97; same pitch as final high lead; sounding78..88.",
+      "all_54_original_parts_retained": true,
+      "chorus_growth_added_parts": [
+        "56",
+        "57",
+        "58",
+        "59"
+      ],
+      "new_upper_register_max": 76,
+      "growth_plan": "First chorus reserves original54/55 by2dB in audio; second adds mid-register theme doubling; final adds full mid melody, soft3-note choir and selective2-note trumpet accents."
+    },
+    "project": "historical-workspace/tmp/orchestral-v10/project.json"
+  },
+  {
+    "version": "orchestral-v11",
+    "title": "Sekai ni Hitotsu Dake no Hana - Grand Divisi Orchestra v11",
+    "parts": 80,
+    "measures": 115,
+    "beats": 453.0,
+    "tempo_map": [
+      [
+        0,
+        98.977
+      ]
+    ],
+    "revision_notes": {
+      "based_on": "v10 complete58parts",
+      "all_47_original_parts_retained": true,
+      "original_foreground_performance_unchanged": true,
+      "modern_parts_added": [
+        [
+          "49",
+          "03",
+          "Electric Guitar - Arpeggios",
+          "guitars",
+          "Gtr. arp."
+        ],
+        [
+          "50",
+          "04",
+          "Electric Guitar - Rhythm",
+          "guitars",
+          "Gtr. rhythm"
+        ],
+        [
+          "51",
+          "05",
+          "Electric Bass Support",
+          "bass",
+          "E. Bass"
+        ],
+        [
+          "52",
+          "02",
+          "Alto Sax - Ensemble Colour",
+          "woodwinds",
+          "A. Sax"
+        ],
+        [
+          "53",
+          "22",
+          "Modern Hi-hat",
+          "percussion",
+          "HH"
+        ]
+      ],
+      "sax_role": "ensemble doubling of existing original melody; never replaces original lead",
+      "new_melody_sections": 0,
+      "all_52_original_parts_retained": true,
+      "chorus_brightness_added_parts": [
+        "54",
+        "55"
+      ],
+      "added_role": "ensemble_doubling",
+      "added_bars": [
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97
+      ],
+      "added_upper_register": "Both doubling desks follow original lead+12 in first2choruses andCoda97; same pitch as final high lead; sounding78..88.",
+      "all_54_original_parts_retained": true,
+      "chorus_growth_added_parts": [
+        "56",
+        "57",
+        "58",
+        "59"
+      ],
+      "new_upper_register_max": 76,
+      "growth_plan": "First chorus reserves original54/55 by2dB in audio; second adds mid-register theme doubling; final adds full mid melody, soft3-note choir and selective2-note trumpet accents.",
+      "all_58_original_parts_retained": true,
+      "expanded_parts": [
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81
+      ],
+      "voicing": "Actual chord tones with distinct divisi registers, source-occupancy penalty, ordered sections and guide resolutions; piano preserves slash bass."
+    },
+    "project": "historical-workspace/tmp/orchestral-v11/project.json"
+  },
+  {
+    "version": "orchestral-v12",
+    "title": "Sekai ni Hitotsu Dake no Hana - Neo Tokyo 198X v12",
+    "parts": 64,
+    "measures": 115,
+    "beats": 453.0,
+    "tempo_map": [
+      [
+        0,
+        98.977
+      ]
+    ],
+    "revision_notes": {
+      "based_on": "v11 original680canonicalsource plus inheritedharmonicmaterial",
+      "genre": "1980s vaporwave / cyberpunk electronic ensemble",
+      "canonical_full_events_unchanged": true,
+      "new_ensemble_parts": 64,
+      "original_orchestral_audio_reused": false,
+      "acoustic_orchestral_percussion_reused": false,
+      "canonical_carriers": [
+        "01",
+        "02",
+        "03",
+        "04"
+      ],
+      "canonical_event_count": 680,
+      "dsp_preset_file": "historical-workspace/tmp/orchestral-v12/synth_presets.json",
+      "native_sfz_parts": [
+        "48",
+        "49",
+        "50"
+      ],
+      "gm_fallback_only": true,
+      "output_basename": "Sekai_NeoTokyo_198X_v12"
+    },
+    "project": "historical-workspace/tmp/orchestral-v12/project.json"
+  }
+]

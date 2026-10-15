@@ -1,0 +1,202 @@
+{
+  "date": "2026-10-15",
+  "skill_validator": "passed",
+  "unit_and_integration_tests": {
+    "run": 10,
+    "passed": 10,
+    "skipped": 0,
+    "includes_native_sfz": true,
+    "native_test_scope": "Compiled six-argument adapter on macOS x86_64 against sfizz1.2.3, rendered original sine sample; no acoustic-quality certification"
+  },
+  "relocated_pipeline": {
+    "passed": true,
+    "method": "Only scripts/assets copied to renamed isolated folder; synthetic project run from separate working directory",
+    "commands": [
+      {
+        "script": "project.py",
+        "arguments": [
+          "freeze",
+          "project.json"
+        ],
+        "exit_code": 0
+      },
+      {
+        "script": "project.py",
+        "arguments": [
+          "validate",
+          "project.json",
+          "--final",
+          "--report",
+          "reports/music.json"
+        ],
+        "exit_code": 0
+      },
+      {
+        "script": "project.py",
+        "arguments": [
+          "midi",
+          "project.json",
+          "exports/arrangement.mid"
+        ],
+        "exit_code": 0
+      },
+      {
+        "script": "render.py",
+        "arguments": [
+          "project.json",
+          "build/raw"
+        ],
+        "exit_code": 0
+      },
+      {
+        "script": "audio.py",
+        "arguments": [
+          "mix",
+          "project.json",
+          "build/raw",
+          "exports/audio"
+        ],
+        "exit_code": 0
+      },
+      {
+        "script": "audio.py",
+        "arguments": [
+          "qa",
+          "exports/audio/master.wav",
+          "reports/audio.json"
+        ],
+        "exit_code": 0
+      },
+      {
+        "script": "lock.py",
+        "arguments": [
+          "doctor",
+          "reports/environment.json"
+        ],
+        "exit_code": 0
+      }
+    ],
+    "music": {
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "source_events": 21,
+      "parts": 5,
+      "arranged_notes": 49,
+      "density": {
+        "beat_weighted_active_pitched_parts": 5.0,
+        "max_active_pitched_parts": 5,
+        "max_simultaneous_pitched_notes": 5
+      }
+    },
+    "audio": {
+      "frames": 667166,
+      "sample_rate": 48000,
+      "channels": 2,
+      "seconds": 13.899291666666667,
+      "finite": true,
+      "silent": false,
+      "sample_peak_dbfs": -21.352845618572157,
+      "true_peak_4x_estimate_dbfs": -21.347317915735488,
+      "rms_dbfs": -33.34013397296255,
+      "stereo_correlation": 0.8088566182609217,
+      "loudness": {
+        "available": true,
+        "input_measurements": {
+          "input_i": "-31.53",
+          "input_tp": "-21.35",
+          "input_lra": "2.10",
+          "input_thresh": "-41.82",
+          "output_i": "-22.99",
+          "output_tp": "-13.00",
+          "output_lra": "0.50",
+          "output_thresh": "-33.15",
+          "normalization_type": "dynamic",
+          "target_offset": "-0.01"
+        }
+      }
+    },
+    "mix": {
+      "printed_stems": [
+        "part_lead.wav",
+        "part_inner0.wav",
+        "part_inner1.wav",
+        "part_inner2.wav",
+        "part_bass.wav",
+        "fx_space.wav"
+      ],
+      "stem_semantics": "post part-EQ/gain/pan, FX returns and final fade; sum equals linear premaster",
+      "master_semantics": "optional tape, fixed gain and one global peak-protection attenuation; no automatic LUFS normalization",
+      "reconstruction_max_abs_error": 0.0,
+      "peak_protection_gain_db": 0,
+      "master": {
+        "frames": 667166,
+        "sample_rate": 48000,
+        "channels": 2,
+        "seconds": 13.899291666666667,
+        "finite": true,
+        "silent": false,
+        "sample_peak_dbfs": -21.352856961841585,
+        "true_peak_4x_estimate_dbfs": -21.347329251788345,
+        "rms_dbfs": -33.340133974094854,
+        "stereo_correlation": 0.8088566198168288
+      },
+      "loudness": {
+        "available": true,
+        "input_measurements": {
+          "input_i": "-31.53",
+          "input_tp": "-21.35",
+          "input_lra": "2.10",
+          "input_thresh": "-41.82",
+          "output_i": "-22.99",
+          "output_tp": "-13.00",
+          "output_lra": "0.50",
+          "output_thresh": "-33.15",
+          "normalization_type": "dynamic",
+          "target_offset": "-0.01"
+        }
+      }
+    }
+  },
+  "package_audit": {
+    "broken_local_markdown_links": 0,
+    "hardcoded_machine_paths_in_text": 0,
+    "generic_runtime_contains_case_song_notes": false
+  },
+  "runtime": {
+    "python": "3.12.14 (main, Aug 25 2026, 13:50:33) [Clang 22.1.3 ]",
+    "platform": "Darwin",
+    "architecture": "arm64",
+    "packages": {
+      "numpy": "2.5.4",
+      "scipy": "1.18.1",
+      "soundfile": "0.14.0",
+      "mido": "1.3.3",
+      "music21": "10.5.0",
+      "verovio": "6.3.0",
+      "torch": null,
+      "torchcrepe": null,
+      "librosa": "1.0.0"
+    },
+    "render_dependency_closure": {
+      "mido": "1.3.3",
+      "packaging": "26.3",
+      "soundfile": "0.14.0",
+      "typing-extensions": "4.16.0",
+      "numpy": "2.5.4",
+      "cffi": "2.1.1",
+      "pycparser": "3.11",
+      "scipy": "1.18.1"
+    },
+    "libsndfile": "1.2.2",
+    "external_tools": {
+      "ffmpeg": "ffmpeg version 8.1.1 Copyright (c) 2000-2026 the FFmpeg developers",
+      "compiler": "Apple clang version 17.0.0 (clang-1700.6.3.2)"
+    }
+  },
+  "limits": [
+    "Only current macOS runtime and this native sfizz build were executed; other platforms require local tests.",
+    "Automated transcription, acoustic aesthetics, arbitrary-song quality and full historical case cold-start were not certified.",
+    "Complex sampler keyswitch/pitch-bend and engraved score generation require project-specific/native tools as documented."
+  ]
+}

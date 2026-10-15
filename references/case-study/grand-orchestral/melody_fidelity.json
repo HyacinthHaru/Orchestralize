@@ -1,0 +1,1044 @@
+{
+  "version": "v11",
+  "must_fix": [],
+  "source": "v10",
+  "original_parts": 58,
+  "parts": 80,
+  "original_events": 7464,
+  "total_events": 10475,
+  "added_events": 3011,
+  "foreground_events": 680,
+  "foreground_full_event_dictionary_exact": true,
+  "original58_complete_project_parts_exact": true,
+  "original58_complete_primary_midi_tracks_exact_before_balance": true,
+  "original58_dry_midi_byte_exact": true,
+  "original_part_checks": [
+    {
+      "id": "01",
+      "complete_project_part_exact": true,
+      "complete_primary_midi_track_exact": true,
+      "dry_midi_byte_exact": true
+    },
+    {
+      "id": "02",
+      "complete_project_part_exact": true,
+      "complete_primary_midi_track_exact": true,
+      "dry_midi_byte_exact": true
+    },
+    {
+      "id": "03",
+      "complete_project_part_exact": true,
+      "complete_primary_midi_track_exact": true,
+      "dry_midi_byte_exact": true
+    },
+    {
+      "id": "04",
+      "complete_project_part_exact": true,
+      "complete_primary_midi_track_exact": true,
+      "dry_midi_byte_exact": true
+    },
+    {
+      "id": "05",
+      "complete_project_part_exact": true,
+      "complete_primary_midi_track_exact": true,
+      "dry_midi_byte_exact": true
+    },
+    {
+      "id": "06",
+      "complete_project_part_exact": true,
+      "complete_primary_midi_track_exact": true,
+      "dry_midi_byte_exact": true
+    },
+    {
+      "id": "07",
+      "complete_project_part_exact": true,
+      "complete_primary_midi_track_exact": true,
+      "dry_midi_byte_exact": true
+    },
+    {
+      "id": "08",
+      "complete_project_part_exact": true,
+      "complete_primary_midi_track_exact": true,
+      "dry_midi_byte_exact": true
+    },
+    {
+      "id": "09",
+      "complete_project_part_exact": true,
+      "complete_primary_midi_track_exact": true,
+      "dry_midi_byte_exact": true
+    },
+    {
+      "id": "10",
+      "complete_project_part_exact": true,
+      "complete_primary_midi_track_exact": true,
+      "dry_midi_byte_exact": true
+    },
+    {
+      "id": "11",
+      "complete_project_part_exact": true,
+      "complete_primary_midi_track_exact": true,
+      "dry_midi_byte_exact": true
+    },
+    {
+      "id": "12",
+      "complete_project_part_exact": true,
+      "complete_primary_midi_track_exact": true,
+      "dry_midi_byte_exact": true
+    },
+    {
+      "id": "13",
+      "complete_project_part_exact": true,
+      "complete_primary_midi_track_exact": true,
+      "dry_midi_byte_exact": true
+    },
+    {
+      "id": "14",
+      "complete_project_part_exact": true,
+      "complete_primary_midi_track_exact": true,
+      "dry_midi_byte_exact": true
+    },
+    {
+      "id": "15",
+      "complete_project_part_exact": true,
+      "complete_primary_midi_track_exact": true,
+      "dry_midi_byte_exact": true
+    },
+    {
+      "id": "16",
+      "complete_project_part_exact": true,
+      "complete_primary_midi_track_exact": true,
+      "dry_midi_byte_exact": true
+    },
+    {
+      "id": "17",
+      "complete_project_part_exact": true,
+      "complete_primary_midi_track_exact": true,
+      "dry_midi_byte_exact": true
+    },
+    {
+      "id": "18",
+      "complete_project_part_exact": true,
+      "complete_primary_midi_track_exact": true,
+      "dry_midi_byte_exact": true
+    },
+    {
+      "id": "19",
+      "complete_project_part_exact": true,
+      "complete_primary_midi_track_exact": true,
+      "dry_midi_byte_exact": true
+    },
+    {
+      "id": "20",
+      "complete_project_part_exact": true,
+      "complete_primary_midi_track_exact": true,
+      "dry_midi_byte_exact": true
+    },
+    {
+      "id": "21",
+      "complete_project_part_exact": true,
+      "complete_primary_midi_track_exact": true,
+      "dry_midi_byte_exact": true
+    },
+    {
+      "id": "22",
+      "complete_project_part_exact": true,
+      "complete_primary_midi_track_exact": true,
+      "dry_midi_byte_exact": true
+    },
+    {
+      "id": "23",
+      "complete_project_part_exact": true,
+      "complete_primary_midi_track_exact": true,
+      "dry_midi_byte_exact": true
+    },
+    {
+      "id": "24",
+      "complete_project_part_exact": true,
+      "complete_primary_midi_track_exact": true,
+      "dry_midi_byte_exact": true
+    },
+    {
+      "id": "25",
+      "complete_project_part_exact": true,
+      "complete_primary_midi_track_exact": true,
+      "dry_midi_byte_exact": true
+    },
+    {
+      "id": "26",
+      "complete_project_part_exact": true,
+      "complete_primary_midi_track_exact": true,
+      "dry_midi_byte_exact": true
+    },
+    {
+      "id": "27",
+      "complete_project_part_exact": true,
+      "complete_primary_midi_track_exact": true,
+      "dry_midi_byte_exact": true
+    },
+    {
+      "id": "28",
+      "complete_project_part_exact": true,
+      "complete_primary_midi_track_exact": true,
+      "dry_midi_byte_exact": true
+    },
+    {
+      "id": "29",
+      "complete_project_part_exact": true,
+      "complete_primary_midi_track_exact": true,
+      "dry_midi_byte_exact": true
+    },
+    {
+      "id": "30",
+      "complete_project_part_exact": true,
+      "complete_primary_midi_track_exact": true,
+      "dry_midi_byte_exact": true
+    },
+    {
+      "id": "31",
+      "complete_project_part_exact": true,
+      "complete_primary_midi_track_exact": true,
+      "dry_midi_byte_exact": true
+    },
+    {
+      "id": "32",
+      "complete_project_part_exact": true,
+      "complete_primary_midi_track_exact": true,
+      "dry_midi_byte_exact": true
+    },
+    {
+      "id": "33",
+      "complete_project_part_exact": true,
+      "complete_primary_midi_track_exact": true,
+      "dry_midi_byte_exact": true
+    },
+    {
+      "id": "34",
+      "complete_project_part_exact": true,
+      "complete_primary_midi_track_exact": true,
+      "dry_midi_byte_exact": true
+    },
+    {
+      "id": "35",
+      "complete_project_part_exact": true,
+      "complete_primary_midi_track_exact": true,
+      "dry_midi_byte_exact": true
+    },
+    {
+      "id": "36",
+      "complete_project_part_exact": true,
+      "complete_primary_midi_track_exact": true,
+      "dry_midi_byte_exact": true
+    },
+    {
+      "id": "37",
+      "complete_project_part_exact": true,
+      "complete_primary_midi_track_exact": true,
+      "dry_midi_byte_exact": true
+    },
+    {
+      "id": "38",
+      "complete_project_part_exact": true,
+      "complete_primary_midi_track_exact": true,
+      "dry_midi_byte_exact": true
+    },
+    {
+      "id": "39",
+      "complete_project_part_exact": true,
+      "complete_primary_midi_track_exact": true,
+      "dry_midi_byte_exact": true
+    },
+    {
+      "id": "40",
+      "complete_project_part_exact": true,
+      "complete_primary_midi_track_exact": true,
+      "dry_midi_byte_exact": true
+    },
+    {
+      "id": "42",
+      "complete_project_part_exact": true,
+      "complete_primary_midi_track_exact": true,
+      "dry_midi_byte_exact": true
+    },
+    {
+      "id": "43",
+      "complete_project_part_exact": true,
+      "complete_primary_midi_track_exact": true,
+      "dry_midi_byte_exact": true
+    },
+    {
+      "id": "44",
+      "complete_project_part_exact": true,
+      "complete_primary_midi_track_exact": true,
+      "dry_midi_byte_exact": true
+    },
+    {
+      "id": "45",
+      "complete_project_part_exact": true,
+      "complete_primary_midi_track_exact": true,
+      "dry_midi_byte_exact": true
+    },
+    {
+      "id": "46",
+      "complete_project_part_exact": true,
+      "complete_primary_midi_track_exact": true,
+      "dry_midi_byte_exact": true
+    },
+    {
+      "id": "47",
+      "complete_project_part_exact": true,
+      "complete_primary_midi_track_exact": true,
+      "dry_midi_byte_exact": true
+    },
+    {
+      "id": "48",
+      "complete_project_part_exact": true,
+      "complete_primary_midi_track_exact": true,
+      "dry_midi_byte_exact": true
+    },
+    {
+      "id": "49",
+      "complete_project_part_exact": true,
+      "complete_primary_midi_track_exact": true,
+      "dry_midi_byte_exact": true
+    },
+    {
+      "id": "50",
+      "complete_project_part_exact": true,
+      "complete_primary_midi_track_exact": true,
+      "dry_midi_byte_exact": true
+    },
+    {
+      "id": "51",
+      "complete_project_part_exact": true,
+      "complete_primary_midi_track_exact": true,
+      "dry_midi_byte_exact": true
+    },
+    {
+      "id": "52",
+      "complete_project_part_exact": true,
+      "complete_primary_midi_track_exact": true,
+      "dry_midi_byte_exact": true
+    },
+    {
+      "id": "53",
+      "complete_project_part_exact": true,
+      "complete_primary_midi_track_exact": true,
+      "dry_midi_byte_exact": true
+    },
+    {
+      "id": "54",
+      "complete_project_part_exact": true,
+      "complete_primary_midi_track_exact": true,
+      "dry_midi_byte_exact": true
+    },
+    {
+      "id": "55",
+      "complete_project_part_exact": true,
+      "complete_primary_midi_track_exact": true,
+      "dry_midi_byte_exact": true
+    },
+    {
+      "id": "56",
+      "complete_project_part_exact": true,
+      "complete_primary_midi_track_exact": true,
+      "dry_midi_byte_exact": true
+    },
+    {
+      "id": "57",
+      "complete_project_part_exact": true,
+      "complete_primary_midi_track_exact": true,
+      "dry_midi_byte_exact": true
+    },
+    {
+      "id": "58",
+      "complete_project_part_exact": true,
+      "complete_primary_midi_track_exact": true,
+      "dry_midi_byte_exact": true
+    },
+    {
+      "id": "59",
+      "complete_project_part_exact": true,
+      "complete_primary_midi_track_exact": true,
+      "dry_midi_byte_exact": true
+    }
+  ],
+  "structure": {
+    "measures": true,
+    "beats": true,
+    "tempo_map": true,
+    "sections": true,
+    "phase_seconds": true,
+    "duration_seconds": true,
+    "audio_duration_seconds": true,
+    "fade_start": true,
+    "fade_end": true,
+    "harmonic_catalog": true
+  },
+  "conductor_musical_metadata_exact": true,
+  "primary_midi_tracks": 81,
+  "primary_midi_note_ons": 10588,
+  "temporal_note_errors": [],
+  "midi_address_collisions": {},
+  "added_parts": [
+    {
+      "id": "60",
+      "name": "Violin I - High Divisi",
+      "sample_key": "violin1",
+      "events": 89,
+      "notation_groups": 89,
+      "range": [
+        80,
+        86
+      ],
+      "assigned_range": [
+        76,
+        86
+      ],
+      "chord_and_slashbass_exact": true,
+      "mismatch": [],
+      "articulations": [
+        "Sustain"
+      ],
+      "polyphonic": false,
+      "port_zero_based": 4,
+      "channel_zero_based": 4
+    },
+    {
+      "id": "61",
+      "name": "Violin I - Middle Divisi",
+      "sample_key": "violin1",
+      "events": 178,
+      "notation_groups": 178,
+      "range": [
+        69,
+        81
+      ],
+      "assigned_range": [
+        69,
+        81
+      ],
+      "chord_and_slashbass_exact": true,
+      "mismatch": [],
+      "articulations": [
+        "Sustain"
+      ],
+      "polyphonic": false,
+      "port_zero_based": 4,
+      "channel_zero_based": 5
+    },
+    {
+      "id": "62",
+      "name": "Violin I - Lower Divisi",
+      "sample_key": "violin1",
+      "events": 93,
+      "notation_groups": 93,
+      "range": [
+        64,
+        73
+      ],
+      "assigned_range": [
+        64,
+        76
+      ],
+      "chord_and_slashbass_exact": true,
+      "mismatch": [],
+      "articulations": [
+        "Sustain"
+      ],
+      "polyphonic": false,
+      "port_zero_based": 4,
+      "channel_zero_based": 6
+    },
+    {
+      "id": "63",
+      "name": "Violin II - High Divisi",
+      "sample_key": "violin2",
+      "events": 113,
+      "notation_groups": 113,
+      "range": [
+        76,
+        81
+      ],
+      "assigned_range": [
+        69,
+        83
+      ],
+      "chord_and_slashbass_exact": true,
+      "mismatch": [],
+      "articulations": [
+        "Sustain"
+      ],
+      "polyphonic": false,
+      "port_zero_based": 4,
+      "channel_zero_based": 7
+    },
+    {
+      "id": "64",
+      "name": "Violin II - Middle Divisi",
+      "sample_key": "violin2",
+      "events": 176,
+      "notation_groups": 176,
+      "range": [
+        68,
+        75
+      ],
+      "assigned_range": [
+        62,
+        76
+      ],
+      "chord_and_slashbass_exact": true,
+      "mismatch": [],
+      "articulations": [
+        "Sustain"
+      ],
+      "polyphonic": false,
+      "port_zero_based": 4,
+      "channel_zero_based": 8
+    },
+    {
+      "id": "65",
+      "name": "Viola - Upper Divisi",
+      "sample_key": "viola",
+      "events": 187,
+      "notation_groups": 187,
+      "range": [
+        59,
+        69
+      ],
+      "assigned_range": [
+        57,
+        69
+      ],
+      "chord_and_slashbass_exact": true,
+      "mismatch": [],
+      "articulations": [
+        "Sustain"
+      ],
+      "polyphonic": false,
+      "port_zero_based": 4,
+      "channel_zero_based": 10
+    },
+    {
+      "id": "66",
+      "name": "Viola - Lower Divisi",
+      "sample_key": "viola",
+      "events": 60,
+      "notation_groups": 60,
+      "range": [
+        52,
+        61
+      ],
+      "assigned_range": [
+        52,
+        66
+      ],
+      "chord_and_slashbass_exact": true,
+      "mismatch": [],
+      "articulations": [
+        "Sustain"
+      ],
+      "polyphonic": false,
+      "port_zero_based": 4,
+      "channel_zero_based": 11
+    },
+    {
+      "id": "67",
+      "name": "Cello - Middle Divisi",
+      "sample_key": "cello",
+      "events": 162,
+      "notation_groups": 162,
+      "range": [
+        52,
+        61
+      ],
+      "assigned_range": [
+        48,
+        62
+      ],
+      "chord_and_slashbass_exact": true,
+      "mismatch": [],
+      "articulations": [
+        "Sustain"
+      ],
+      "polyphonic": false,
+      "port_zero_based": 4,
+      "channel_zero_based": 12
+    },
+    {
+      "id": "68",
+      "name": "Cello - Lower Divisi",
+      "sample_key": "cello",
+      "events": 58,
+      "notation_groups": 58,
+      "range": [
+        45,
+        52
+      ],
+      "assigned_range": [
+        45,
+        57
+      ],
+      "chord_and_slashbass_exact": true,
+      "mismatch": [],
+      "articulations": [
+        "Sustain"
+      ],
+      "polyphonic": false,
+      "port_zero_based": 4,
+      "channel_zero_based": 13
+    },
+    {
+      "id": "69",
+      "name": "Cello - Tenor Divisi",
+      "sample_key": "cello",
+      "events": 112,
+      "notation_groups": 112,
+      "range": [
+        61,
+        66
+      ],
+      "assigned_range": [
+        55,
+        69
+      ],
+      "chord_and_slashbass_exact": true,
+      "mismatch": [],
+      "articulations": [
+        "Sustain"
+      ],
+      "polyphonic": false,
+      "port_zero_based": 4,
+      "channel_zero_based": 14
+    },
+    {
+      "id": "70",
+      "name": "Flute - Inner Harmony",
+      "sample_key": "flute_tutti_v9",
+      "events": 122,
+      "notation_groups": 122,
+      "range": [
+        74,
+        78
+      ],
+      "assigned_range": [
+        67,
+        81
+      ],
+      "chord_and_slashbass_exact": true,
+      "mismatch": [],
+      "articulations": [
+        "Sustain"
+      ],
+      "polyphonic": false,
+      "port_zero_based": 4,
+      "channel_zero_based": 15
+    },
+    {
+      "id": "71",
+      "name": "Clarinet - Harmony Divisi",
+      "sample_key": "clarinet",
+      "events": 150,
+      "notation_groups": 150,
+      "range": [
+        66,
+        76
+      ],
+      "assigned_range": [
+        60,
+        76
+      ],
+      "chord_and_slashbass_exact": true,
+      "mismatch": [],
+      "articulations": [
+        "Sustain"
+      ],
+      "polyphonic": false,
+      "port_zero_based": 5,
+      "channel_zero_based": 0
+    },
+    {
+      "id": "72",
+      "name": "Oboe - Harmony Divisi",
+      "sample_key": "oboe",
+      "events": 104,
+      "notation_groups": 104,
+      "range": [
+        69,
+        78
+      ],
+      "assigned_range": [
+        64,
+        79
+      ],
+      "chord_and_slashbass_exact": true,
+      "mismatch": [],
+      "articulations": [
+        "Sustain"
+      ],
+      "polyphonic": false,
+      "port_zero_based": 5,
+      "channel_zero_based": 1
+    },
+    {
+      "id": "73",
+      "name": "Bassoon - Tenor Harmony",
+      "sample_key": "bassoon",
+      "events": 67,
+      "notation_groups": 67,
+      "range": [
+        59,
+        62
+      ],
+      "assigned_range": [
+        48,
+        67
+      ],
+      "chord_and_slashbass_exact": true,
+      "mismatch": [],
+      "articulations": [
+        "Sustain"
+      ],
+      "polyphonic": false,
+      "port_zero_based": 5,
+      "channel_zero_based": 2
+    },
+    {
+      "id": "74",
+      "name": "Horn - Upper Divisi",
+      "sample_key": "horn_section",
+      "events": 108,
+      "notation_groups": 108,
+      "range": [
+        66,
+        74
+      ],
+      "assigned_range": [
+        57,
+        74
+      ],
+      "chord_and_slashbass_exact": true,
+      "mismatch": [],
+      "articulations": [
+        "Sustain"
+      ],
+      "polyphonic": false,
+      "port_zero_based": 5,
+      "channel_zero_based": 3
+    },
+    {
+      "id": "75",
+      "name": "Horn - Middle Divisi",
+      "sample_key": "horn_section",
+      "events": 71,
+      "notation_groups": 71,
+      "range": [
+        56,
+        68
+      ],
+      "assigned_range": [
+        52,
+        69
+      ],
+      "chord_and_slashbass_exact": true,
+      "mismatch": [],
+      "articulations": [
+        "Sustain"
+      ],
+      "polyphonic": false,
+      "port_zero_based": 5,
+      "channel_zero_based": 4
+    },
+    {
+      "id": "76",
+      "name": "Trumpet - Upper Harmony",
+      "sample_key": "trumpet_section",
+      "events": 45,
+      "notation_groups": 45,
+      "range": [
+        69,
+        76
+      ],
+      "assigned_range": [
+        64,
+        76
+      ],
+      "chord_and_slashbass_exact": true,
+      "mismatch": [],
+      "articulations": [
+        "Sustain"
+      ],
+      "polyphonic": false,
+      "port_zero_based": 5,
+      "channel_zero_based": 5
+    },
+    {
+      "id": "77",
+      "name": "Trumpet - Middle Harmony",
+      "sample_key": "trumpet_section",
+      "events": 44,
+      "notation_groups": 44,
+      "range": [
+        64,
+        71
+      ],
+      "assigned_range": [
+        60,
+        73
+      ],
+      "chord_and_slashbass_exact": true,
+      "mismatch": [],
+      "articulations": [
+        "Sustain"
+      ],
+      "polyphonic": false,
+      "port_zero_based": 5,
+      "channel_zero_based": 6
+    },
+    {
+      "id": "78",
+      "name": "Trombone - Inner Harmony",
+      "sample_key": "trombone_section",
+      "events": 60,
+      "notation_groups": 60,
+      "range": [
+        56,
+        62
+      ],
+      "assigned_range": [
+        48,
+        64
+      ],
+      "chord_and_slashbass_exact": true,
+      "mismatch": [],
+      "articulations": [
+        "Sustain"
+      ],
+      "polyphonic": false,
+      "port_zero_based": 5,
+      "channel_zero_based": 7
+    },
+    {
+      "id": "79",
+      "name": "Bass Trombone - Harmony",
+      "sample_key": "trombone_section",
+      "events": 44,
+      "notation_groups": 44,
+      "range": [
+        45,
+        54
+      ],
+      "assigned_range": [
+        45,
+        59
+      ],
+      "chord_and_slashbass_exact": true,
+      "mismatch": [],
+      "articulations": [
+        "Sustain"
+      ],
+      "polyphonic": false,
+      "port_zero_based": 5,
+      "channel_zero_based": 8
+    },
+    {
+      "id": "80",
+      "name": "Wordless Choir - Wide Divisi",
+      "sample_key": "choir_finale_v10",
+      "events": 72,
+      "notation_groups": 24,
+      "range": [
+        57,
+        81
+      ],
+      "assigned_range": [
+        57,
+        81
+      ],
+      "chord_and_slashbass_exact": true,
+      "mismatch": [],
+      "articulations": [
+        "Sustain"
+      ],
+      "polyphonic": true,
+      "port_zero_based": 5,
+      "channel_zero_based": 10
+    },
+    {
+      "id": "81",
+      "name": "Concert Grand Piano",
+      "sample_key": "gm",
+      "events": 896,
+      "notation_groups": 224,
+      "range": [
+        45,
+        76
+      ],
+      "assigned_range": [
+        45,
+        76
+      ],
+      "chord_and_slashbass_exact": true,
+      "mismatch": [],
+      "articulations": [
+        "Sustain"
+      ],
+      "polyphonic": true,
+      "port_zero_based": 5,
+      "channel_zero_based": 11
+    }
+  ],
+  "ordered_same_patch_minimum3semitones": true,
+  "observed_guide_resolutions": {
+    "B_to_A": 73,
+    "Esharp_to_Fsharp": 43,
+    "A_to_Gsharp": 22
+  },
+  "density_comparison": {
+    "v10": [
+      {
+        "section": "Original Lead In",
+        "pitched_parts_mean": 2.0,
+        "simultaneous_notes_mean": 2.0
+      },
+      {
+        "section": "Opening Refrain / Intro1",
+        "pitched_parts_mean": 15.07,
+        "simultaneous_notes_mean": 15.26
+      },
+      {
+        "section": "Intro2",
+        "pitched_parts_mean": 12.81,
+        "simultaneous_notes_mean": 13.0
+      },
+      {
+        "section": "Verse1",
+        "pitched_parts_mean": 10.82,
+        "simultaneous_notes_mean": 10.82
+      },
+      {
+        "section": "Build1",
+        "pitched_parts_mean": 20.86,
+        "simultaneous_notes_mean": 20.97
+      },
+      {
+        "section": "Chorus1",
+        "pitched_parts_mean": 25.52,
+        "simultaneous_notes_mean": 26.05
+      },
+      {
+        "section": "Interlude / D.S.1 return",
+        "pitched_parts_mean": 12.78,
+        "simultaneous_notes_mean": 12.97
+      },
+      {
+        "section": "Verse2",
+        "pitched_parts_mean": 10.82,
+        "simultaneous_notes_mean": 10.82
+      },
+      {
+        "section": "Build2",
+        "pitched_parts_mean": 20.86,
+        "simultaneous_notes_mean": 20.97
+      },
+      {
+        "section": "Chorus2 toCoda1",
+        "pitched_parts_mean": 27.57,
+        "simultaneous_notes_mean": 28.1
+      },
+      {
+        "section": "Final Chorus / D.S.2 return",
+        "pitched_parts_mean": 29.24,
+        "simultaneous_notes_mean": 32.04
+      },
+      {
+        "section": "Coda2",
+        "pitched_parts_mean": 22.54,
+        "simultaneous_notes_mean": 23.52
+      },
+      {
+        "section": "La-la D",
+        "pitched_parts_mean": 18.88,
+        "simultaneous_notes_mean": 19.07
+      },
+      {
+        "section": "E fade vamp",
+        "pitched_parts_mean": 15.41,
+        "simultaneous_notes_mean": 15.59
+      }
+    ],
+    "v11": [
+      {
+        "section": "Original Lead In",
+        "pitched_parts_mean": 2.0,
+        "simultaneous_notes_mean": 2.0
+      },
+      {
+        "section": "Opening Refrain / Intro1",
+        "pitched_parts_mean": 24.07,
+        "simultaneous_notes_mean": 27.26
+      },
+      {
+        "section": "Intro2",
+        "pitched_parts_mean": 21.81,
+        "simultaneous_notes_mean": 25.0
+      },
+      {
+        "section": "Verse1",
+        "pitched_parts_mean": 20.82,
+        "simultaneous_notes_mean": 23.82
+      },
+      {
+        "section": "Build1",
+        "pitched_parts_mean": 38.31,
+        "simultaneous_notes_mean": 41.42
+      },
+      {
+        "section": "Chorus1",
+        "pitched_parts_mean": 40.65,
+        "simultaneous_notes_mean": 44.18
+      },
+      {
+        "section": "Interlude / D.S.1 return",
+        "pitched_parts_mean": 21.78,
+        "simultaneous_notes_mean": 24.97
+      },
+      {
+        "section": "Verse2",
+        "pitched_parts_mean": 20.82,
+        "simultaneous_notes_mean": 23.82
+      },
+      {
+        "section": "Build2",
+        "pitched_parts_mean": 38.31,
+        "simultaneous_notes_mean": 41.42
+      },
+      {
+        "section": "Chorus2 toCoda1",
+        "pitched_parts_mean": 46.82,
+        "simultaneous_notes_mean": 51.35
+      },
+      {
+        "section": "Final Chorus / D.S.2 return",
+        "pitched_parts_mean": 51.24,
+        "simultaneous_notes_mean": 59.04
+      },
+      {
+        "section": "Coda2",
+        "pitched_parts_mean": 35.88,
+        "simultaneous_notes_mean": 40.52
+      },
+      {
+        "section": "La-la D",
+        "pitched_parts_mean": 27.88,
+        "simultaneous_notes_mean": 31.07
+      },
+      {
+        "section": "E fade vamp",
+        "pitched_parts_mean": 24.41,
+        "simultaneous_notes_mean": 27.59
+      }
+    ]
+  },
+  "method": "Actual full58objects/bar arrays/mastermessages/drybytes. Newnotes checked overevery coveredhalfchord includingmergedcommon tones; piano slashbass checked againstcatalogbass. Original melody not inferred fromoldbar.melody labels.",
+  "original58_primary_midi_complete_messages_except_static_CC7_exact_after_balance": true
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "title": "Untitled arrangement",
+  "seed": 1,
+  "sources": [],
+  "timing": {
+    "tempo_map": [{"beat": 0, "bpm": 120}],
+    "meter_map": [{"beat": 0, "numerator": 4, "denominator": 4}],
+    "end_beat": 4,
+    "offset_seconds": 0,
+    "tail_seconds": 3
+  },
+  "identity": {
+    "reviewed": false,
+    "review_notes": [],
+    "transpose_semitones": 0,
+    "events": [],
+    "harmony": [],
+    "form": []
+  },
+  "style": {
+    "name": "user-defined",
+    "intent": "",
+    "reference_tracks": [],
+    "preserve": ["melody", "form", "harmony"],
+    "section_plan": [],
+    "acceptance": []
+  },
+  "parts": [],
+  "mix": {
+    "effects": [],
+    "master_gain_db": 0,
+    "true_peak_ceiling_dbfs": -1,
+    "fade_seconds": null
+  }
+}

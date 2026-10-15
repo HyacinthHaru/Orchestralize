@@ -1,0 +1,70 @@
+{
+  "parts": 80,
+  "staves": 81,
+  "measures": 115,
+  "part_measures": 9200,
+  "staff_measures": 9315,
+  "musicxml_bar_errors": [],
+  "concert_pitch": true,
+  "notation": "Original 58 v10 parts preserved exactly, ignoring whitespace and random ids; new choir triads and piano four-note voicings are grouped into editable chords. Concert piano uses one part with two staves.",
+  "original_58_part_musicxml_canonical_equal": true,
+  "original_notation_events_including_rests": 13993,
+  "new_pitched_notes": {
+    "P70": 122,
+    "P71": 150,
+    "P72": 104,
+    "P73": 67,
+    "P74": 124,
+    "P75": 87,
+    "P76": 61,
+    "P77": 60,
+    "P78": 76,
+    "P79": 60,
+    "P60": 89,
+    "P61": 178,
+    "P62": 93,
+    "P63": 113,
+    "P64": 176,
+    "P65": 187,
+    "P66": 60,
+    "P67": 162,
+    "P68": 58,
+    "P69": 112,
+    "P81": 896,
+    "P80": 72
+  },
+  "new_chord_notation": {
+    "P80": 24,
+    "P81": 224
+  },
+  "piano_grand_staff": {
+    "parts": 1,
+    "staves": 2,
+    "pitched_notes": 896,
+    "source_pitch_onset_duration_equal": true,
+    "backup_count": 115
+  },
+  "slurs": 221,
+  "hairpins": 1480,
+  "pdf_pages": 11,
+  "pdf_size": "A1 portrait",
+  "pdf_qa": {
+    "all_pages_rendered": true,
+    "contact_sheet": "tmp/orchestral-v11/pdf-qa/contact.png",
+    "full_resolution_pages": [
+      2,
+      9,
+      10
+    ],
+    "footer_clearance_verified": true,
+    "full_instrument_names_verified": true,
+    "content_uniform_scale": 0.98,
+    "staff_unit": 5.2,
+    "max_staff_svg_y": 80831.0,
+    "staff_svg_y_limit": 81950,
+    "layout_errors": []
+  },
+  "new_performance_events": 3011,
+  "new_notation_noteheads": 3107,
+  "new_tied_note_continuations": 96
+}

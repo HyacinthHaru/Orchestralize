@@ -1,0 +1,39 @@
+{
+  "v12_style_preview": {
+    "bars": [
+      [
+        15,
+        22
+      ],
+      [
+        82,
+        89
+      ],
+      [
+        90,
+        97
+      ]
+    ],
+    "gap_seconds": 0.4,
+    "edge_fades_seconds": 0.025,
+    "per_excerpt_normalization": false
+  },
+  "chorus_progression": {
+    "bars": [
+      [
+        40,
+        47
+      ],
+      [
+        82,
+        89
+      ],
+      [
+        90,
+        97
+      ]
+    ],
+    "gap_seconds": 0.4,
+    "edge_fades_seconds": 0.025
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "based_on": "v10 complete58parts",
+  "all_47_original_parts_retained": true,
+  "original_foreground_performance_unchanged": true,
+  "modern_parts_added": [
+    [
+      "49",
+      "03",
+      "Electric Guitar - Arpeggios",
+      "guitars",
+      "Gtr. arp."
+    ],
+    [
+      "50",
+      "04",
+      "Electric Guitar - Rhythm",
+      "guitars",
+      "Gtr. rhythm"
+    ],
+    [
+      "51",
+      "05",
+      "Electric Bass Support",
+      "bass",
+      "E. Bass"
+    ],
+    [
+      "52",
+      "02",
+      "Alto Sax - Ensemble Colour",
+      "woodwinds",
+      "A. Sax"
+    ],
+    [
+      "53",
+      "22",
+      "Modern Hi-hat",
+      "percussion",
+      "HH"
+    ]
+  ],
+  "sax_role": "ensemble doubling of existing original melody; never replaces original lead",
+  "new_melody_sections": 0,
+  "all_52_original_parts_retained": true,
+  "chorus_brightness_added_parts": [
+    "54",
+    "55"
+  ],
+  "added_role": "ensemble_doubling",
+  "added_bars": [
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    82,
+    83,
+    84,
+    85,
+    86,
+    87,
+    88,
+    89,
+    90,
+    91,
+    92,
+    93,
+    94,
+    95,
+    96,
+    97
+  ],
+  "added_upper_register": "Both doubling desks follow original lead+12 in first2choruses andCoda97; same pitch as final high lead; sounding78..88.",
+  "all_54_original_parts_retained": true,
+  "chorus_growth_added_parts": [
+    "56",
+    "57",
+    "58",
+    "59"
+  ],
+  "new_upper_register_max": 76,
+  "growth_plan": "First chorus reserves original54/55 by2dB in audio; second adds mid-register theme doubling; final adds full mid melody, soft3-note choir and selective2-note trumpet accents.",
+  "all_58_original_parts_retained": true,
+  "expanded_parts": [
+    60,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70,
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    77,
+    78,
+    79,
+    80,
+    81
+  ],
+  "voicing": "Actual chord tones with distinct divisi registers, source-occupancy penalty, ordered sections and guide resolutions; piano preserves slash bass."
+}

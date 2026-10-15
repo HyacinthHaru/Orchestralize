@@ -1,0 +1,72 @@
+{
+  "version": "v12",
+  "genre": "1980s vaporwave / cyberpunk",
+  "musical_parts": 64,
+  "midi_tracks": 65,
+  "midi_note_ons": 12463,
+  "midi_note_errors": [],
+  "musicxml_parts": 64,
+  "musicxml_bar_errors": [],
+  "canonical_events_retained_exactly": 680,
+  "canonical_carriers": [
+    "01",
+    "02",
+    "03",
+    "04"
+  ],
+  "canonical_melody_octave_changes": 0,
+  "sample_rate": 48000,
+  "duration_seconds": 281.06666666666666,
+  "master_finite": true,
+  "sample_peak_dbfs": -3.8329241275787354,
+  "stereo_correlation": 0.8108222778729867,
+  "music_stems": 64,
+  "effect_returns": 4,
+  "stems": 68,
+  "stem_reconstruction": [
+    {
+      "seconds": 10,
+      "max_reconstruction_error": 0.0
+    },
+    {
+      "seconds": 35,
+      "max_reconstruction_error": 0.0
+    },
+    {
+      "seconds": 100,
+      "max_reconstruction_error": 0.0
+    },
+    {
+      "seconds": 177,
+      "max_reconstruction_error": 0.0
+    },
+    {
+      "seconds": 218,
+      "max_reconstruction_error": 0.0
+    },
+    {
+      "seconds": 275,
+      "max_reconstruction_error": 0.0
+    },
+    {
+      "seconds": 279,
+      "max_reconstruction_error": 0.0
+    }
+  ],
+  "stem_fade_included": true,
+  "source_orchestral_audio_reused": false,
+  "loudness": {
+    "input_i": "-27.05",
+    "input_tp": "-11.91",
+    "input_lra": "3.80",
+    "input_thresh": "-37.06",
+    "output_i": "-18.97",
+    "output_tp": "-3.83",
+    "output_lra": "3.80",
+    "output_thresh": "-28.99",
+    "normalization_type": "static_gain_with_oversampled_peak_limiting",
+    "master_gain_db": 8.080000000000002,
+    "limiter_ceiling_dbfs": -1.3,
+    "estimated_peak_reduction_db": 0
+  }
+}

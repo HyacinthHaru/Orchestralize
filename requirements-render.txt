@@ -1,0 +1,6 @@
+# Tested direct dependencies for portable rendering helpers, Python 3.12.
+# Freeze transitive/native dependencies in each delivered production environment.
+numpy==2.5.4
+scipy==1.18.1
+soundfile==0.14.0
+mido==1.3.3

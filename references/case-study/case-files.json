@@ -1,0 +1,221 @@
+{
+  "case": "SMAP 世界に一つだけの花",
+  "scope": "Historical case only; not the portable schema or a cold-start production bundle",
+  "path_redaction": "Historical workspace locations replaced with logical labels. No runtime dependencies are implied by these labels.",
+  "files": [
+    {
+      "path": "grand-orchestral/Sekai_Grand_Symphonic_v11.mp3",
+      "bytes": 11245617,
+      "sha256": "573f2c3408c5ed332ffacb72eb7b054027b13928cb4f6eb3441f6c98bcd3a21e",
+      "source_sha256_before_path_redaction": "573f2c3408c5ed332ffacb72eb7b054027b13928cb4f6eb3441f6c98bcd3a21e"
+    },
+    {
+      "path": "grand-orchestral/Sekai_Grand_Symphonic_v11.mid",
+      "bytes": 785624,
+      "sha256": "c052045f2eb20bee27e52273092a2674fbad809cdacbcd02eb7d478872e98ffb",
+      "source_sha256_before_path_redaction": "c052045f2eb20bee27e52273092a2674fbad809cdacbcd02eb7d478872e98ffb"
+    },
+    {
+      "path": "grand-orchestral/Sekai_Grand_Symphonic_v11_Native_Mapped.mid",
+      "bytes": 796807,
+      "sha256": "73580deed6fb6b3437ce626521201dd2910df155de6820fcb9077a79976b0a88",
+      "source_sha256_before_path_redaction": "73580deed6fb6b3437ce626521201dd2910df155de6820fcb9077a79976b0a88"
+    },
+    {
+      "path": "grand-orchestral/Sekai_Grand_Symphonic_v11.musicxml",
+      "bytes": 4774458,
+      "sha256": "000251c98217705020f01a69b460a84139c379521bb12a0b3426ced88cf3fae2",
+      "source_sha256_before_path_redaction": "000251c98217705020f01a69b460a84139c379521bb12a0b3426ced88cf3fae2"
+    },
+    {
+      "path": "grand-orchestral/Sekai_Grand_Symphonic_v11_Score.pdf",
+      "bytes": 22530319,
+      "sha256": "1e162024194bed8aeee83b47d78d25ba338721e8fa3e146f49361f45187ef8df",
+      "source_sha256_before_path_redaction": "1e162024194bed8aeee83b47d78d25ba338721e8fa3e146f49361f45187ef8df"
+    },
+    {
+      "path": "grand-orchestral/instrument_map.csv",
+      "bytes": 3875,
+      "sha256": "0579c416e3b9ca36373b6a56aeadb72d284b4b9d3dd53e9398c7eabc09ac2fd9",
+      "source_sha256_before_path_redaction": "fb8f82fb254dde5d16084e6ba8fddbb4b3c98d98260e4575bd37586af118a015"
+    },
+    {
+      "path": "grand-orchestral/mix_report.json",
+      "bytes": 188417,
+      "sha256": "0431f8f89489a7d1ae27867d1a49bb67f4b1f49d7ea3b4a46cb6213d6761de4d",
+      "source_sha256_before_path_redaction": "cac567a6671bc8a666247b27c843623340cca539d59dce6176819ec07ad9de96"
+    },
+    {
+      "path": "grand-orchestral/audio_quality.json",
+      "bytes": 365,
+      "sha256": "8b40227b2a2df7cc5c2c70cd448bb9a7acf029bc11f20a2e66f4b6c44680dd4e",
+      "source_sha256_before_path_redaction": "8260bef423e931531a62fbbde8fab46e43bb6c4d4ed50d63ebae2f0b0afe930a"
+    },
+    {
+      "path": "grand-orchestral/MIDI_validation.json",
+      "bytes": 178729,
+      "sha256": "ab19c3bbb48c059e3c7bf540d1ca90f58ca6533f54b91649700fb443729d7916",
+      "source_sha256_before_path_redaction": "552a69b60020f60e3d328f7952622ca7cba468d554ce121ea9dc44250a013146"
+    },
+    {
+      "path": "grand-orchestral/score_validation.json",
+      "bytes": 1670,
+      "sha256": "3b9482daf930b4a73942dac4ef4cabe721863b1dd4ea5a726bd4dcbd3ea6298f",
+      "source_sha256_before_path_redaction": "6d4ef6d0361c6814a8edc0b25fbf0b5018b2b64554abce745074ee49386a535d"
+    },
+    {
+      "path": "grand-orchestral/render_report.json",
+      "bytes": 147919,
+      "sha256": "cc0c4af857b2dc13dd5cb50239bd9c04fe4de821c3566267f7518a87bd1d538a",
+      "source_sha256_before_path_redaction": "bc6f563867bce0b593155e7f388f0a813c0ff0783452b8b5adc871628e318ef8"
+    },
+    {
+      "path": "grand-orchestral/melody_fidelity.json",
+      "bytes": 24359,
+      "sha256": "fd26bcb336a671c8f6c293de5bdb1948a319a07f19aa3b7c4a758c522f196950",
+      "source_sha256_before_path_redaction": "9e1deebd765d8b9156f83f65a527c121f0bc46bce9915ccfaf45cc28ca7958ec"
+    },
+    {
+      "path": "grand-orchestral/arrangement_changes.json",
+      "bytes": 2053,
+      "sha256": "705d5e2b75f9dd9c344e371f62a03b885fe62e364d0f02895486ff89517be192",
+      "source_sha256_before_path_redaction": "440fd65ea176e7d28eea33cc2a14159ab565a1a34d4e6d2c848d1149026601c3"
+    },
+    {
+      "path": "grand-orchestral/historical-project.json",
+      "bytes": 23325591,
+      "sha256": "23882e42b34b51cdff0b3b062d498e9146ffd733ce04f0a94e53560371762c5e"
+    },
+    {
+      "path": null,
+      "original_filename": "Sekai_Grand_Symphonic_v11.wav",
+      "payload_included": false,
+      "bytes": 80947302,
+      "sha256": "4bea5b615989f64631be791b3dee0855ecb80e94a83f55f7c445604d6165273b",
+      "note": "Original WAV hash for result verification; packaged listening copy is MP3."
+    },
+    {
+      "path": "retro-electronic/Sekai_NeoTokyo_198X_v12.mp3",
+      "bytes": 11245625,
+      "sha256": "d12fc37305a3f6bfb64b01522e68e8a4106cb0e095a2c1a858446a0c1bbc6b5a",
+      "source_sha256_before_path_redaction": "d12fc37305a3f6bfb64b01522e68e8a4106cb0e095a2c1a858446a0c1bbc6b5a"
+    },
+    {
+      "path": "retro-electronic/Sekai_NeoTokyo_198X_v12.mid",
+      "bytes": 122918,
+      "sha256": "2a0832f25d0178940a171af48f7ebeda905aaff3b84e647626dad803873df5e0",
+      "source_sha256_before_path_redaction": "2a0832f25d0178940a171af48f7ebeda905aaff3b84e647626dad803873df5e0"
+    },
+    {
+      "path": "retro-electronic/Sekai_NeoTokyo_198X_v12_Native_Mapped.mid",
+      "bytes": 129293,
+      "sha256": "c1049362f6d4276c6c24386e3f28ad51e1c7c891cb4b79abb9ae97eabdfa51db",
+      "source_sha256_before_path_redaction": "c1049362f6d4276c6c24386e3f28ad51e1c7c891cb4b79abb9ae97eabdfa51db"
+    },
+    {
+      "path": "retro-electronic/Sekai_NeoTokyo_198X_v12.musicxml",
+      "bytes": 5387398,
+      "sha256": "a21b834877dba3ee663dac36cc0b9d3bbdd81a4198617baab7e415024b7b3673",
+      "source_sha256_before_path_redaction": "a21b834877dba3ee663dac36cc0b9d3bbdd81a4198617baab7e415024b7b3673"
+    },
+    {
+      "path": "retro-electronic/Sekai_NeoTokyo_198X_v12_Score.pdf",
+      "bytes": 28356852,
+      "sha256": "7cbbe0a18e80db97e7c6842dff48eb72303d644b174532b0c5db9001f535b3b1",
+      "source_sha256_before_path_redaction": "7cbbe0a18e80db97e7c6842dff48eb72303d644b174532b0c5db9001f535b3b1"
+    },
+    {
+      "path": "retro-electronic/instrument_map.csv",
+      "bytes": 4781,
+      "sha256": "b67dcf1e8669822a1f413b59af6b52b92084ea5be88de95299a9ab0b6dd0d452",
+      "source_sha256_before_path_redaction": "9688c5bc3aec513fc4f28c179d21ccaada37281bc8768f1576423a52ca1a92c6"
+    },
+    {
+      "path": "retro-electronic/mix_report.json",
+      "bytes": 407756,
+      "sha256": "4c874619db3f306aecefdb2966602263f41a5a61f8e792cb7142e0855a0c93a2",
+      "source_sha256_before_path_redaction": "16e518f971c0365aaa4cc49ea4586d4dea0ebb1134db270938643f1cc7774da3"
+    },
+    {
+      "path": "retro-electronic/audio_quality.json",
+      "bytes": 464,
+      "sha256": "82fef0dc1d80b63a03c82fcf3f22c699cd087ce39de4a30db14ed23e48109cb4",
+      "source_sha256_before_path_redaction": "0f14e22144530fefe5e2b87b9bc267eca75850096c1c6164f33f55ac71fd2388"
+    },
+    {
+      "path": "retro-electronic/MIDI_validation.json",
+      "bytes": 373910,
+      "sha256": "d26ffa2fe0e0bd719f23802b6f71de803bda73511e765cfacf25fce069752183",
+      "source_sha256_before_path_redaction": "b9b6090cc63769aa11959382afa247cb5f4925c479edd66660e4dda471ad9fb4"
+    },
+    {
+      "path": "retro-electronic/score_validation.json",
+      "bytes": 1624,
+      "sha256": "212f3e72f64a6b13dc62b8f99ca858cfd913253c1a2e4b52609505a5b8087acf",
+      "source_sha256_before_path_redaction": "43fa9f3b8717c84d79e259c6760dc39f631fc5a05e6c19d5fde0c3fae39b21cc"
+    },
+    {
+      "path": "retro-electronic/render_report.json",
+      "bytes": 58081,
+      "sha256": "cda6e43d4ab2139c78e5b51dff95b11aec5bb82640dcac4d85454d2be2c0784c",
+      "source_sha256_before_path_redaction": "d5042a8af47f52139c4b679fd713e714ad39ae0072152485b5bcc2162da1a80e"
+    },
+    {
+      "path": "retro-electronic/validation_v12.json",
+      "bytes": 1638,
+      "sha256": "d32af291b3fb78a65c7907f66a65141d6965805472c98da1473a8bb86ff2cd55",
+      "source_sha256_before_path_redaction": "0a03ddf5bdd191ba43db2da7181649c93a901dbcb0fc74a600b62d21014b6b6d"
+    },
+    {
+      "path": "retro-electronic/notation_fidelity.json",
+      "bytes": 1769,
+      "sha256": "0e20792cec857daa4cd4d36e0b73a2782723f9e3879aef4cb9714c37f58b057f",
+      "source_sha256_before_path_redaction": "9082bf1243936eb23ac743e86a180b7025d2d8daba7712611e0accdfce492dcc"
+    },
+    {
+      "path": "retro-electronic/arrangement_changes.json",
+      "bytes": 629,
+      "sha256": "5a9a6c917a851e1e22891f4da2b43c66d814017e6de72f9a8c6a1e985a748a4d",
+      "source_sha256_before_path_redaction": "1fd2c9035814efedf394400b2be2658af6eaa5e4ea1597be55382d1de47a5172"
+    },
+    {
+      "path": "retro-electronic/Native_Instrument_Mapping.json",
+      "bytes": 274060,
+      "sha256": "0545b27efc03bdfa7f3f488dcecbb14ebb3d77e1823f29f38f79e2625bc4c0d0",
+      "source_sha256_before_path_redaction": "52b1325deb55d1597d34445302ce038f446c6095b6d96aed94ffff325e54b717"
+    },
+    {
+      "path": "retro-electronic/historical-project.json",
+      "bytes": 8668186,
+      "sha256": "2cda1e945a88a215c616b0de72bbe9ca83a06e066f0c81f3a79601bcdf6d5e4b"
+    },
+    {
+      "path": null,
+      "original_filename": "Sekai_NeoTokyo_198X_v12.wav",
+      "payload_included": false,
+      "bytes": 80947302,
+      "sha256": "de5e122a81da0e407f88e6d7cb0b60fd8888ead3babc84b343d9c5c12293e392",
+      "note": "Original WAV hash for result verification; packaged listening copy is MP3."
+    },
+    {
+      "path": "reviewed-source-route.json",
+      "bytes": 18185,
+      "sha256": "36401030a6432a9b8eb13acdd54439328be65ca08be5ba8439b61cb25ddaa561"
+    },
+    {
+      "path": "canonical-performance-baseline.json",
+      "bytes": 193619,
+      "sha256": "c277873e10f4b411c41d476b022e7df2cea73e9c1bd70468b404fb87263a4818"
+    },
+    {
+      "path": "historical-runtime-observed.json",
+      "bytes": 4556,
+      "sha256": "02354b27574a1fe694617ab17e5c62ad9d800fd6bb323441bc34950b006570d3"
+    },
+    {
+      "path": "historical-asset-checksums.json",
+      "bytes": 1146885,
+      "sha256": "b707d2f7276946d4303691cedbe40ff555c6ef357b73c4ef1c36aee64320e3fd"
+    }
+  ]
+}

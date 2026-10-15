@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "purpose": "Open examples; select, combine or write a new profile for the actual brief. No song notes, key, track counts, tempo or loudness targets are encoded.",
+  "profiles": [
+    {
+      "id": "modern-grand-orchestral",
+      "intent": "Large, clear ensemble with approachable contemporary colours",
+      "identity_policy": "preserve theme, form and functional harmony unless requested otherwise",
+      "roles": [
+        "melody relay",
+        "string divisi",
+        "woodwind inner voices",
+        "brass pillars",
+        "bass foundation",
+        "controlled percussion",
+        "optional guitar/sax/keys"
+      ],
+      "development": "Set participation, register and dynamics for actual sections; maintain orchestral body when modern colours enter.",
+      "sound": "Acoustic samples or DAW instruments; probe articulations.",
+      "mix": "Protect theme and rhythmic attacks; assess low-mid density and upper-register sharpness."
+    },
+    {
+      "id": "retro-electronic-hybrid",
+      "intent": "User-defined 1980s electronic palette; distinguish synthwave, vaporwave and cyberpunk targets",
+      "identity_policy": "preserve melody/form; tempo changes or reharmonization only when requested",
+      "roles": [
+        "analog/FM lead relay",
+        "polyphonic harmonic ensemble",
+        "arp or pulse rhythm",
+        "bass/sub foundation",
+        "electronic percussion",
+        "optional acoustic colour"
+      ],
+      "development": "Vary timbre, rhythm and register across the actual form instead of repeating a single loop.",
+      "sound": "Preset identities, seeds, envelope/filter curves and effects saved explicitly.",
+      "mix": "Record delay timing, chorus, gated/plate returns and saturation; preserve clarity and section dynamics."
+    },
+    {
+      "id": "acoustic-folk-ensemble",
+      "intent": "Organic multi-part interpretation with culturally appropriate instrument choices",
+      "identity_policy": "preserve theme/form; ornaments labelled as arrangement additions",
+      "roles": [
+        "melody relay",
+        "plucked harmonic support",
+        "bowed/wind counterline",
+        "bass pulse",
+        "light percussion",
+        "response motifs"
+      ],
+      "development": "Use breathing, articulation, registral exchange and varied accompaniment; density follows the brief.",
+      "sound": "Validated samples or recorded/DAW stems; do not claim unsupported idiomatic techniques.",
+      "mix": "Natural transients, believable space, separate foreground and accompaniment."
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+ID,Part,Family,Port,Channel,Sample,Pan
+01,Piccolo,woodwinds,1,1,piccolo,-0.23
+02,Flute I,woodwinds,1,2,flute,-0.35
+03,Flute II,woodwinds,1,3,flute,-0.24
+04,Oboe,woodwinds,1,4,oboe,-0.1
+05,English Horn,woodwinds,1,5,english_horn,0.03
+06,Clarinet I,woodwinds,1,6,clarinet,0.12
+07,Clarinet II,woodwinds,1,7,clarinet,0.23
+08,Bass Clarinet,woodwinds,1,8,bass_clarinet,0.28
+09,Bassoon,woodwinds,1,9,bassoon,0.38
+10,Contrabassoon,woodwinds,1,11,contrabassoon,0.45
+11,Horn I,brass,1,12,horn_section,-0.35
+12,Horn II,brass,1,13,horn_section,-0.28
+13,Horn III,brass,1,14,horn_section,-0.2
+14,Horn IV,brass,1,15,horn_section,-0.12
+15,Trumpet I,brass,1,16,trumpet_section,0.03
+16,Trumpet II,brass,2,1,trumpet_section,0.13
+17,Trumpet III,brass,2,2,trumpet_section,0.23
+18,Trombone I,brass,2,3,trombone_section,0.35
+19,Trombone II,brass,2,4,trombone_section,0.44
+20,Bass Trombone,brass,2,5,trombone_section,0.53
+21,Tuba,brass,2,6,tuba,0.61
+22,Violin I - A,strings,2,7,violin1,-0.72
+23,Violin I - B,strings,2,8,violin1,-0.6
+24,Violin II - A,strings,2,9,violin2,-0.48
+25,Violin II - B,strings,2,11,violin2,-0.35
+26,Viola - A,strings,2,12,viola,-0.02
+27,Viola - B,strings,2,13,viola,0.1
+28,Cello - A,strings,2,14,cello,0.35
+29,Cello - B,strings,2,15,cello,0.45
+30,Double Bass,strings,2,16,double_bass,0.62
+31,Solo Cello,strings,3,1,cello_solo,0.26
+32,Harp I,harp_keys,3,2,harp,-0.52
+33,Harp II,harp_keys,3,3,harp,-0.4
+34,Celesta,harp_keys,3,4,celeste,-0.16
+35,Glockenspiel,harp_keys,3,5,glockenspiel,0.05
+36,Timpani,percussion,3,6,timpani,0.36
+37,Concert Bass Drum,percussion,4,10,bass_drum_and_snare,0.26
+38,Concert Snare,percussion,5,10,bass_drum_and_snare,0.38
+39,Crash Cymbals,percussion,6,10,cymbals_and_tamtam,0.15
+40,Suspended Cymbal,percussion,7,10,cymbals_and_tamtam,0.28
+42,Triangle,percussion,9,10,triangle,-0.12
+43,Wordless Choir - High,choir,3,14,large_choir,-0.15
+44,Wordless Choir - Low,choir,3,15,mixed_choir,0.18
+45,Deep Bass Drum Resonance,percussion,10,10,deep_bass_drum,0.02
+46,Double Bass - Pizzicato,strings,4,1,double_bass,0.53
+47,Cello - C Ostinato,strings,4,2,cello,0.31
+48,Timpani II - Responses,percussion,4,3,timpani,0.2
+49,Electric Guitar - Arpeggios,guitars,4,4,shinyguitar,-0.38
+50,Electric Guitar - Rhythm,guitars,4,5,shinyguitar,0.38
+51,Electric Bass Support,bass,4,6,gm,0
+52,Alto Sax - Ensemble Colour,woodwinds,4,7,weresax,0.1
+53,Modern Hi-hat,percussion,11,10,gm,0.3
+54,Violin II - Tutti,strings,4,9,violin2,-0.32
+55,Flute - Tutti,woodwinds,4,11,flute_tutti_v9,-0.12
+56,Violin I - Mid Tutti,strings,5,1,violin1,-0.38
+57,Clarinet - Tutti,woodwinds,5,2,clarinet,0.18
+58,Wordless Choir - Finale,choir,5,3,choir_finale_v10,0.08
+59,Trumpet - Finale Accents,brass,5,4,trumpet_section,0.24
+60,Violin I - High Divisi,strings,5,5,violin1,-0.68
+61,Violin I - Middle Divisi,strings,5,6,violin1,-0.45
+62,Violin I - Lower Divisi,strings,5,7,violin1,-0.2
+63,Violin II - High Divisi,strings,5,8,violin2,0.5
+64,Violin II - Middle Divisi,strings,5,9,violin2,0.25
+65,Viola - Upper Divisi,strings,5,11,viola,-0.1
+66,Viola - Lower Divisi,strings,5,12,viola,0.1
+67,Cello - Middle Divisi,strings,5,13,cello,0.45
+68,Cello - Lower Divisi,strings,5,14,cello,0.65
+69,Cello - Tenor Divisi,strings,5,15,cello,0.28
+70,Flute - Inner Harmony,woodwinds,5,16,flute_tutti_v9,-0.25
+71,Clarinet - Harmony Divisi,woodwinds,6,1,clarinet,0.12
+72,Oboe - Harmony Divisi,woodwinds,6,2,oboe,-0.1
+73,Bassoon - Tenor Harmony,woodwinds,6,3,bassoon,0.28
+74,Horn - Upper Divisi,brass,6,4,horn_section,-0.45
+75,Horn - Middle Divisi,brass,6,5,horn_section,-0.15
+76,Trumpet - Upper Harmony,brass,6,6,trumpet_section,0.15
+77,Trumpet - Middle Harmony,brass,6,7,trumpet_section,0.35
+78,Trombone - Inner Harmony,brass,6,8,trombone_section,0.3
+79,Bass Trombone - Harmony,brass,6,9,trombone_section,0.48
+80,Wordless Choir - Wide Divisi,choir,6,11,choir_finale_v10,0
+81,Concert Grand Piano,harp_keys,6,12,gm,-0.12

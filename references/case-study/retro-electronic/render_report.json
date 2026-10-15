@@ -1,0 +1,1844 @@
+{
+  "part_count": 64,
+  "sample_rate": 48000,
+  "ok": true,
+  "parts": [
+    {
+      "id": "01",
+      "name": "FM Glass Theme",
+      "sample_key": "dsp",
+      "engine": "Original Offline DSP v12",
+      "synth_patch": "fm_lead",
+      "synth_config": {},
+      "preset_file": "historical-workspace/tmp/orchestral-v12/synth_presets.json",
+      "engine_file": "historical-workspace/tmp/orchestral-v12/synth_engine.py",
+      "wav": "historical-workspace/tmp/orchestral-v12/stems_raw/01.wav",
+      "midi": "historical-workspace/tmp/orchestral-v12/midi/01.mid",
+      "sfz": null,
+      "ok": true,
+      "selection": {
+        "mode": "original_dsp",
+        "patch": "fm_lead"
+      },
+      "audio": {
+        "finite": true,
+        "nonzero": true,
+        "seconds": 281.06666666666666,
+        "frames": 13491200,
+        "sample_rate": 48000,
+        "peak_dbfs": -20.402,
+        "rms_dbfs": -38.378
+      }
+    },
+    {
+      "id": "02",
+      "name": "Analog Poly Theme",
+      "sample_key": "dsp",
+      "engine": "Original Offline DSP v12",
+      "synth_patch": "analog_lead",
+      "synth_config": {},
+      "preset_file": "historical-workspace/tmp/orchestral-v12/synth_presets.json",
+      "engine_file": "historical-workspace/tmp/orchestral-v12/synth_engine.py",
+      "wav": "historical-workspace/tmp/orchestral-v12/stems_raw/02.wav",
+      "midi": "historical-workspace/tmp/orchestral-v12/midi/02.mid",
+      "sfz": null,
+      "ok": true,
+      "selection": {
+        "mode": "original_dsp",
+        "patch": "analog_lead"
+      },
+      "audio": {
+        "finite": true,
+        "nonzero": true,
+        "seconds": 281.06666666666666,
+        "frames": 13491200,
+        "sample_rate": 48000,
+        "peak_dbfs": -19.264,
+        "rms_dbfs": -38.072
+      }
+    },
+    {
+      "id": "03",
+      "name": "Warm Pulse Theme",
+      "sample_key": "dsp",
+      "engine": "Original Offline DSP v12",
+      "synth_patch": "analog_lead",
+      "synth_config": {
+        "wave": "pulse",
+        "cutoff_dark": 1000,
+        "cutoff_bright": 3200,
+        "triangle": 0.4
+      },
+      "preset_file": "historical-workspace/tmp/orchestral-v12/synth_presets.json",
+      "engine_file": "historical-workspace/tmp/orchestral-v12/synth_engine.py",
+      "wav": "historical-workspace/tmp/orchestral-v12/stems_raw/03.wav",
+      "midi": "historical-workspace/tmp/orchestral-v12/midi/03.mid",
+      "sfz": null,
+      "ok": true,
+      "selection": {
+        "mode": "original_dsp",
+        "patch": "analog_lead"
+      },
+      "audio": {
+        "finite": true,
+        "nonzero": true,
+        "seconds": 281.06666666666666,
+        "frames": 13491200,
+        "sample_rate": 48000,
+        "peak_dbfs": -25.062,
+        "rms_dbfs": -45.467
+      }
+    },
+    {
+      "id": "04",
+      "name": "Velvet FM Theme",
+      "sample_key": "dsp",
+      "engine": "Original Offline DSP v12",
+      "synth_patch": "fm_lead",
+      "synth_config": {
+        "fm_index": 0.55,
+        "fm_layer": 0.08
+      },
+      "preset_file": "historical-workspace/tmp/orchestral-v12/synth_presets.json",
+      "engine_file": "historical-workspace/tmp/orchestral-v12/synth_engine.py",
+      "wav": "historical-workspace/tmp/orchestral-v12/stems_raw/04.wav",
+      "midi": "historical-workspace/tmp/orchestral-v12/midi/04.mid",
+      "sfz": null,
+      "ok": true,
+      "selection": {
+        "mode": "original_dsp",
+        "patch": "fm_lead"
+      },
+      "audio": {
+        "finite": true,
+        "nonzero": true,
+        "seconds": 281.06666666666666,
+        "frames": 13491200,
+        "sample_rate": 48000,
+        "peak_dbfs": -20.647,
+        "rms_dbfs": -38.963
+      }
+    },
+    {
+      "id": "05",
+      "name": "Ensemble Theme Shadow",
+      "sample_key": "dsp",
+      "engine": "Original Offline DSP v12",
+      "synth_patch": "analog_ensemble",
+      "synth_config": {
+        "attack": 0.012,
+        "release": 0.18
+      },
+      "preset_file": "historical-workspace/tmp/orchestral-v12/synth_presets.json",
+      "engine_file": "historical-workspace/tmp/orchestral-v12/synth_engine.py",
+      "wav": "historical-workspace/tmp/orchestral-v12/stems_raw/05.wav",
+      "midi": "historical-workspace/tmp/orchestral-v12/midi/05.mid",
+      "sfz": null,
+      "ok": true,
+      "selection": {
+        "mode": "original_dsp",
+        "patch": "analog_ensemble"
+      },
+      "audio": {
+        "finite": true,
+        "nonzero": true,
+        "seconds": 281.06666666666666,
+        "frames": 13491200,
+        "sample_rate": 48000,
+        "peak_dbfs": -20.757,
+        "rms_dbfs": -35.845
+      }
+    },
+    {
+      "id": "06",
+      "name": "Neon Octave Tutti",
+      "sample_key": "dsp",
+      "engine": "Original Offline DSP v12",
+      "synth_patch": "fm_lead",
+      "synth_config": {
+        "fm_index": 0.65,
+        "fm_layer": 0.05
+      },
+      "preset_file": "historical-workspace/tmp/orchestral-v12/synth_presets.json",
+      "engine_file": "historical-workspace/tmp/orchestral-v12/synth_engine.py",
+      "wav": "historical-workspace/tmp/orchestral-v12/stems_raw/06.wav",
+      "midi": "historical-workspace/tmp/orchestral-v12/midi/06.mid",
+      "sfz": null,
+      "ok": true,
+      "selection": {
+        "mode": "original_dsp",
+        "patch": "fm_lead"
+      },
+      "audio": {
+        "finite": true,
+        "nonzero": true,
+        "seconds": 281.06666666666666,
+        "frames": 13491200,
+        "sample_rate": 48000,
+        "peak_dbfs": -22.117,
+        "rms_dbfs": -39.609
+      }
+    },
+    {
+      "id": "07",
+      "name": "High Saw Strings",
+      "sample_key": "dsp",
+      "engine": "Original Offline DSP v12",
+      "synth_patch": "analog_ensemble",
+      "synth_config": {},
+      "preset_file": "historical-workspace/tmp/orchestral-v12/synth_presets.json",
+      "engine_file": "historical-workspace/tmp/orchestral-v12/synth_engine.py",
+      "wav": "historical-workspace/tmp/orchestral-v12/stems_raw/07.wav",
+      "midi": "historical-workspace/tmp/orchestral-v12/midi/07.mid",
+      "sfz": null,
+      "ok": true,
+      "selection": {
+        "mode": "original_dsp",
+        "patch": "analog_ensemble"
+      },
+      "audio": {
+        "finite": true,
+        "nonzero": true,
+        "seconds": 281.06666666666666,
+        "frames": 13491200,
+        "sample_rate": 48000,
+        "peak_dbfs": -23.146,
+        "rms_dbfs": -39.56
+      }
+    },
+    {
+      "id": "08",
+      "name": "Middle Saw Strings",
+      "sample_key": "dsp",
+      "engine": "Original Offline DSP v12",
+      "synth_patch": "analog_ensemble",
+      "synth_config": {},
+      "preset_file": "historical-workspace/tmp/orchestral-v12/synth_presets.json",
+      "engine_file": "historical-workspace/tmp/orchestral-v12/synth_engine.py",
+      "wav": "historical-workspace/tmp/orchestral-v12/stems_raw/08.wav",
+      "midi": "historical-workspace/tmp/orchestral-v12/midi/08.mid",
+      "sfz": null,
+      "ok": true,
+      "selection": {
+        "mode": "original_dsp",
+        "patch": "analog_ensemble"
+      },
+      "audio": {
+        "finite": true,
+        "nonzero": true,
+        "seconds": 281.06666666666666,
+        "frames": 13491200,
+        "sample_rate": 48000,
+        "peak_dbfs": -23.691,
+        "rms_dbfs": -37.617
+      }
+    },
+    {
+      "id": "09",
+      "name": "Lower Pulse Strings",
+      "sample_key": "dsp",
+      "engine": "Original Offline DSP v12",
+      "synth_patch": "analog_ensemble",
+      "synth_config": {
+        "cutoff_dark": 850,
+        "cutoff_bright": 2900,
+        "triangle": 0.35
+      },
+      "preset_file": "historical-workspace/tmp/orchestral-v12/synth_presets.json",
+      "engine_file": "historical-workspace/tmp/orchestral-v12/synth_engine.py",
+      "wav": "historical-workspace/tmp/orchestral-v12/stems_raw/09.wav",
+      "midi": "historical-workspace/tmp/orchestral-v12/midi/09.mid",
+      "sfz": null,
+      "ok": true,
+      "selection": {
+        "mode": "original_dsp",
+        "patch": "analog_ensemble"
+      },
+      "audio": {
+        "finite": true,
+        "nonzero": true,
+        "seconds": 281.06666666666666,
+        "frames": 13491200,
+        "sample_rate": 48000,
+        "peak_dbfs": -23.065,
+        "rms_dbfs": -39.584
+      }
+    },
+    {
+      "id": "10",
+      "name": "Right High Strings",
+      "sample_key": "dsp",
+      "engine": "Original Offline DSP v12",
+      "synth_patch": "analog_ensemble",
+      "synth_config": {},
+      "preset_file": "historical-workspace/tmp/orchestral-v12/synth_presets.json",
+      "engine_file": "historical-workspace/tmp/orchestral-v12/synth_engine.py",
+      "wav": "historical-workspace/tmp/orchestral-v12/stems_raw/10.wav",
+      "midi": "historical-workspace/tmp/orchestral-v12/midi/10.mid",
+      "sfz": null,
+      "ok": true,
+      "selection": {
+        "mode": "original_dsp",
+        "patch": "analog_ensemble"
+      },
+      "audio": {
+        "finite": true,
+        "nonzero": true,
+        "seconds": 281.06666666666666,
+        "frames": 13491200,
+        "sample_rate": 48000,
+        "peak_dbfs": -23.104,
+        "rms_dbfs": -38.955
+      }
+    },
+    {
+      "id": "11",
+      "name": "Right Middle Strings",
+      "sample_key": "dsp",
+      "engine": "Original Offline DSP v12",
+      "synth_patch": "analog_ensemble",
+      "synth_config": {},
+      "preset_file": "historical-workspace/tmp/orchestral-v12/synth_presets.json",
+      "engine_file": "historical-workspace/tmp/orchestral-v12/synth_engine.py",
+      "wav": "historical-workspace/tmp/orchestral-v12/stems_raw/11.wav",
+      "midi": "historical-workspace/tmp/orchestral-v12/midi/11.mid",
+      "sfz": null,
+      "ok": true,
+      "selection": {
+        "mode": "original_dsp",
+        "patch": "analog_ensemble"
+      },
+      "audio": {
+        "finite": true,
+        "nonzero": true,
+        "seconds": 281.06666666666666,
+        "frames": 13491200,
+        "sample_rate": 48000,
+        "peak_dbfs": -23.032,
+        "rms_dbfs": -37.763
+      }
+    },
+    {
+      "id": "12",
+      "name": "Viola Synth Upper",
+      "sample_key": "dsp",
+      "engine": "Original Offline DSP v12",
+      "synth_patch": "analog_ensemble",
+      "synth_config": {
+        "cutoff_dark": 850,
+        "cutoff_bright": 2900,
+        "triangle": 0.35
+      },
+      "preset_file": "historical-workspace/tmp/orchestral-v12/synth_presets.json",
+      "engine_file": "historical-workspace/tmp/orchestral-v12/synth_engine.py",
+      "wav": "historical-workspace/tmp/orchestral-v12/stems_raw/12.wav",
+      "midi": "historical-workspace/tmp/orchestral-v12/midi/12.mid",
+      "sfz": null,
+      "ok": true,
+      "selection": {
+        "mode": "original_dsp",
+        "patch": "analog_ensemble"
+      },
+      "audio": {
+        "finite": true,
+        "nonzero": true,
+        "seconds": 281.06666666666666,
+        "frames": 13491200,
+        "sample_rate": 48000,
+        "peak_dbfs": -23.189,
+        "rms_dbfs": -38.011
+      }
+    },
+    {
+      "id": "13",
+      "name": "Viola Tape Lower",
+      "sample_key": "dsp",
+      "engine": "Original Offline DSP v12",
+      "synth_patch": "warm_pad",
+      "synth_config": {},
+      "preset_file": "historical-workspace/tmp/orchestral-v12/synth_presets.json",
+      "engine_file": "historical-workspace/tmp/orchestral-v12/synth_engine.py",
+      "wav": "historical-workspace/tmp/orchestral-v12/stems_raw/13.wav",
+      "midi": "historical-workspace/tmp/orchestral-v12/midi/13.mid",
+      "sfz": null,
+      "ok": true,
+      "selection": {
+        "mode": "original_dsp",
+        "patch": "warm_pad"
+      },
+      "audio": {
+        "finite": true,
+        "nonzero": true,
+        "seconds": 281.06666666666666,
+        "frames": 13491200,
+        "sample_rate": 48000,
+        "peak_dbfs": -26.483,
+        "rms_dbfs": -43.344
+      }
+    },
+    {
+      "id": "14",
+      "name": "Cello Tape Middle",
+      "sample_key": "dsp",
+      "engine": "Original Offline DSP v12",
+      "synth_patch": "warm_pad",
+      "synth_config": {},
+      "preset_file": "historical-workspace/tmp/orchestral-v12/synth_presets.json",
+      "engine_file": "historical-workspace/tmp/orchestral-v12/synth_engine.py",
+      "wav": "historical-workspace/tmp/orchestral-v12/stems_raw/14.wav",
+      "midi": "historical-workspace/tmp/orchestral-v12/midi/14.mid",
+      "sfz": null,
+      "ok": true,
+      "selection": {
+        "mode": "original_dsp",
+        "patch": "warm_pad"
+      },
+      "audio": {
+        "finite": true,
+        "nonzero": true,
+        "seconds": 281.06666666666666,
+        "frames": 13491200,
+        "sample_rate": 48000,
+        "peak_dbfs": -25.675,
+        "rms_dbfs": -38.996
+      }
+    },
+    {
+      "id": "15",
+      "name": "Cello Tape Lower",
+      "sample_key": "dsp",
+      "engine": "Original Offline DSP v12",
+      "synth_patch": "warm_pad",
+      "synth_config": {},
+      "preset_file": "historical-workspace/tmp/orchestral-v12/synth_presets.json",
+      "engine_file": "historical-workspace/tmp/orchestral-v12/synth_engine.py",
+      "wav": "historical-workspace/tmp/orchestral-v12/stems_raw/15.wav",
+      "midi": "historical-workspace/tmp/orchestral-v12/midi/15.mid",
+      "sfz": null,
+      "ok": true,
+      "selection": {
+        "mode": "original_dsp",
+        "patch": "warm_pad"
+      },
+      "audio": {
+        "finite": true,
+        "nonzero": true,
+        "seconds": 281.06666666666666,
+        "frames": 13491200,
+        "sample_rate": 48000,
+        "peak_dbfs": -25.68,
+        "rms_dbfs": -43.73
+      }
+    },
+    {
+      "id": "16",
+      "name": "Tenor Synth Strings",
+      "sample_key": "dsp",
+      "engine": "Original Offline DSP v12",
+      "synth_patch": "analog_ensemble",
+      "synth_config": {
+        "cutoff_dark": 850,
+        "cutoff_bright": 2900,
+        "triangle": 0.35
+      },
+      "preset_file": "historical-workspace/tmp/orchestral-v12/synth_presets.json",
+      "engine_file": "historical-workspace/tmp/orchestral-v12/synth_engine.py",
+      "wav": "historical-workspace/tmp/orchestral-v12/stems_raw/16.wav",
+      "midi": "historical-workspace/tmp/orchestral-v12/midi/16.mid",
+      "sfz": null,
+      "ok": true,
+      "selection": {
+        "mode": "original_dsp",
+        "patch": "analog_ensemble"
+      },
+      "audio": {
+        "finite": true,
+        "nonzero": true,
+        "seconds": 281.06666666666666,
+        "frames": 13491200,
+        "sample_rate": 48000,
+        "peak_dbfs": -23.483,
+        "rms_dbfs": -39.781
+      }
+    },
+    {
+      "id": "17",
+      "name": "Vapor Upper Pad",
+      "sample_key": "dsp",
+      "engine": "Original Offline DSP v12",
+      "synth_patch": "warm_pad",
+      "synth_config": {},
+      "preset_file": "historical-workspace/tmp/orchestral-v12/synth_presets.json",
+      "engine_file": "historical-workspace/tmp/orchestral-v12/synth_engine.py",
+      "wav": "historical-workspace/tmp/orchestral-v12/stems_raw/17.wav",
+      "midi": "historical-workspace/tmp/orchestral-v12/midi/17.mid",
+      "sfz": null,
+      "ok": true,
+      "selection": {
+        "mode": "original_dsp",
+        "patch": "warm_pad"
+      },
+      "audio": {
+        "finite": true,
+        "nonzero": true,
+        "seconds": 281.06666666666666,
+        "frames": 13491200,
+        "sample_rate": 48000,
+        "peak_dbfs": -25.769,
+        "rms_dbfs": -40.184
+      }
+    },
+    {
+      "id": "18",
+      "name": "Digital Inner Pad",
+      "sample_key": "dsp",
+      "engine": "Original Offline DSP v12",
+      "synth_patch": "chorus_keys",
+      "synth_config": {},
+      "preset_file": "historical-workspace/tmp/orchestral-v12/synth_presets.json",
+      "engine_file": "historical-workspace/tmp/orchestral-v12/synth_engine.py",
+      "wav": "historical-workspace/tmp/orchestral-v12/stems_raw/18.wav",
+      "midi": "historical-workspace/tmp/orchestral-v12/midi/18.mid",
+      "sfz": null,
+      "ok": true,
+      "selection": {
+        "mode": "original_dsp",
+        "patch": "chorus_keys"
+      },
+      "audio": {
+        "finite": true,
+        "nonzero": true,
+        "seconds": 281.06666666666666,
+        "frames": 13491200,
+        "sample_rate": 48000,
+        "peak_dbfs": -30.715,
+        "rms_dbfs": -44.476
+      }
+    },
+    {
+      "id": "19",
+      "name": "Dusk Warm Pad",
+      "sample_key": "dsp",
+      "engine": "Original Offline DSP v12",
+      "synth_patch": "warm_pad",
+      "synth_config": {},
+      "preset_file": "historical-workspace/tmp/orchestral-v12/synth_presets.json",
+      "engine_file": "historical-workspace/tmp/orchestral-v12/synth_engine.py",
+      "wav": "historical-workspace/tmp/orchestral-v12/stems_raw/19.wav",
+      "midi": "historical-workspace/tmp/orchestral-v12/midi/19.mid",
+      "sfz": null,
+      "ok": true,
+      "selection": {
+        "mode": "original_dsp",
+        "patch": "warm_pad"
+      },
+      "audio": {
+        "finite": true,
+        "nonzero": true,
+        "seconds": 281.06666666666666,
+        "frames": 13491200,
+        "sample_rate": 48000,
+        "peak_dbfs": -26.269,
+        "rms_dbfs": -40.628
+      }
+    },
+    {
+      "id": "20",
+      "name": "Low Tape Pad",
+      "sample_key": "dsp",
+      "engine": "Original Offline DSP v12",
+      "synth_patch": "warm_pad",
+      "synth_config": {},
+      "preset_file": "historical-workspace/tmp/orchestral-v12/synth_presets.json",
+      "engine_file": "historical-workspace/tmp/orchestral-v12/synth_engine.py",
+      "wav": "historical-workspace/tmp/orchestral-v12/stems_raw/20.wav",
+      "midi": "historical-workspace/tmp/orchestral-v12/midi/20.mid",
+      "sfz": null,
+      "ok": true,
+      "selection": {
+        "mode": "original_dsp",
+        "patch": "warm_pad"
+      },
+      "audio": {
+        "finite": true,
+        "nonzero": true,
+        "seconds": 281.06666666666666,
+        "frames": 13491200,
+        "sample_rate": 48000,
+        "peak_dbfs": -26.417,
+        "rms_dbfs": -43.198
+      }
+    },
+    {
+      "id": "21",
+      "name": "Formant Halo Pad",
+      "sample_key": "dsp",
+      "engine": "Original Offline DSP v12",
+      "synth_patch": "airy_choir",
+      "synth_config": {},
+      "preset_file": "historical-workspace/tmp/orchestral-v12/synth_presets.json",
+      "engine_file": "historical-workspace/tmp/orchestral-v12/synth_engine.py",
+      "wav": "historical-workspace/tmp/orchestral-v12/stems_raw/21.wav",
+      "midi": "historical-workspace/tmp/orchestral-v12/midi/21.mid",
+      "sfz": null,
+      "ok": true,
+      "selection": {
+        "mode": "original_dsp",
+        "patch": "airy_choir"
+      },
+      "audio": {
+        "finite": true,
+        "nonzero": true,
+        "seconds": 281.06666666666666,
+        "frames": 13491200,
+        "sample_rate": 48000,
+        "peak_dbfs": -27.07,
+        "rms_dbfs": -41.558
+      }
+    },
+    {
+      "id": "22",
+      "name": "Velvet Middle Pad",
+      "sample_key": "dsp",
+      "engine": "Original Offline DSP v12",
+      "synth_patch": "warm_pad",
+      "synth_config": {},
+      "preset_file": "historical-workspace/tmp/orchestral-v12/synth_presets.json",
+      "engine_file": "historical-workspace/tmp/orchestral-v12/synth_engine.py",
+      "wav": "historical-workspace/tmp/orchestral-v12/stems_raw/22.wav",
+      "midi": "historical-workspace/tmp/orchestral-v12/midi/22.mid",
+      "sfz": null,
+      "ok": true,
+      "selection": {
+        "mode": "original_dsp",
+        "patch": "warm_pad"
+      },
+      "audio": {
+        "finite": true,
+        "nonzero": true,
+        "seconds": 281.06666666666666,
+        "frames": 13491200,
+        "sample_rate": 48000,
+        "peak_dbfs": -27.895,
+        "rms_dbfs": -45.113
+      }
+    },
+    {
+      "id": "23",
+      "name": "Pulse Guide Pad",
+      "sample_key": "dsp",
+      "engine": "Original Offline DSP v12",
+      "synth_patch": "chorus_keys",
+      "synth_config": {},
+      "preset_file": "historical-workspace/tmp/orchestral-v12/synth_presets.json",
+      "engine_file": "historical-workspace/tmp/orchestral-v12/synth_engine.py",
+      "wav": "historical-workspace/tmp/orchestral-v12/stems_raw/23.wav",
+      "midi": "historical-workspace/tmp/orchestral-v12/midi/23.mid",
+      "sfz": null,
+      "ok": true,
+      "selection": {
+        "mode": "original_dsp",
+        "patch": "chorus_keys"
+      },
+      "audio": {
+        "finite": true,
+        "nonzero": true,
+        "seconds": 281.06666666666666,
+        "frames": 13491200,
+        "sample_rate": 48000,
+        "peak_dbfs": -30.37,
+        "rms_dbfs": -44.325
+      }
+    },
+    {
+      "id": "24",
+      "name": "Wide Suspension Pad",
+      "sample_key": "dsp",
+      "engine": "Original Offline DSP v12",
+      "synth_patch": "warm_pad",
+      "synth_config": {},
+      "preset_file": "historical-workspace/tmp/orchestral-v12/synth_presets.json",
+      "engine_file": "historical-workspace/tmp/orchestral-v12/synth_engine.py",
+      "wav": "historical-workspace/tmp/orchestral-v12/stems_raw/24.wav",
+      "midi": "historical-workspace/tmp/orchestral-v12/midi/24.mid",
+      "sfz": null,
+      "ok": true,
+      "selection": {
+        "mode": "original_dsp",
+        "patch": "warm_pad"
+      },
+      "audio": {
+        "finite": true,
+        "nonzero": true,
+        "seconds": 281.06666666666666,
+        "frames": 13491200,
+        "sample_rate": 48000,
+        "peak_dbfs": -25.383,
+        "rms_dbfs": -39.898
+      }
+    },
+    {
+      "id": "25",
+      "name": "DX Electric Piano Chords",
+      "sample_key": "dsp",
+      "engine": "Original Offline DSP v12",
+      "synth_patch": "dx_ep",
+      "synth_config": {},
+      "preset_file": "historical-workspace/tmp/orchestral-v12/synth_presets.json",
+      "engine_file": "historical-workspace/tmp/orchestral-v12/synth_engine.py",
+      "wav": "historical-workspace/tmp/orchestral-v12/stems_raw/25.wav",
+      "midi": "historical-workspace/tmp/orchestral-v12/midi/25.mid",
+      "sfz": null,
+      "ok": true,
+      "selection": {
+        "mode": "original_dsp",
+        "patch": "dx_ep"
+      },
+      "audio": {
+        "finite": true,
+        "nonzero": true,
+        "seconds": 281.06666666666666,
+        "frames": 13491200,
+        "sample_rate": 48000,
+        "peak_dbfs": -12.994,
+        "rms_dbfs": -33.402
+      }
+    },
+    {
+      "id": "26",
+      "name": "Chorus Poly Keys",
+      "sample_key": "dsp",
+      "engine": "Original Offline DSP v12",
+      "synth_patch": "chorus_keys",
+      "synth_config": {},
+      "preset_file": "historical-workspace/tmp/orchestral-v12/synth_presets.json",
+      "engine_file": "historical-workspace/tmp/orchestral-v12/synth_engine.py",
+      "wav": "historical-workspace/tmp/orchestral-v12/stems_raw/26.wav",
+      "midi": "historical-workspace/tmp/orchestral-v12/midi/26.mid",
+      "sfz": null,
+      "ok": true,
+      "selection": {
+        "mode": "original_dsp",
+        "patch": "chorus_keys"
+      },
+      "audio": {
+        "finite": true,
+        "nonzero": true,
+        "seconds": 281.06666666666666,
+        "frames": 13491200,
+        "sample_rate": 48000,
+        "peak_dbfs": -20.518,
+        "rms_dbfs": -37.917
+      }
+    },
+    {
+      "id": "27",
+      "name": "FM Upper Counter",
+      "sample_key": "dsp",
+      "engine": "Original Offline DSP v12",
+      "synth_patch": "dx_ep",
+      "synth_config": {},
+      "preset_file": "historical-workspace/tmp/orchestral-v12/synth_presets.json",
+      "engine_file": "historical-workspace/tmp/orchestral-v12/synth_engine.py",
+      "wav": "historical-workspace/tmp/orchestral-v12/stems_raw/27.wav",
+      "midi": "historical-workspace/tmp/orchestral-v12/midi/27.mid",
+      "sfz": null,
+      "ok": true,
+      "selection": {
+        "mode": "original_dsp",
+        "patch": "dx_ep"
+      },
+      "audio": {
+        "finite": true,
+        "nonzero": true,
+        "seconds": 281.06666666666666,
+        "frames": 13491200,
+        "sample_rate": 48000,
+        "peak_dbfs": -22.686,
+        "rms_dbfs": -40.882
+      }
+    },
+    {
+      "id": "28",
+      "name": "Digital Lower Counter",
+      "sample_key": "dsp",
+      "engine": "Original Offline DSP v12",
+      "synth_patch": "chorus_keys",
+      "synth_config": {},
+      "preset_file": "historical-workspace/tmp/orchestral-v12/synth_presets.json",
+      "engine_file": "historical-workspace/tmp/orchestral-v12/synth_engine.py",
+      "wav": "historical-workspace/tmp/orchestral-v12/stems_raw/28.wav",
+      "midi": "historical-workspace/tmp/orchestral-v12/midi/28.mid",
+      "sfz": null,
+      "ok": true,
+      "selection": {
+        "mode": "original_dsp",
+        "patch": "chorus_keys"
+      },
+      "audio": {
+        "finite": true,
+        "nonzero": true,
+        "seconds": 281.06666666666666,
+        "frames": 13491200,
+        "sample_rate": 48000,
+        "peak_dbfs": -29.644,
+        "rms_dbfs": -43.578
+      }
+    },
+    {
+      "id": "29",
+      "name": "FM Bells in Theme Rests",
+      "sample_key": "dsp",
+      "engine": "Original Offline DSP v12",
+      "synth_patch": "fm_bell",
+      "synth_config": {
+        "fm_index": 1.15,
+        "amplitude": 0.042
+      },
+      "preset_file": "historical-workspace/tmp/orchestral-v12/synth_presets.json",
+      "engine_file": "historical-workspace/tmp/orchestral-v12/synth_engine.py",
+      "wav": "historical-workspace/tmp/orchestral-v12/stems_raw/29.wav",
+      "midi": "historical-workspace/tmp/orchestral-v12/midi/29.mid",
+      "sfz": null,
+      "ok": true,
+      "selection": {
+        "mode": "original_dsp",
+        "patch": "fm_bell"
+      },
+      "audio": {
+        "finite": true,
+        "nonzero": true,
+        "seconds": 281.06666666666666,
+        "frames": 13491200,
+        "sample_rate": 48000,
+        "peak_dbfs": -27.929,
+        "rms_dbfs": -49.094
+      }
+    },
+    {
+      "id": "30",
+      "name": "Digital Celesta Memory",
+      "sample_key": "dsp",
+      "engine": "Original Offline DSP v12",
+      "synth_patch": "fm_bell",
+      "synth_config": {
+        "fm_index": 0.85,
+        "amplitude": 0.035
+      },
+      "preset_file": "historical-workspace/tmp/orchestral-v12/synth_presets.json",
+      "engine_file": "historical-workspace/tmp/orchestral-v12/synth_engine.py",
+      "wav": "historical-workspace/tmp/orchestral-v12/stems_raw/30.wav",
+      "midi": "historical-workspace/tmp/orchestral-v12/midi/30.mid",
+      "sfz": null,
+      "ok": true,
+      "selection": {
+        "mode": "original_dsp",
+        "patch": "fm_bell"
+      },
+      "audio": {
+        "finite": true,
+        "nonzero": true,
+        "seconds": 281.06666666666666,
+        "frames": 13491200,
+        "sample_rate": 48000,
+        "peak_dbfs": -34.401,
+        "rms_dbfs": -56.777
+      }
+    },
+    {
+      "id": "31",
+      "name": "PWM Brass Upper",
+      "sample_key": "dsp",
+      "engine": "Original Offline DSP v12",
+      "synth_patch": "synth_brass",
+      "synth_config": {},
+      "preset_file": "historical-workspace/tmp/orchestral-v12/synth_presets.json",
+      "engine_file": "historical-workspace/tmp/orchestral-v12/synth_engine.py",
+      "wav": "historical-workspace/tmp/orchestral-v12/stems_raw/31.wav",
+      "midi": "historical-workspace/tmp/orchestral-v12/midi/31.mid",
+      "sfz": null,
+      "ok": true,
+      "selection": {
+        "mode": "original_dsp",
+        "patch": "synth_brass"
+      },
+      "audio": {
+        "finite": true,
+        "nonzero": true,
+        "seconds": 281.06666666666666,
+        "frames": 13491200,
+        "sample_rate": 48000,
+        "peak_dbfs": -24.362,
+        "rms_dbfs": -40.86
+      }
+    },
+    {
+      "id": "32",
+      "name": "PWM Brass Middle",
+      "sample_key": "dsp",
+      "engine": "Original Offline DSP v12",
+      "synth_patch": "synth_brass",
+      "synth_config": {},
+      "preset_file": "historical-workspace/tmp/orchestral-v12/synth_presets.json",
+      "engine_file": "historical-workspace/tmp/orchestral-v12/synth_engine.py",
+      "wav": "historical-workspace/tmp/orchestral-v12/stems_raw/32.wav",
+      "midi": "historical-workspace/tmp/orchestral-v12/midi/32.mid",
+      "sfz": null,
+      "ok": true,
+      "selection": {
+        "mode": "original_dsp",
+        "patch": "synth_brass"
+      },
+      "audio": {
+        "finite": true,
+        "nonzero": true,
+        "seconds": 281.06666666666666,
+        "frames": 13491200,
+        "sample_rate": 48000,
+        "peak_dbfs": -24.011,
+        "rms_dbfs": -44.474
+      }
+    },
+    {
+      "id": "33",
+      "name": "Neon Brass Upper",
+      "sample_key": "dsp",
+      "engine": "Original Offline DSP v12",
+      "synth_patch": "synth_brass",
+      "synth_config": {},
+      "preset_file": "historical-workspace/tmp/orchestral-v12/synth_presets.json",
+      "engine_file": "historical-workspace/tmp/orchestral-v12/synth_engine.py",
+      "wav": "historical-workspace/tmp/orchestral-v12/stems_raw/33.wav",
+      "midi": "historical-workspace/tmp/orchestral-v12/midi/33.mid",
+      "sfz": null,
+      "ok": true,
+      "selection": {
+        "mode": "original_dsp",
+        "patch": "synth_brass"
+      },
+      "audio": {
+        "finite": true,
+        "nonzero": true,
+        "seconds": 281.06666666666666,
+        "frames": 13491200,
+        "sample_rate": 48000,
+        "peak_dbfs": -24.777,
+        "rms_dbfs": -45.964
+      }
+    },
+    {
+      "id": "34",
+      "name": "Neon Brass Middle",
+      "sample_key": "dsp",
+      "engine": "Original Offline DSP v12",
+      "synth_patch": "synth_brass",
+      "synth_config": {},
+      "preset_file": "historical-workspace/tmp/orchestral-v12/synth_presets.json",
+      "engine_file": "historical-workspace/tmp/orchestral-v12/synth_engine.py",
+      "wav": "historical-workspace/tmp/orchestral-v12/stems_raw/34.wav",
+      "midi": "historical-workspace/tmp/orchestral-v12/midi/34.mid",
+      "sfz": null,
+      "ok": true,
+      "selection": {
+        "mode": "original_dsp",
+        "patch": "synth_brass"
+      },
+      "audio": {
+        "finite": true,
+        "nonzero": true,
+        "seconds": 281.06666666666666,
+        "frames": 13491200,
+        "sample_rate": 48000,
+        "peak_dbfs": -26.293,
+        "rms_dbfs": -46.411
+      }
+    },
+    {
+      "id": "35",
+      "name": "Low Synth Brass",
+      "sample_key": "dsp",
+      "engine": "Original Offline DSP v12",
+      "synth_patch": "synth_brass",
+      "synth_config": {},
+      "preset_file": "historical-workspace/tmp/orchestral-v12/synth_presets.json",
+      "engine_file": "historical-workspace/tmp/orchestral-v12/synth_engine.py",
+      "wav": "historical-workspace/tmp/orchestral-v12/stems_raw/35.wav",
+      "midi": "historical-workspace/tmp/orchestral-v12/midi/35.mid",
+      "sfz": null,
+      "ok": true,
+      "selection": {
+        "mode": "original_dsp",
+        "patch": "synth_brass"
+      },
+      "audio": {
+        "finite": true,
+        "nonzero": true,
+        "seconds": 281.06666666666666,
+        "frames": 13491200,
+        "sample_rate": 48000,
+        "peak_dbfs": -26.752,
+        "rms_dbfs": -46.124
+      }
+    },
+    {
+      "id": "36",
+      "name": "Deep Synth Brass",
+      "sample_key": "dsp",
+      "engine": "Original Offline DSP v12",
+      "synth_patch": "synth_brass",
+      "synth_config": {},
+      "preset_file": "historical-workspace/tmp/orchestral-v12/synth_presets.json",
+      "engine_file": "historical-workspace/tmp/orchestral-v12/synth_engine.py",
+      "wav": "historical-workspace/tmp/orchestral-v12/stems_raw/36.wav",
+      "midi": "historical-workspace/tmp/orchestral-v12/midi/36.mid",
+      "sfz": null,
+      "ok": true,
+      "selection": {
+        "mode": "original_dsp",
+        "patch": "synth_brass"
+      },
+      "audio": {
+        "finite": true,
+        "nonzero": true,
+        "seconds": 281.06666666666666,
+        "frames": 13491200,
+        "sample_rate": 48000,
+        "peak_dbfs": -26.026,
+        "rms_dbfs": -47.079
+      }
+    },
+    {
+      "id": "37",
+      "name": "Mono Analog Bass",
+      "sample_key": "dsp",
+      "engine": "Original Offline DSP v12",
+      "synth_patch": "analog_bass",
+      "synth_config": {},
+      "preset_file": "historical-workspace/tmp/orchestral-v12/synth_presets.json",
+      "engine_file": "historical-workspace/tmp/orchestral-v12/synth_engine.py",
+      "wav": "historical-workspace/tmp/orchestral-v12/stems_raw/37.wav",
+      "midi": "historical-workspace/tmp/orchestral-v12/midi/37.mid",
+      "sfz": null,
+      "ok": true,
+      "selection": {
+        "mode": "original_dsp",
+        "patch": "analog_bass"
+      },
+      "audio": {
+        "finite": true,
+        "nonzero": true,
+        "seconds": 281.06666666666666,
+        "frames": 13491200,
+        "sample_rate": 48000,
+        "peak_dbfs": -23.627,
+        "rms_dbfs": -40.47
+      }
+    },
+    {
+      "id": "38",
+      "name": "Fundamental Bass Support",
+      "sample_key": "dsp",
+      "engine": "Original Offline DSP v12",
+      "synth_patch": "sub_bass",
+      "synth_config": {
+        "amplitude": 0.055
+      },
+      "preset_file": "historical-workspace/tmp/orchestral-v12/synth_presets.json",
+      "engine_file": "historical-workspace/tmp/orchestral-v12/synth_engine.py",
+      "wav": "historical-workspace/tmp/orchestral-v12/stems_raw/38.wav",
+      "midi": "historical-workspace/tmp/orchestral-v12/midi/38.mid",
+      "sfz": null,
+      "ok": true,
+      "selection": {
+        "mode": "original_dsp",
+        "patch": "sub_bass"
+      },
+      "audio": {
+        "finite": true,
+        "nonzero": true,
+        "seconds": 281.06666666666666,
+        "frames": 13491200,
+        "sample_rate": 48000,
+        "peak_dbfs": -30.408,
+        "rms_dbfs": -39.221
+      }
+    },
+    {
+      "id": "39",
+      "name": "FM Bass Pulse",
+      "sample_key": "dsp",
+      "engine": "Original Offline DSP v12",
+      "synth_patch": "glass_pluck",
+      "synth_config": {
+        "fm_index": 0.6,
+        "fm_layer": 0.02
+      },
+      "preset_file": "historical-workspace/tmp/orchestral-v12/synth_presets.json",
+      "engine_file": "historical-workspace/tmp/orchestral-v12/synth_engine.py",
+      "wav": "historical-workspace/tmp/orchestral-v12/stems_raw/39.wav",
+      "midi": "historical-workspace/tmp/orchestral-v12/midi/39.mid",
+      "sfz": null,
+      "ok": true,
+      "selection": {
+        "mode": "original_dsp",
+        "patch": "glass_pluck"
+      },
+      "audio": {
+        "finite": true,
+        "nonzero": true,
+        "seconds": 281.06666666666666,
+        "frames": 13491200,
+        "sample_rate": 48000,
+        "peak_dbfs": -27.741,
+        "rms_dbfs": -44.692
+      }
+    },
+    {
+      "id": "40",
+      "name": "Pulse Chord Clock",
+      "sample_key": "dsp",
+      "engine": "Original Offline DSP v12",
+      "synth_patch": "pulse_arp",
+      "synth_config": {},
+      "preset_file": "historical-workspace/tmp/orchestral-v12/synth_presets.json",
+      "engine_file": "historical-workspace/tmp/orchestral-v12/synth_engine.py",
+      "wav": "historical-workspace/tmp/orchestral-v12/stems_raw/40.wav",
+      "midi": "historical-workspace/tmp/orchestral-v12/midi/40.mid",
+      "sfz": null,
+      "ok": true,
+      "selection": {
+        "mode": "original_dsp",
+        "patch": "pulse_arp"
+      },
+      "audio": {
+        "finite": true,
+        "nonzero": true,
+        "seconds": 281.06666666666666,
+        "frames": 13491200,
+        "sample_rate": 48000,
+        "peak_dbfs": -30.687,
+        "rms_dbfs": -50.005
+      }
+    },
+    {
+      "id": "41",
+      "name": "Glass Chord Arpeggio",
+      "sample_key": "dsp",
+      "engine": "Original Offline DSP v12",
+      "synth_patch": "glass_pluck",
+      "synth_config": {},
+      "preset_file": "historical-workspace/tmp/orchestral-v12/synth_presets.json",
+      "engine_file": "historical-workspace/tmp/orchestral-v12/synth_engine.py",
+      "wav": "historical-workspace/tmp/orchestral-v12/stems_raw/41.wav",
+      "midi": "historical-workspace/tmp/orchestral-v12/midi/41.mid",
+      "sfz": null,
+      "ok": true,
+      "selection": {
+        "mode": "original_dsp",
+        "patch": "glass_pluck"
+      },
+      "audio": {
+        "finite": true,
+        "nonzero": true,
+        "seconds": 281.06666666666666,
+        "frames": 13491200,
+        "sample_rate": 48000,
+        "peak_dbfs": -30.381,
+        "rms_dbfs": -44.075
+      }
+    },
+    {
+      "id": "42",
+      "name": "Saw Upper Ostinato",
+      "sample_key": "dsp",
+      "engine": "Original Offline DSP v12",
+      "synth_patch": "saw_arp",
+      "synth_config": {},
+      "preset_file": "historical-workspace/tmp/orchestral-v12/synth_presets.json",
+      "engine_file": "historical-workspace/tmp/orchestral-v12/synth_engine.py",
+      "wav": "historical-workspace/tmp/orchestral-v12/stems_raw/42.wav",
+      "midi": "historical-workspace/tmp/orchestral-v12/midi/42.mid",
+      "sfz": null,
+      "ok": true,
+      "selection": {
+        "mode": "original_dsp",
+        "patch": "saw_arp"
+      },
+      "audio": {
+        "finite": true,
+        "nonzero": true,
+        "seconds": 281.06666666666666,
+        "frames": 13491200,
+        "sample_rate": 48000,
+        "peak_dbfs": -28.21,
+        "rms_dbfs": -52.367
+      }
+    },
+    {
+      "id": "43",
+      "name": "Pulse Middle Ostinato",
+      "sample_key": "dsp",
+      "engine": "Original Offline DSP v12",
+      "synth_patch": "pulse_arp",
+      "synth_config": {},
+      "preset_file": "historical-workspace/tmp/orchestral-v12/synth_presets.json",
+      "engine_file": "historical-workspace/tmp/orchestral-v12/synth_engine.py",
+      "wav": "historical-workspace/tmp/orchestral-v12/stems_raw/43.wav",
+      "midi": "historical-workspace/tmp/orchestral-v12/midi/43.mid",
+      "sfz": null,
+      "ok": true,
+      "selection": {
+        "mode": "original_dsp",
+        "patch": "pulse_arp"
+      },
+      "audio": {
+        "finite": true,
+        "nonzero": true,
+        "seconds": 281.06666666666666,
+        "frames": 13491200,
+        "sample_rate": 48000,
+        "peak_dbfs": -30.821,
+        "rms_dbfs": -53.76
+      }
+    },
+    {
+      "id": "44",
+      "name": "Low Sync Ostinato",
+      "sample_key": "dsp",
+      "engine": "Original Offline DSP v12",
+      "synth_patch": "analog_bass",
+      "synth_config": {
+        "sub": 0,
+        "amplitude": 0.045,
+        "cutoff_dark": 500,
+        "cutoff_bright": 1800
+      },
+      "preset_file": "historical-workspace/tmp/orchestral-v12/synth_presets.json",
+      "engine_file": "historical-workspace/tmp/orchestral-v12/synth_engine.py",
+      "wav": "historical-workspace/tmp/orchestral-v12/stems_raw/44.wav",
+      "midi": "historical-workspace/tmp/orchestral-v12/midi/44.mid",
+      "sfz": null,
+      "ok": true,
+      "selection": {
+        "mode": "original_dsp",
+        "patch": "analog_bass"
+      },
+      "audio": {
+        "finite": true,
+        "nonzero": true,
+        "seconds": 281.06666666666666,
+        "frames": 13491200,
+        "sample_rate": 48000,
+        "peak_dbfs": -28.959,
+        "rms_dbfs": -48.963
+      }
+    },
+    {
+      "id": "45",
+      "name": "Low Complementary Arp",
+      "sample_key": "dsp",
+      "engine": "Original Offline DSP v12",
+      "synth_patch": "pulse_arp",
+      "synth_config": {},
+      "preset_file": "historical-workspace/tmp/orchestral-v12/synth_presets.json",
+      "engine_file": "historical-workspace/tmp/orchestral-v12/synth_engine.py",
+      "wav": "historical-workspace/tmp/orchestral-v12/stems_raw/45.wav",
+      "midi": "historical-workspace/tmp/orchestral-v12/midi/45.mid",
+      "sfz": null,
+      "ok": true,
+      "selection": {
+        "mode": "original_dsp",
+        "patch": "pulse_arp"
+      },
+      "audio": {
+        "finite": true,
+        "nonzero": true,
+        "seconds": 281.06666666666666,
+        "frames": 13491200,
+        "sample_rate": 48000,
+        "peak_dbfs": -31.49,
+        "rms_dbfs": -48.433
+      }
+    },
+    {
+      "id": "46",
+      "name": "Middle Offbeat Arp",
+      "sample_key": "dsp",
+      "engine": "Original Offline DSP v12",
+      "synth_patch": "saw_arp",
+      "synth_config": {},
+      "preset_file": "historical-workspace/tmp/orchestral-v12/synth_presets.json",
+      "engine_file": "historical-workspace/tmp/orchestral-v12/synth_engine.py",
+      "wav": "historical-workspace/tmp/orchestral-v12/stems_raw/46.wav",
+      "midi": "historical-workspace/tmp/orchestral-v12/midi/46.mid",
+      "sfz": null,
+      "ok": true,
+      "selection": {
+        "mode": "original_dsp",
+        "patch": "saw_arp"
+      },
+      "audio": {
+        "finite": true,
+        "nonzero": true,
+        "seconds": 281.06666666666666,
+        "frames": 13491200,
+        "sample_rate": 48000,
+        "peak_dbfs": -29.575,
+        "rms_dbfs": -52.33
+      }
+    },
+    {
+      "id": "47",
+      "name": "High Glass Arp",
+      "sample_key": "dsp",
+      "engine": "Original Offline DSP v12",
+      "synth_patch": "glass_pluck",
+      "synth_config": {
+        "fm_index": 0.7,
+        "amplitude": 0.04
+      },
+      "preset_file": "historical-workspace/tmp/orchestral-v12/synth_presets.json",
+      "engine_file": "historical-workspace/tmp/orchestral-v12/synth_engine.py",
+      "wav": "historical-workspace/tmp/orchestral-v12/stems_raw/47.wav",
+      "midi": "historical-workspace/tmp/orchestral-v12/midi/47.mid",
+      "sfz": null,
+      "ok": true,
+      "selection": {
+        "mode": "original_dsp",
+        "patch": "glass_pluck"
+      },
+      "audio": {
+        "finite": true,
+        "nonzero": true,
+        "seconds": 281.06666666666666,
+        "frames": 13491200,
+        "sample_rate": 48000,
+        "peak_dbfs": -33.266,
+        "rms_dbfs": -55.653
+      }
+    },
+    {
+      "id": "48",
+      "name": "Chorus Electric Guitar",
+      "sample_key": "shinyguitar",
+      "engine": "sfizz 1.2.3 float API",
+      "sfz": "historical-workspace/tmp/orchestral-v7/assets/guitar/shinyguitar/Shinyguitar/Programs/sfizz_main_absolute.sfz",
+      "midi": "historical-workspace/tmp/orchestral-v12/midi/48.mid",
+      "wav": "historical-workspace/tmp/orchestral-v12/stems/48.wav",
+      "signature": "2d62f924ab5c67e7c46e28a513564992d84af6164664d46643f45fb7de892cc6",
+      "cached": false,
+      "selection": {
+        "mode": "direct",
+        "render_midi_transpose": 0
+      },
+      "dependencies": {
+        "sfz_files_checked": 1,
+        "sample_files_checked": 846,
+        "missing_samples": []
+      },
+      "audio": {
+        "sample_rate": 48000,
+        "channels": 2,
+        "frames": 11394048,
+        "seconds": 237.376,
+        "subtype": "FLOAT",
+        "peak": 0.14482425153255463,
+        "rms": 0.016081925214217675,
+        "peak_dbfs": -16.783174146082178,
+        "finite": true,
+        "nonzero": true
+      },
+      "exit_code": 0,
+      "log_path": "historical-workspace/tmp/orchestral-v12/render_work/48.log",
+      "log_errors": [],
+      "render_seconds": 8.279359875014052,
+      "ok": true,
+      "quiet_residual_tail_stopped": false,
+      "mix_gain_db": 0,
+      "mix_pan": -0.5
+    },
+    {
+      "id": "49",
+      "name": "Muted Electric Guitar",
+      "sample_key": "shinyguitar",
+      "engine": "sfizz 1.2.3 float API",
+      "sfz": "historical-workspace/tmp/orchestral-v7/assets/guitar/shinyguitar/Shinyguitar/Programs/sfizz_main_absolute.sfz",
+      "midi": "historical-workspace/tmp/orchestral-v12/midi/49.mid",
+      "wav": "historical-workspace/tmp/orchestral-v12/stems/49.wav",
+      "signature": "baf3046de372279c869c4b6e38bf13c01c36b69c9243bf91f6d99301e0b55308",
+      "cached": false,
+      "selection": {
+        "mode": "direct",
+        "render_midi_transpose": 0
+      },
+      "dependencies": {
+        "sfz_files_checked": 1,
+        "sample_files_checked": 846,
+        "missing_samples": []
+      },
+      "audio": {
+        "sample_rate": 48000,
+        "channels": 2,
+        "frames": 11040768,
+        "seconds": 230.016,
+        "subtype": "FLOAT",
+        "peak": 0.20577582716941833,
+        "rms": 0.003676125150946256,
+        "peak_dbfs": -13.732112877528639,
+        "finite": true,
+        "nonzero": true
+      },
+      "exit_code": 0,
+      "log_path": "historical-workspace/tmp/orchestral-v12/render_work/49.log",
+      "log_errors": [],
+      "render_seconds": 4.675422416999936,
+      "ok": true,
+      "quiet_residual_tail_stopped": false,
+      "mix_gain_db": 0,
+      "mix_pan": 0.5
+    },
+    {
+      "id": "50",
+      "name": "Neon Alto Sax Colour",
+      "sample_key": "weresax",
+      "engine": "sfizz 1.2.3 float API",
+      "sfz": "historical-workspace/tmp/orchestral-v7/assets/sax/library/Weresax/Programs/Sax (sfizz native).sfz",
+      "midi": "historical-workspace/tmp/orchestral-v12/midi/50.mid",
+      "wav": "historical-workspace/tmp/orchestral-v12/stems/50.wav",
+      "signature": "9cf093e650c0ab14681a382094d4a1d4cc0581971cee5b515e596dfad975feab",
+      "cached": false,
+      "selection": {
+        "mode": "direct",
+        "render_midi_transpose": 0
+      },
+      "dependencies": {
+        "sfz_files_checked": 6,
+        "sample_files_checked": 256,
+        "missing_samples": []
+      },
+      "audio": {
+        "sample_rate": 48000,
+        "channels": 2,
+        "frames": 13174784,
+        "seconds": 274.4746666666667,
+        "subtype": "FLOAT",
+        "peak": 0.0831480622291565,
+        "rms": 0.009240972358555477,
+        "peak_dbfs": -21.602957351737295,
+        "finite": true,
+        "nonzero": true
+      },
+      "exit_code": 0,
+      "log_path": "historical-workspace/tmp/orchestral-v12/render_work/50.log",
+      "log_errors": [],
+      "render_seconds": 2.638960375013994,
+      "ok": true,
+      "quiet_residual_tail_stopped": false,
+      "mix_gain_db": 0,
+      "mix_pan": 0.18
+    },
+    {
+      "id": "51",
+      "name": "Vocoder Middle Chords",
+      "sample_key": "dsp",
+      "engine": "Original Offline DSP v12",
+      "synth_patch": "airy_choir",
+      "synth_config": {},
+      "preset_file": "historical-workspace/tmp/orchestral-v12/synth_presets.json",
+      "engine_file": "historical-workspace/tmp/orchestral-v12/synth_engine.py",
+      "wav": "historical-workspace/tmp/orchestral-v12/stems_raw/51.wav",
+      "midi": "historical-workspace/tmp/orchestral-v12/midi/51.mid",
+      "sfz": null,
+      "ok": true,
+      "selection": {
+        "mode": "original_dsp",
+        "patch": "airy_choir"
+      },
+      "audio": {
+        "finite": true,
+        "nonzero": true,
+        "seconds": 281.06666666666666,
+        "frames": 13491200,
+        "sample_rate": 48000,
+        "peak_dbfs": -20.691,
+        "rms_dbfs": -45.741
+      }
+    },
+    {
+      "id": "52",
+      "name": "Vocoder Wide Chords",
+      "sample_key": "dsp",
+      "engine": "Original Offline DSP v12",
+      "synth_patch": "airy_choir",
+      "synth_config": {},
+      "preset_file": "historical-workspace/tmp/orchestral-v12/synth_presets.json",
+      "engine_file": "historical-workspace/tmp/orchestral-v12/synth_engine.py",
+      "wav": "historical-workspace/tmp/orchestral-v12/stems_raw/52.wav",
+      "midi": "historical-workspace/tmp/orchestral-v12/midi/52.mid",
+      "sfz": null,
+      "ok": true,
+      "selection": {
+        "mode": "original_dsp",
+        "patch": "airy_choir"
+      },
+      "audio": {
+        "finite": true,
+        "nonzero": true,
+        "seconds": 281.06666666666666,
+        "frames": 13491200,
+        "sample_rate": 48000,
+        "peak_dbfs": -20.309,
+        "rms_dbfs": -43.999
+      }
+    },
+    {
+      "id": "53",
+      "name": "Analog 808 Kick",
+      "sample_key": "dsp",
+      "engine": "Original Offline DSP v12",
+      "synth_patch": "kick_808",
+      "synth_config": {},
+      "preset_file": "historical-workspace/tmp/orchestral-v12/synth_presets.json",
+      "engine_file": "historical-workspace/tmp/orchestral-v12/synth_engine.py",
+      "wav": "historical-workspace/tmp/orchestral-v12/stems_raw/53.wav",
+      "midi": "historical-workspace/tmp/orchestral-v12/midi/53.mid",
+      "sfz": null,
+      "ok": true,
+      "selection": {
+        "mode": "original_dsp",
+        "patch": "kick_808"
+      },
+      "audio": {
+        "finite": true,
+        "nonzero": true,
+        "seconds": 281.06666666666666,
+        "frames": 13491200,
+        "sample_rate": 48000,
+        "peak_dbfs": -23.375,
+        "rms_dbfs": -40.579
+      }
+    },
+    {
+      "id": "54",
+      "name": "Gated 707 Snare",
+      "sample_key": "dsp",
+      "engine": "Original Offline DSP v12",
+      "synth_patch": "snare_707",
+      "synth_config": {},
+      "preset_file": "historical-workspace/tmp/orchestral-v12/synth_presets.json",
+      "engine_file": "historical-workspace/tmp/orchestral-v12/synth_engine.py",
+      "wav": "historical-workspace/tmp/orchestral-v12/stems_raw/54.wav",
+      "midi": "historical-workspace/tmp/orchestral-v12/midi/54.mid",
+      "sfz": null,
+      "ok": true,
+      "selection": {
+        "mode": "original_dsp",
+        "patch": "snare_707"
+      },
+      "audio": {
+        "finite": true,
+        "nonzero": true,
+        "seconds": 281.06666666666666,
+        "frames": 13491200,
+        "sample_rate": 48000,
+        "peak_dbfs": -18.905,
+        "rms_dbfs": -47.978
+      }
+    },
+    {
+      "id": "55",
+      "name": "Soft 80s Clap",
+      "sample_key": "dsp",
+      "engine": "Original Offline DSP v12",
+      "synth_patch": "clap_80s",
+      "synth_config": {
+        "amplitude": 0.045
+      },
+      "preset_file": "historical-workspace/tmp/orchestral-v12/synth_presets.json",
+      "engine_file": "historical-workspace/tmp/orchestral-v12/synth_engine.py",
+      "wav": "historical-workspace/tmp/orchestral-v12/stems_raw/55.wav",
+      "midi": "historical-workspace/tmp/orchestral-v12/midi/55.mid",
+      "sfz": null,
+      "ok": true,
+      "selection": {
+        "mode": "original_dsp",
+        "patch": "clap_80s"
+      },
+      "audio": {
+        "finite": true,
+        "nonzero": true,
+        "seconds": 281.06666666666666,
+        "frames": 13491200,
+        "sample_rate": 48000,
+        "peak_dbfs": -31.026,
+        "rms_dbfs": -68.745
+      }
+    },
+    {
+      "id": "56",
+      "name": "Closed Digital Hat",
+      "sample_key": "dsp",
+      "engine": "Original Offline DSP v12",
+      "synth_patch": "closed_hat",
+      "synth_config": {},
+      "preset_file": "historical-workspace/tmp/orchestral-v12/synth_presets.json",
+      "engine_file": "historical-workspace/tmp/orchestral-v12/synth_engine.py",
+      "wav": "historical-workspace/tmp/orchestral-v12/stems_raw/56.wav",
+      "midi": "historical-workspace/tmp/orchestral-v12/midi/56.mid",
+      "sfz": null,
+      "ok": true,
+      "selection": {
+        "mode": "original_dsp",
+        "patch": "closed_hat"
+      },
+      "audio": {
+        "finite": true,
+        "nonzero": true,
+        "seconds": 281.06666666666666,
+        "frames": 13491200,
+        "sample_rate": 48000,
+        "peak_dbfs": -35.325,
+        "rms_dbfs": -63.116
+      }
+    },
+    {
+      "id": "57",
+      "name": "Open Digital Hat",
+      "sample_key": "dsp",
+      "engine": "Original Offline DSP v12",
+      "synth_patch": "open_hat",
+      "synth_config": {},
+      "preset_file": "historical-workspace/tmp/orchestral-v12/synth_presets.json",
+      "engine_file": "historical-workspace/tmp/orchestral-v12/synth_engine.py",
+      "wav": "historical-workspace/tmp/orchestral-v12/stems_raw/57.wav",
+      "midi": "historical-workspace/tmp/orchestral-v12/midi/57.mid",
+      "sfz": null,
+      "ok": true,
+      "selection": {
+        "mode": "original_dsp",
+        "patch": "open_hat"
+      },
+      "audio": {
+        "finite": true,
+        "nonzero": true,
+        "seconds": 281.06666666666666,
+        "frames": 13491200,
+        "sample_rate": 48000,
+        "peak_dbfs": -33.697,
+        "rms_dbfs": -68.749
+      }
+    },
+    {
+      "id": "58",
+      "name": "Electronic Low Tom",
+      "sample_key": "dsp",
+      "engine": "Original Offline DSP v12",
+      "synth_patch": "tom_80s",
+      "synth_config": {
+        "amplitude": 0.065
+      },
+      "preset_file": "historical-workspace/tmp/orchestral-v12/synth_presets.json",
+      "engine_file": "historical-workspace/tmp/orchestral-v12/synth_engine.py",
+      "wav": "historical-workspace/tmp/orchestral-v12/stems_raw/58.wav",
+      "midi": "historical-workspace/tmp/orchestral-v12/midi/58.mid",
+      "sfz": null,
+      "ok": true,
+      "selection": {
+        "mode": "original_dsp",
+        "patch": "tom_80s"
+      },
+      "audio": {
+        "finite": true,
+        "nonzero": true,
+        "seconds": 281.06666666666666,
+        "frames": 13491200,
+        "sample_rate": 48000,
+        "peak_dbfs": -31.75,
+        "rms_dbfs": -58.849
+      }
+    },
+    {
+      "id": "59",
+      "name": "Short Electronic Rim",
+      "sample_key": "dsp",
+      "engine": "Original Offline DSP v12",
+      "synth_patch": "clap_80s",
+      "synth_config": {
+        "release": 0.085,
+        "amplitude": 0.035
+      },
+      "preset_file": "historical-workspace/tmp/orchestral-v12/synth_presets.json",
+      "engine_file": "historical-workspace/tmp/orchestral-v12/synth_engine.py",
+      "wav": "historical-workspace/tmp/orchestral-v12/stems_raw/59.wav",
+      "midi": "historical-workspace/tmp/orchestral-v12/midi/59.mid",
+      "sfz": null,
+      "ok": true,
+      "selection": {
+        "mode": "original_dsp",
+        "patch": "clap_80s"
+      },
+      "audio": {
+        "finite": true,
+        "nonzero": true,
+        "seconds": 281.06666666666666,
+        "frames": 13491200,
+        "sample_rate": 48000,
+        "peak_dbfs": -33.724,
+        "rms_dbfs": -69.88
+      }
+    },
+    {
+      "id": "60",
+      "name": "Soft Noise Crash",
+      "sample_key": "dsp",
+      "engine": "Original Offline DSP v12",
+      "synth_patch": "open_hat",
+      "synth_config": {
+        "release": 0.9,
+        "amplitude": 0.03
+      },
+      "preset_file": "historical-workspace/tmp/orchestral-v12/synth_presets.json",
+      "engine_file": "historical-workspace/tmp/orchestral-v12/synth_engine.py",
+      "wav": "historical-workspace/tmp/orchestral-v12/stems_raw/60.wav",
+      "midi": "historical-workspace/tmp/orchestral-v12/midi/60.mid",
+      "sfz": null,
+      "ok": true,
+      "selection": {
+        "mode": "original_dsp",
+        "patch": "open_hat"
+      },
+      "audio": {
+        "finite": true,
+        "nonzero": true,
+        "seconds": 281.06666666666666,
+        "frames": 13491200,
+        "sample_rate": 48000,
+        "peak_dbfs": -36.768,
+        "rms_dbfs": -75.723
+      }
+    },
+    {
+      "id": "61",
+      "name": "Digital Chime Glints",
+      "sample_key": "dsp",
+      "engine": "Original Offline DSP v12",
+      "synth_patch": "soft_chime",
+      "synth_config": {
+        "amplitude": 0.027
+      },
+      "preset_file": "historical-workspace/tmp/orchestral-v12/synth_presets.json",
+      "engine_file": "historical-workspace/tmp/orchestral-v12/synth_engine.py",
+      "wav": "historical-workspace/tmp/orchestral-v12/stems_raw/61.wav",
+      "midi": "historical-workspace/tmp/orchestral-v12/midi/61.mid",
+      "sfz": null,
+      "ok": true,
+      "selection": {
+        "mode": "original_dsp",
+        "patch": "soft_chime"
+      },
+      "audio": {
+        "finite": true,
+        "nonzero": true,
+        "seconds": 281.06666666666666,
+        "frames": 13491200,
+        "sample_rate": 48000,
+        "peak_dbfs": -35.612,
+        "rms_dbfs": -68.909
+      }
+    },
+    {
+      "id": "62",
+      "name": "High Neon Chimes",
+      "sample_key": "dsp",
+      "engine": "Original Offline DSP v12",
+      "synth_patch": "soft_chime",
+      "synth_config": {
+        "amplitude": 0.018,
+        "release": 0.4
+      },
+      "preset_file": "historical-workspace/tmp/orchestral-v12/synth_presets.json",
+      "engine_file": "historical-workspace/tmp/orchestral-v12/synth_engine.py",
+      "wav": "historical-workspace/tmp/orchestral-v12/stems_raw/62.wav",
+      "midi": "historical-workspace/tmp/orchestral-v12/midi/62.mid",
+      "sfz": null,
+      "ok": true,
+      "selection": {
+        "mode": "original_dsp",
+        "patch": "soft_chime"
+      },
+      "audio": {
+        "finite": true,
+        "nonzero": true,
+        "seconds": 281.06666666666666,
+        "frames": 13491200,
+        "sample_rate": 48000,
+        "peak_dbfs": -39.264,
+        "rms_dbfs": -75.003
+      }
+    },
+    {
+      "id": "63",
+      "name": "Glass Harmonic Sparkle",
+      "sample_key": "dsp",
+      "engine": "Original Offline DSP v12",
+      "synth_patch": "glass_pluck",
+      "synth_config": {
+        "amplitude": 0.032,
+        "fm_index": 0.65
+      },
+      "preset_file": "historical-workspace/tmp/orchestral-v12/synth_presets.json",
+      "engine_file": "historical-workspace/tmp/orchestral-v12/synth_engine.py",
+      "wav": "historical-workspace/tmp/orchestral-v12/stems_raw/63.wav",
+      "midi": "historical-workspace/tmp/orchestral-v12/midi/63.mid",
+      "sfz": null,
+      "ok": true,
+      "selection": {
+        "mode": "original_dsp",
+        "patch": "glass_pluck"
+      },
+      "audio": {
+        "finite": true,
+        "nonzero": true,
+        "seconds": 281.06666666666666,
+        "frames": 13491200,
+        "sample_rate": 48000,
+        "peak_dbfs": -33.723,
+        "rms_dbfs": -58.396
+      }
+    },
+    {
+      "id": "64",
+      "name": "Digital Triangle Spark",
+      "sample_key": "dsp",
+      "engine": "Original Offline DSP v12",
+      "synth_patch": "soft_chime",
+      "synth_config": {
+        "amplitude": 0.018,
+        "decay": 0.3,
+        "release": 0.25
+      },
+      "preset_file": "historical-workspace/tmp/orchestral-v12/synth_presets.json",
+      "engine_file": "historical-workspace/tmp/orchestral-v12/synth_engine.py",
+      "wav": "historical-workspace/tmp/orchestral-v12/stems_raw/64.wav",
+      "midi": "historical-workspace/tmp/orchestral-v12/midi/64.mid",
+      "sfz": null,
+      "ok": true,
+      "selection": {
+        "mode": "original_dsp",
+        "patch": "soft_chime"
+      },
+      "audio": {
+        "finite": true,
+        "nonzero": true,
+        "seconds": 281.06666666666666,
+        "frames": 13491200,
+        "sample_rate": 48000,
+        "peak_dbfs": -42.269,
+        "rms_dbfs": -76.886
+      }
+    }
+  ],
+  "original_orchestral_stems_reused": false,
+  "dsp_parts": 61,
+  "native_sfz_parts": 3
+}

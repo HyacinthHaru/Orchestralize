@@ -1,0 +1,301 @@
+{
+  "schema_version": 1,
+  "algorithm": "sha256",
+  "exclusions": [],
+  "roots": {
+    "skill": {
+      "README.md": {
+        "bytes": 1848,
+        "sha256": "983ab698dea64dce27b56592de7d8873e6dc26d1a056a2786b2f604c7d879a05"
+      },
+      "SKILL.md": {
+        "bytes": 6617,
+        "sha256": "dca1819ba59ec45ddb1543d058c2fb7972c8e407c819e80c72d4c104c3806f16"
+      },
+      "VALIDATION.json": {
+        "bytes": 5691,
+        "sha256": "db98177fe7de5af44c6003d3f4779163f313eacba5f3b6b09e98cc718f7433fa"
+      },
+      "agents/openai.yaml": {
+        "bytes": 307,
+        "sha256": "279a3945548c4d9d859661313f15e09d7c5cf7ae3b0ba7e284c25be388bc7374"
+      },
+      "assets/demo-project.json": {
+        "bytes": 20282,
+        "sha256": "f5181515d9b7fea6b4b07a84cb8a5d84ca5b271cbdd3c025d0f341cb3b7be478"
+      },
+      "assets/style-profiles.json": {
+        "bytes": 2579,
+        "sha256": "5e3873a572f3d9e57f70f7f8ae39c3f4d7406a1df7433b77b2f9091b1f1da896"
+      },
+      "assets/synth_presets.json": {
+        "bytes": 6301,
+        "sha256": "05b1696dbf845b3d19271f6a2e7e4fab3174590b35a576b32b0401468df92d62"
+      },
+      "assets/templates/project.json": {
+        "bytes": 754,
+        "sha256": "b268d0470a0000ace8da480cf88e2e8c0d99d7b9fb8aa9a6147bbeab2b13bed1"
+      },
+      "references/arrangement.md": {
+        "bytes": 2883,
+        "sha256": "3225aee6555772da59abed2c73cd3d4d68b0ca3d2d331e10ecd25caee0225841"
+      },
+      "references/case-study/canonical-performance-baseline.json": {
+        "bytes": 193619,
+        "sha256": "c277873e10f4b411c41d476b022e7df2cea73e9c1bd70468b404fb87263a4818"
+      },
+      "references/case-study/case-files.json": {
+        "bytes": 10124,
+        "sha256": "169dee0322e1d1519235bad603702ba04ab316b53dee83528694108f2f91680d"
+      },
+      "references/case-study/grand-orchestral/MIDI_validation.json": {
+        "bytes": 178729,
+        "sha256": "ab19c3bbb48c059e3c7bf540d1ca90f58ca6533f54b91649700fb443729d7916"
+      },
+      "references/case-study/grand-orchestral/Sekai_Grand_Symphonic_v11.mid": {
+        "bytes": 785624,
+        "sha256": "c052045f2eb20bee27e52273092a2674fbad809cdacbcd02eb7d478872e98ffb"
+      },
+      "references/case-study/grand-orchestral/Sekai_Grand_Symphonic_v11.mp3": {
+        "bytes": 11245617,
+        "sha256": "573f2c3408c5ed332ffacb72eb7b054027b13928cb4f6eb3441f6c98bcd3a21e"
+      },
+      "references/case-study/grand-orchestral/Sekai_Grand_Symphonic_v11.musicxml": {
+        "bytes": 4774458,
+        "sha256": "000251c98217705020f01a69b460a84139c379521bb12a0b3426ced88cf3fae2"
+      },
+      "references/case-study/grand-orchestral/Sekai_Grand_Symphonic_v11_Native_Mapped.mid": {
+        "bytes": 796807,
+        "sha256": "73580deed6fb6b3437ce626521201dd2910df155de6820fcb9077a79976b0a88"
+      },
+      "references/case-study/grand-orchestral/Sekai_Grand_Symphonic_v11_Score.pdf": {
+        "bytes": 22530319,
+        "sha256": "1e162024194bed8aeee83b47d78d25ba338721e8fa3e146f49361f45187ef8df"
+      },
+      "references/case-study/grand-orchestral/arrangement_changes.json": {
+        "bytes": 2053,
+        "sha256": "705d5e2b75f9dd9c344e371f62a03b885fe62e364d0f02895486ff89517be192"
+      },
+      "references/case-study/grand-orchestral/audio_quality.json": {
+        "bytes": 365,
+        "sha256": "8b40227b2a2df7cc5c2c70cd448bb9a7acf029bc11f20a2e66f4b6c44680dd4e"
+      },
+      "references/case-study/grand-orchestral/historical-project.json": {
+        "bytes": 23325591,
+        "sha256": "23882e42b34b51cdff0b3b062d498e9146ffd733ce04f0a94e53560371762c5e"
+      },
+      "references/case-study/grand-orchestral/instrument_map.csv": {
+        "bytes": 3875,
+        "sha256": "0579c416e3b9ca36373b6a56aeadb72d284b4b9d3dd53e9398c7eabc09ac2fd9"
+      },
+      "references/case-study/grand-orchestral/licenses/GeneralUser_GS_v2.0.3_LICENSE.txt": {
+        "bytes": 2317,
+        "sha256": "7b32efefdf95ce38a043799f0659853ddc00fbaa14d8c50f0aca16b9b8b405be"
+      },
+      "references/case-study/grand-orchestral/licenses/Karoryfer_Shinyguitar_v1.002_LICENSE.txt": {
+        "bytes": 7167,
+        "sha256": "a19d58aaab15c4d0019e569d1c073d1b5286fdd37dbeee7a58a7d1ae76045ae1"
+      },
+      "references/case-study/grand-orchestral/licenses/Karoryfer_Weresax_v1.003_LICENSE.txt": {
+        "bytes": 7167,
+        "sha256": "a19d58aaab15c4d0019e569d1c073d1b5286fdd37dbeee7a58a7d1ae76045ae1"
+      },
+      "references/case-study/grand-orchestral/licenses/Sonatina_Symphonic_Orchestra_v4_LICENSE.txt": {
+        "bytes": 200,
+        "sha256": "30fc40ccc5a8a1e32e7220519b185c9a46d2c5094ff15bde64556fb7021d73b3"
+      },
+      "references/case-study/grand-orchestral/melody_fidelity.json": {
+        "bytes": 24359,
+        "sha256": "fd26bcb336a671c8f6c293de5bdb1948a319a07f19aa3b7c4a758c522f196950"
+      },
+      "references/case-study/grand-orchestral/mix_report.json": {
+        "bytes": 188417,
+        "sha256": "0431f8f89489a7d1ae27867d1a49bb67f4b1f49d7ea3b4a46cb6213d6761de4d"
+      },
+      "references/case-study/grand-orchestral/render_report.json": {
+        "bytes": 147919,
+        "sha256": "cc0c4af857b2dc13dd5cb50239bd9c04fe4de821c3566267f7518a87bd1d538a"
+      },
+      "references/case-study/grand-orchestral/score_validation.json": {
+        "bytes": 1670,
+        "sha256": "3b9482daf930b4a73942dac4ef4cabe721863b1dd4ea5a726bd4dcbd3ea6298f"
+      },
+      "references/case-study/historical-asset-checksums.json": {
+        "bytes": 1146885,
+        "sha256": "b707d2f7276946d4303691cedbe40ff555c6ef357b73c4ef1c36aee64320e3fd"
+      },
+      "references/case-study/historical-runtime-observed.json": {
+        "bytes": 4556,
+        "sha256": "02354b27574a1fe694617ab17e5c62ad9d800fd6bb323441bc34950b006570d3"
+      },
+      "references/case-study/preview_recipes.json": {
+        "bytes": 496,
+        "sha256": "418049f6096005e204937e0581e0e6fd63d3068661bb672c06d489625c1e7e23"
+      },
+      "references/case-study/production-retrospective.txt": {
+        "bytes": 19327,
+        "sha256": "79dda51e3a82de4c1f799de05c28e1ec5a3b91a74dbcfe865c4a61eed184a8c7"
+      },
+      "references/case-study/provenance_limits.json": {
+        "bytes": 1146,
+        "sha256": "bf0d9e8bab46a105bb2f1fcf6fda12651c3eb1e0ebceabdc4993cebd03ce3e0b"
+      },
+      "references/case-study/retro-electronic/MIDI_validation.json": {
+        "bytes": 373910,
+        "sha256": "d26ffa2fe0e0bd719f23802b6f71de803bda73511e765cfacf25fce069752183"
+      },
+      "references/case-study/retro-electronic/Native_Instrument_Mapping.json": {
+        "bytes": 274060,
+        "sha256": "0545b27efc03bdfa7f3f488dcecbb14ebb3d77e1823f29f38f79e2625bc4c0d0"
+      },
+      "references/case-study/retro-electronic/Sekai_NeoTokyo_198X_v12.mid": {
+        "bytes": 122918,
+        "sha256": "2a0832f25d0178940a171af48f7ebeda905aaff3b84e647626dad803873df5e0"
+      },
+      "references/case-study/retro-electronic/Sekai_NeoTokyo_198X_v12.mp3": {
+        "bytes": 11245625,
+        "sha256": "d12fc37305a3f6bfb64b01522e68e8a4106cb0e095a2c1a858446a0c1bbc6b5a"
+      },
+      "references/case-study/retro-electronic/Sekai_NeoTokyo_198X_v12.musicxml": {
+        "bytes": 5387398,
+        "sha256": "a21b834877dba3ee663dac36cc0b9d3bbdd81a4198617baab7e415024b7b3673"
+      },
+      "references/case-study/retro-electronic/Sekai_NeoTokyo_198X_v12_Native_Mapped.mid": {
+        "bytes": 129293,
+        "sha256": "c1049362f6d4276c6c24386e3f28ad51e1c7c891cb4b79abb9ae97eabdfa51db"
+      },
+      "references/case-study/retro-electronic/Sekai_NeoTokyo_198X_v12_Score.pdf": {
+        "bytes": 28356852,
+        "sha256": "7cbbe0a18e80db97e7c6842dff48eb72303d644b174532b0c5db9001f535b3b1"
+      },
+      "references/case-study/retro-electronic/arrangement_changes.json": {
+        "bytes": 629,
+        "sha256": "5a9a6c917a851e1e22891f4da2b43c66d814017e6de72f9a8c6a1e985a748a4d"
+      },
+      "references/case-study/retro-electronic/audio_quality.json": {
+        "bytes": 464,
+        "sha256": "82fef0dc1d80b63a03c82fcf3f22c699cd087ce39de4a30db14ed23e48109cb4"
+      },
+      "references/case-study/retro-electronic/historical-project.json": {
+        "bytes": 8668186,
+        "sha256": "2cda1e945a88a215c616b0de72bbe9ca83a06e066f0c81f3a79601bcdf6d5e4b"
+      },
+      "references/case-study/retro-electronic/instrument_map.csv": {
+        "bytes": 4781,
+        "sha256": "b67dcf1e8669822a1f413b59af6b52b92084ea5be88de95299a9ab0b6dd0d452"
+      },
+      "references/case-study/retro-electronic/licenses/Karoryfer_Shinyguitar_v1.002_LICENSE.txt": {
+        "bytes": 7167,
+        "sha256": "a19d58aaab15c4d0019e569d1c073d1b5286fdd37dbeee7a58a7d1ae76045ae1"
+      },
+      "references/case-study/retro-electronic/licenses/Karoryfer_Weresax_v1.003_LICENSE.txt": {
+        "bytes": 7167,
+        "sha256": "a19d58aaab15c4d0019e569d1c073d1b5286fdd37dbeee7a58a7d1ae76045ae1"
+      },
+      "references/case-study/retro-electronic/mix_report.json": {
+        "bytes": 407756,
+        "sha256": "4c874619db3f306aecefdb2966602263f41a5a61f8e792cb7142e0855a0c93a2"
+      },
+      "references/case-study/retro-electronic/notation_fidelity.json": {
+        "bytes": 1769,
+        "sha256": "0e20792cec857daa4cd4d36e0b73a2782723f9e3879aef4cb9714c37f58b057f"
+      },
+      "references/case-study/retro-electronic/render_report.json": {
+        "bytes": 58081,
+        "sha256": "cda6e43d4ab2139c78e5b51dff95b11aec5bb82640dcac4d85454d2be2c0784c"
+      },
+      "references/case-study/retro-electronic/score_validation.json": {
+        "bytes": 1624,
+        "sha256": "212f3e72f64a6b13dc62b8f99ca858cfd913253c1a2e4b52609505a5b8087acf"
+      },
+      "references/case-study/retro-electronic/validation_v12.json": {
+        "bytes": 1638,
+        "sha256": "d32af291b3fb78a65c7907f66a65141d6965805472c98da1473a8bb86ff2cd55"
+      },
+      "references/case-study/reviewed-source-route.json": {
+        "bytes": 18185,
+        "sha256": "36401030a6432a9b8eb13acdd54439328be65ca08be5ba8439b61cb25ddaa561"
+      },
+      "references/case-study/song_invariants.json": {
+        "bytes": 458,
+        "sha256": "e22a4c96696384523d8b8b0f807d42291cd17e55e02a1057bab6f6d15e5dbeac"
+      },
+      "references/case-study/versions.json": {
+        "bytes": 15667,
+        "sha256": "4b3509dd877b4c6cf1f2b3d9535c59f42cb769bb1970fc085c0abc6f20fecf13"
+      },
+      "references/case-study.md": {
+        "bytes": 5914,
+        "sha256": "481a58d597ef5a8080842f8614fcb349fa4fa838a028af50a07cda2f653bc260"
+      },
+      "references/dependencies.md": {
+        "bytes": 6157,
+        "sha256": "8d1bc705e7735ad836cd6357ae726f3a04824593948a06ee7b2c143bdf9d1c39"
+      },
+      "references/project-contract.md": {
+        "bytes": 7666,
+        "sha256": "b2c073faba44f89297cfb79c3ddb169044610dea87dab226e4291125567daa2f"
+      },
+      "references/render-mix-delivery.md": {
+        "bytes": 4013,
+        "sha256": "726abe0f1f3ffb5788f996656f8c9bfbf3434494c95478f3f0e59457c05272dd"
+      },
+      "references/source-analysis.md": {
+        "bytes": 2515,
+        "sha256": "bd610bea02148f8b7656a695dc9d805eee713107a2c3103ce57c8eaceb0084cf"
+      },
+      "references/validation.md": {
+        "bytes": 3087,
+        "sha256": "16242f2ccbbf306ed4e5295d797f9613b62315e75de0c92b08bcbae4cb5122ca"
+      },
+      "requirements-render.lock.txt": {
+        "bytes": 281,
+        "sha256": "80241284ea13ecdebe452508b50904da34fb2e494224c0f153f3fc1b7df13200"
+      },
+      "requirements-render.txt": {
+        "bytes": 213,
+        "sha256": "01fa12a798ac3724ad413f2f94e7ac222fe3d749a9c77cdcdf5f6367da4a8701"
+      },
+      "requirements-score.txt": {
+        "bytes": 149,
+        "sha256": "088e62a33e0af68b241b94859bceffd756a22746a2869bc062ebbbc91e77cec4"
+      },
+      "scripts/audio.py": {
+        "bytes": 8548,
+        "sha256": "50a7d589f70b6cf56d8af0a4cc92265fd1068e54e01e62ee9b3062d9ba681108"
+      },
+      "scripts/dsp.py": {
+        "bytes": 12060,
+        "sha256": "b86eac704e101c99b197ed82f450bdbee50dea16aae2e677def3d27c23473522"
+      },
+      "scripts/fx.py": {
+        "bytes": 9260,
+        "sha256": "a6da3ddc11c95c11020b52304c9cd5b2383a2b44343869148b681564e5f9c81a"
+      },
+      "scripts/lock.py": {
+        "bytes": 3482,
+        "sha256": "f58bef34c27c2ea0595692178bdd766b6eaad4678c2b1e423049dd885939ddb5"
+      },
+      "scripts/project.py": {
+        "bytes": 17585,
+        "sha256": "3083984100647c6d316eb2d8d8f0ec9dbe4e8e35b23a9804a0d5284d61f7beef"
+      },
+      "scripts/render.py": {
+        "bytes": 6245,
+        "sha256": "7a0b92186c91421934b1a34435b30e109762b314afd463a9cc0114218c58fd9b"
+      },
+      "scripts/sfizz_render.cpp": {
+        "bytes": 3773,
+        "sha256": "e26f82028d42585684db5924e3216cde3ca1631adcd152ecc3e4d6cd149bfa7f"
+      },
+      "scripts/voicing.py": {
+        "bytes": 2041,
+        "sha256": "7736b0284ef7a57a055021a90e0f2093a14011519b372c10bae0c1fb93ccdffb"
+      },
+      "tests/test_pipeline.py": {
+        "bytes": 14405,
+        "sha256": "a1e4762df9bd13cc867b3ca8b2914a9244361ec3919aa8b225340548e105f0e8"
+      }
+    }
+  }
+}

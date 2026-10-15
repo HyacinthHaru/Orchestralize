@@ -1,0 +1,11 @@
+[
+  "The full original source-separation invocation and exact downloaded separation-model weight identity were not recovered in this review.",
+  "Demucs/CREPE output assisted analysis; source_route.json contains manually curated corrections and score/audio evidence.",
+  "source_route.json and canonical snapshots are song-specific data, not a generic automatic transcription algorithm.",
+  "Existing render cache fingerprints do not fully include recursive SFZ/sample contents; the asset inventory added here hashes current payloads.",
+  "Native sfizz rendering is not asserted to be bit-identical across platforms or sampler random/round-robin state.",
+  "Some report merging and preview generation were executed as one-off orchestration calls rather than a persisted single pipeline command.",
+  "Current scripts retain historical-version and absolute-host-path dependencies.",
+  "Some mixes reuse prior processed stems; project.json alone does not encode their entire upstream processing history.",
+  "Numeric audio and MIDI/score tests are not a substitute for actual listening; user feedback supplied the aesthetic acceptance decisions."
+]

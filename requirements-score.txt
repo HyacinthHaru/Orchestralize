@@ -1,0 +1,6 @@
+# Optional historical score toolchain; not needed by the core helpers.
+music21==10.5.0
+verovio==6.3.0
+CairoSVG==2.9.1
+pypdf==6.20.1
+reportlab==5.0.1
